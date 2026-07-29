@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zzjhacn.github.io/zeldaTotk/sitemap.xml
