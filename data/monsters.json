@@ -1,0 +1,2090 @@
+[
+ {
+  "id": 93,
+  "name": "chuchu",
+  "name_zh": "丘丘",
+  "img": "assets/img/compendium/monsters/chuchu.png",
+  "description": "This low-level, gel-based monster can be found all over Hyrule. It tends to spring its attacks on unsuspecting prey from the ground or from trees. Its strength varies by size, and the type of jelly it drops varies depending on whether the Chuchu was heated up, cooled down, or shocked.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "drops": [
+   {
+    "name": "chuchu jelly",
+    "name_zh": "丘丘胶",
+    "img": "assets/img/compendium/materials/chuchu_jelly.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这款低级别的凝胶基怪物遍布Hyrule。它倾向于从地面或树上攻击毫无戒心的猎物。它的强度因大小而异，它掉落的果冻类型取决于楚楚是被加热、冷却还是电击。"
+ },
+ {
+  "id": 94,
+  "name": "fire chuchu",
+  "name_zh": "火丘丘",
+  "img": "assets/img/compendium/monsters/fire_chuchu.png",
+  "description": "This low-level gel monster is engulfed in flames. Its strength varies depending on its size. It tends to explode if attacked from close range, so the use of spears, arrows, and other ranged weapons is advised.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Eldin Mountains"
+  ],
+  "drops": [
+   {
+    "name": "red chuchu jelly",
+    "name_zh": "红色丘丘胶",
+    "img": "assets/img/compendium/materials/red_chuchu jelly.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这个低级凝胶怪物被火焰吞没。其强度因其尺寸而异。如果从近距离攻击，它往往会爆炸，因此建议使用长矛、箭和其他远程武器。"
+ },
+ {
+  "id": 95,
+  "name": "ice chuchu",
+  "name_zh": "冰丘丘",
+  "img": "assets/img/compendium/monsters/ice_chuchu.png",
+  "description": "This low-level gel monster is engulfed in freezing-cold air. Its strength varies depending on its size. It tends to explode if attacked from close range, so the use of spears, arrows, and other ranged weapons is advised.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "drops": [
+   {
+    "name": "white chuchu jelly",
+    "name_zh": "白色丘丘胶",
+    "img": "assets/img/compendium/materials/white_chuchu jelly.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这个低级凝胶怪物被冰冷的空气吞没了。其强度因其尺寸而异。如果从近距离攻击，它往往会爆炸，因此建议使用长矛、箭和其他远程武器。"
+ },
+ {
+  "id": 96,
+  "name": "electric chuchu",
+  "name_zh": "电丘丘",
+  "img": "assets/img/compendium/monsters/electric_chuchu.png",
+  "description": "This low-level gel monster is engulfed in electricity. Its strength varies depending on its size. It tends to explode if attacked from close range, so the use of spears, arrows, and other ranged weapons is advised.",
+  "common_locations": [
+   "Gerudo Desert",
+   "West Necluda"
+  ],
+  "drops": [
+   {
+    "name": "yellow chuchu jelly",
+    "name_zh": "黄色丘丘胶",
+    "img": "assets/img/compendium/materials/yellow_chuchu jelly.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这个低级别的凝胶怪物被电吞没了。其强度因其尺寸而异。如果从近距离攻击，它往往会爆炸，因此建议使用长矛、箭和其他远程武器。"
+ },
+ {
+  "id": 97,
+  "name": "keese",
+  "name_zh": "蝙蝠",
+  "img": "assets/img/compendium/monsters/keese.png",
+  "description": "The unpredictable flight pattern of this nocturnal, bat-like species can make fighting them a nuisance, but they're weak enough to fell with a single strike. Sometimes they like to form packs, and they have been seen swarming out of caves together.",
+  "common_locations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "drops": [
+   {
+    "name": "keese eyeball",
+    "name_zh": "蝙蝠的眼珠",
+    "img": "assets/img/compendium/materials/keese_eyeball.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种夜间飞行的蝙蝠般的物种的不可预测的飞行模式可能会使与它们的斗争变得令人讨厌，但它们足够虚弱，只需一击即可坠落。有时候，它们喜欢形成包裹，人们会看到它们从洞穴中蜂拥而出。"
+ },
+ {
+  "id": 98,
+  "name": "fire keese",
+  "name_zh": "火蝙蝠",
+  "img": "assets/img/compendium/monsters/fire_keese.png",
+  "description": "The fire that engulfs the bodies of these bat- like Keese makes them more dangerous than the standard type. They're capable of setting fire to anything they touch.",
+  "common_locations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "drops": [
+   {
+    "name": "fire keese eyeball",
+    "name_zh": "火蝙蝠的眼珠",
+    "img": "assets/img/compendium/materials/fire_keese eyeball.png",
+    "fuse_attack_power": 8,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "吞噬这些蝙蝠身体的火焰使它们比标准类型更危险。他们能够放火焚烧他们接触的任何东西。"
+ },
+ {
+  "id": 99,
+  "name": "ice keese",
+  "name_zh": "冰蝙蝠",
+  "img": "assets/img/compendium/monsters/ice_keese.png",
+  "description": "The intense frost that engulfs the bodies of these bat-like Keese makes them more dangerous than the standard type. They're capable of freezing anything they touch.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Mount Lanayru"
+  ],
+  "drops": [
+   {
+    "name": "ice keese eyeball",
+    "name_zh": "冰蝙蝠的眼珠",
+    "img": "assets/img/compendium/materials/ice_keese eyeball.png",
+    "fuse_attack_power": 4,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "吞噬这些蝙蝠基斯的身体的强烈霜冻使它们比标准类型更危险。它们能够冻结它们接触到的任何东西。"
+ },
+ {
+  "id": 100,
+  "name": "electric keese",
+  "name_zh": "电蝙蝠",
+  "img": "assets/img/compendium/monsters/electric_keese.png",
+  "description": "The electricity that engulfs the bodies of these bat-like Keese makes them more dangerous than the standard type. They're capable of shocking anything they touch.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "drops": [
+   {
+    "name": "electric keese eyeball",
+    "name_zh": "电蝙蝠的眼珠",
+    "img": "assets/img/compendium/materials/electric_keese eyeball.png",
+    "fuse_attack_power": 6,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "吞噬这些蝙蝠基斯的身体的电力使它们比标准类型更危险。他们能够震撼他们接触的任何东西。"
+ },
+ {
+  "id": 101,
+  "name": "water octorok",
+  "name_zh": "水八爪怪",
+  "img": "assets/img/compendium/monsters/water_octorok.png",
+  "description": "Although they spend most of their time in water, they burst out when they sense someone. The rocks they spit out can be bounced back with a shield.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "West Necluda"
+  ],
+  "drops": [],
+  "description_zh": "虽然他们大部分时间都在水中度过，但当他们感觉到某人时，他们会突然爆发。他们吐出的岩石可以用盾牌反弹回来。"
+ },
+ {
+  "id": 102,
+  "name": "forest octorok",
+  "name_zh": "森八爪怪",
+  "img": "assets/img/compendium/monsters/forest_octorok.png",
+  "description": "Although originally an aquatic species, this type has adapted to life in the forest. They hide among the trees, disguising themselves as grass or unassuming shrubbery, and then attack when someone wanders by.",
+  "common_locations": [
+   "Hyrule Ridge",
+   "Deep Akkala"
+  ],
+  "drops": [],
+  "description_zh": "虽然最初是一种水生物种，但这种类型已经适应了森林中的生活。他们躲在树丛中，把自己伪装成草地或不起眼的灌木丛，然后在有人徘徊时进行攻击。"
+ },
+ {
+  "id": 103,
+  "name": "rock octorok",
+  "name_zh": "岩八爪怪",
+  "img": "assets/img/compendium/monsters/rock_octorok.png",
+  "description": "This octopus-like species of monster lives in volcanic regions. When they inhale, they're preparing to spit out flaming rocks. Be aware of that powerful suction.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Death Mountain"
+  ],
+  "drops": [],
+  "description_zh": "这种类似章鱼的怪物生活在火山地区。当他们吸气时，他们正准备吐出燃烧的岩石。注意这种强大的吸力。"
+ },
+ {
+  "id": 104,
+  "name": "snow octorok",
+  "name_zh": "雪八爪怪",
+  "img": "assets/img/compendium/monsters/snow_octorok.png",
+  "description": "These octopus-like monsters live in snowy fields and disguise themselves as grass. When someone wanders by, they spring into action and attack by spitting snowballs.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "drops": [],
+  "description_zh": "这些像章鱼一样的怪物生活在雪地里，把自己伪装成草。当有人徘徊时，他们会立即采取行动，并通过吐雪球进行攻击。"
+ },
+ {
+  "id": 105,
+  "name": "treasure octorok",
+  "name_zh": "宝八爪怪",
+  "img": "assets/img/compendium/monsters/treasure_octorok.png",
+  "description": "These particularly clever monsters bury themselves in deep sand or snow and disguise themselves as treasure chests. Anyone who approaches the chests is attacked. It is said that the treasure chests on their heads are actually parts of these monsters' bodies.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Faron Grasslands"
+  ],
+  "drops": [],
+  "description_zh": "这些特别聪明的怪物把自己埋在深深的沙子或雪地里，伪装成宝箱。任何接近宝箱的人都会受到攻击。据说他们头上的宝箱实际上是这些怪物身体的一部分。"
+ },
+ {
+  "id": 106,
+  "name": "fire wizzrobe",
+  "name_zh": "火焰长袍魔法师",
+  "img": "assets/img/compendium/monsters/fire_wizzrobe.png",
+  "description": "These spell-casting monsters can be found all over Hyrule. They hurl fireballs, summon flaming monsters, and have been known to severely raise the temperature around them. The weather will normalize once the Wizzrobe is defeated.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "drops": [],
+  "description_zh": "这些施法怪物遍布海鲁尔。他们投掷火球，召唤燃烧的怪物，并且已知会严重升高周围的温度。一旦Wizzrobe被击败，天气就会正常化。"
+ },
+ {
+  "id": 107,
+  "name": "ice wizzrobe",
+  "name_zh": "冰雪长袍魔法师",
+  "img": "assets/img/compendium/monsters/ice_wizzrobe.png",
+  "description": "These spell-casting monsters can be found all over Hyrule. They create freezing blasts of air, summon frozen monsters, and have been known to cause blizzards to severely decrease the temperature around them. The weather will normalize once the Wizzrobe is defeated.",
+  "common_locations": [
+   "Tabantha Tundra",
+   "Hebra Mountains"
+  ],
+  "drops": [],
+  "description_zh": "这些施法怪物遍布海鲁尔。它们产生冰冻的空气冲击波，召唤冰冻的怪物，并且已知会导致暴风雪严重降低周围的温度。一旦Wizzrobe被击败，天气就会正常化。"
+ },
+ {
+  "id": 108,
+  "name": "electric wizzrobe",
+  "name_zh": "电击长袍魔法师",
+  "img": "assets/img/compendium/monsters/electric_wizzrobe.png",
+  "description": "These spell-casting monsters can be found all over Hyrule. They hurl balls of electricity, summon monsters surging with electricity, and have been known to cause thunderstorms in the area. The weather will normalize once the Wizzrobe is defeated.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "Tabantha Frontier"
+  ],
+  "drops": [],
+  "description_zh": "这些施法怪物遍布海鲁尔。他们投掷电球，召唤电涌的怪物，并且众所周知会在该地区引起雷暴。一旦Wizzrobe被击败，天气就会正常化。"
+ },
+ {
+  "id": 109,
+  "name": "meteo wizzrobe",
+  "name_zh": "陨石长袍魔法师",
+  "img": "assets/img/compendium/monsters/meteo_wizzrobe.png",
+  "description": "These spell-casting monsters can be found all over Hyrule. They hurl multiple fireballs, summon flaming monsters, and have been known to severely raise the temperature around them. They are more resilient than Fire Wizzrobes.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Akkala Highlands"
+  ],
+  "drops": [],
+  "description_zh": "这些施法怪物遍布海鲁尔。他们投掷多个火球，召唤燃烧的怪物，并已知会严重升高周围的温度。它们比Fire Wizzrobes更具弹性。"
+ },
+ {
+  "id": 110,
+  "name": "blizzrobe",
+  "name_zh": "冰冻长袍魔法师",
+  "img": "assets/img/compendium/monsters/blizzrobe.png",
+  "description": "These spell-casting monsters can be found all over Hyrule. They use staves to create freezing blasts of air or to summon frozen monsters and have been known to cause blizzards to severely decrease the temperature around them. They are more dangerous than Ice Wizzrobes.",
+  "common_locations": [
+   "Gerudo Highlands"
+  ],
+  "drops": [],
+  "description_zh": "这些施法怪物遍布海鲁尔。它们使用棍棒来制造冰冻的空气或召唤冰冻的怪物，并且已知会导致暴风雪严重降低周围的温度。它们比冰巫师更危险。"
+ },
+ {
+  "id": 111,
+  "name": "thunder wizzrobe",
+  "name_zh": "雷电长袍魔法师",
+  "img": "assets/img/compendium/monsters/thunder_wizzrobe.png",
+  "description": "These spell-casting monsters can be found all over Hyrule. They hurl multiple balls of electricity, summon monsters surging with electricity, and have been known to cause thunderstorms in the area. They are more resilient and dangerous than Electric Wizzrobes.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "East Necluda"
+  ],
+  "drops": [],
+  "description_zh": "这些施法怪物遍布海鲁尔。他们投掷多个电球，召唤电涌的怪物，并且众所周知会在该地区引起雷暴。它们比电动Wizzrobes更具弹性和危险性。"
+ },
+ {
+  "id": 112,
+  "name": "like like",
+  "name_zh": "莱克莱克",
+  "img": "assets/img/compendium/monsters/like_like.png",
+  "description": "A monster that has been appearing all over Hyrule in recent days. Found dwelling in caves and other dark places. It has an appetite for swords and shields. If you get too close, it may lunge at you with its mouth wide, swallow you whole, and eat your equipment. The tongue in the center of its mouth is very sensitive. Attack it to make the creature falter.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "drops": [],
+  "description_zh": "最近几天在海鲁尔到处出现的怪物。住在洞穴和其他黑暗的地方。它对剑和盾有胃口。如果你靠得太近，它可能会张大嘴巴扑向你，把你整个吞下去，然后吃掉你的装备。口腔中心的舌头非常敏感。攻击它，使生物步履蹒跚。"
+ },
+ {
+  "id": 113,
+  "name": "fire like",
+  "name_zh": "火焰莱克",
+  "img": "assets/img/compendium/monsters/fire_like.png",
+  "description": "These monsters live mostly in caves near volcanoes. They belch scorching fire out of their maws. There are still many mysteries about them, but it seems they don't do well in the cold. Don't get too close, or they'll gulp you up into their large gullets and give you an all- too-close look at their insides.",
+  "common_locations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "drops": [],
+  "description_zh": "这些怪物主要生活在火山附近的洞穴里。他们从喉咙里喷出灼热的火焰。它们仍然有很多神秘之处，但似乎它们在寒冷中表现不佳。不要靠得太近，否则他们会把你塞进他们的大食道里，让你过于近距离地观察它们的内部。"
+ },
+ {
+  "id": 114,
+  "name": "ice like",
+  "name_zh": "冰雪莱克",
+  "img": "assets/img/compendium/monsters/ice_like.png",
+  "description": "These monsters live mostly in caves in snowy areas. They belch freezing cold air out of their maws. There are still many mysteries about them, but it seems they don't do well with fire. Don't get too close, or they'll gulp you up into their large gullets and give you an all- too-close look at their insides.",
+  "common_locations": [
+   "Mount Lanayru",
+   "Gerudo Highlands"
+  ],
+  "drops": [],
+  "description_zh": "这些怪物主要生活在白雪皑皑地区的洞穴里。他们从喉咙里吐出冰冷的空气。他们仍然有很多神秘之处，但似乎他们对火不太好。不要靠得太近，否则他们会把你塞进他们的大食道里，让你过于近距离地观察它们的内部。"
+ },
+ {
+  "id": 115,
+  "name": "shock like",
+  "name_zh": "电击莱克",
+  "img": "assets/img/compendium/monsters/shock_like.png",
+  "description": "These monsters can be found all over Hyrule in dark places such as caves. They generate electricity inside their bodies and expel powerful lightning balls from their mouths. It's believed that they stun their prey this way, but there are still many unknowns about them.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "drops": [],
+  "description_zh": "这些怪物可以在洞穴等黑暗的地方到处找到。它们在体内发电，并从嘴里排出强大的闪电球。据信他们以这种方式眩晕猎物，但他们仍然有很多未知数。"
+ },
+ {
+  "id": 116,
+  "name": "rock like",
+  "name_zh": "岩石莱克",
+  "img": "assets/img/compendium/monsters/rock_like.png",
+  "description": "These monsters can be found all over Hyrule in dark places such as caves. They're covered in rocks that shield them like armor. They try to intimidate you by spitting rocks out of their mouths, but they can be quieted when they have swallowed something.",
+  "common_locations": [
+   "Eldin Mountains",
+   "Lanayru Wetlands"
+  ],
+  "drops": [],
+  "description_zh": "这些怪物可以在洞穴等黑暗的地方到处找到。它们被岩石覆盖，像盔甲一样保护着它们。他们试图通过从嘴里吐出石头来恐吓你，但当他们吞下某些东西时，他们可以安静下来。"
+ },
+ {
+  "id": 117,
+  "name": "evermean",
+  "name_zh": "巨霸柏古",
+  "img": "assets/img/compendium/monsters/evermean.png",
+  "description": "A monster that mimics a tree, found throughout the forests of Hyrule. These impostors are hard to differentiate from the genuine article, making it easy for them to team up and pounce on unsuspecting passersby. Because the species shares characteristics with trees, it can be chopped down in much the same way.",
+  "common_locations": [
+   "Great Hyrule Forest",
+   "Hyrule Field"
+  ],
+  "drops": [],
+  "description_zh": "一种模仿树木的怪物，遍布海鲁尔的森林。这些冒名顶替者很难与正版文章区分开来，这使得他们很容易联手攻击毫无戒心的路人。由于该物种与树木具有共同的特征，因此它可以以相同的方式被砍伐。"
+ },
+ {
+  "id": 118,
+  "name": "aerocuda",
+  "name_zh": "卡库达",
+  "img": "assets/img/compendium/monsters/aerocuda.png",
+  "description": "An airborne monster that can be recognized by its distinctive cries. They have strong, dexterous feet and can often be seen cruising through the sky with animals or other monsters in their clutches. Thankfully, the breed's lightweight, aerodynamic body makes it easy to shoot down.",
+  "common_locations": [
+   "Greater Hyrule"
+  ],
+  "drops": [
+   {
+    "name": "aerocuda eyeball",
+    "name_zh": "卡库达的眼珠",
+    "img": "assets/img/compendium/materials/aerocuda_eyeball.png",
+    "fuse_attack_power": 4,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "一种可以通过其独特的哭声识别的空中怪物。它们的脚很强壮，很灵巧，经常可以看到它们与动物或其他怪物一起在天空中巡航。值得庆幸的是，该品种轻巧的空气动力学车身使其易于击落。"
+ },
+ {
+  "id": 119,
+  "name": "gibdo",
+  "name_zh": "吉波得",
+  "img": "assets/img/compendium/monsters/gibdo.png",
+  "description": "A monster that appeared along with the sand shroud. Though slow to move, they can fight without faltering to physical attacks thanks to their tough outer skin. On the other hand, they are vulnerable to fire and lightning, which can turn them white and brittle.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "drops": [
+   {
+    "name": "gibdo bone",
+    "name_zh": "吉波得之骨",
+    "img": "assets/img/compendium/materials/gibdo_bone.png",
+    "fuse_attack_power": 40,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "一只怪物跟着沙尘裹尸布一起出现。虽然移动缓慢，但由于其坚韧的外层皮肤，它们可以不动摇地进行物理攻击。另一方面，它们容易受到火灾和闪电的影响，这会使它们变白变脆。"
+ },
+ {
+  "id": 120,
+  "name": "moth gibdo",
+  "name_zh": "魔斯吉波得",
+  "img": "assets/img/compendium/monsters/moth_gibdo.png",
+  "description": "These monsters appeared along with the sand shroud. Winged horrors that attack quickly while in flight, they have tough skin that allows them to withstand physical attacks. Fire and lightning are effective against them.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "drops": [
+   {
+    "name": "gibdo bone",
+    "name_zh": "吉波得之骨",
+    "img": "assets/img/compendium/materials/gibdo_bone.png",
+    "fuse_attack_power": 40,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些怪物跟着沙尘裹尸布一起出现。翅膀恐怖，在飞行中攻击迅速，他们有坚硬的皮肤，使他们能够承受物理攻击。火焰和闪电对他们有效。"
+ },
+ {
+  "id": 121,
+  "name": "bokoblin",
+  "name_zh": "波克布林",
+  "img": "assets/img/compendium/monsters/bokoblin.png",
+  "description": "This common species is a nuisance all over Hyrule. While not very clever, they are at least intelligent enough to hunt beasts and grill the meat for food. They are sometimes seen marching in groups. If they come at you, watch out for their sharp horns!",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "drops": [
+   {
+    "name": "bokoblin horn",
+    "name_zh": "波克布林的犄角",
+    "img": "assets/img/compendium/materials/bokoblin_horn.png",
+    "fuse_attack_power": 4,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种常见的物种在Hyrule到处都是令人讨厌的东西。虽然不是很聪明，但它们至少足够聪明，可以猎杀野兽并烧烤肉类作为食物。有时会看到他们成群结队地行进。如果他们来找你，小心他们的尖角！"
+ },
+ {
+  "id": 122,
+  "name": "blue bokoblin",
+  "name_zh": "蓝色波克布林",
+  "img": "assets/img/compendium/monsters/blue_bokoblin.png",
+  "description": "This common species is a nuisance all over Hyrule. They're tougher than the red Bokoblins—and their horns are sharper, so watch out!",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "drops": [
+   {
+    "name": "blue bokoblin horn",
+    "name_zh": "蓝色波克布林的犄角",
+    "img": "assets/img/compendium/materials/blue_bokoblin horn.png",
+    "fuse_attack_power": 7,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种常见的物种在Hyrule到处都是令人讨厌的东西。它们比红色的Bokoblins更强壮，而且它们的角更锋利，所以要小心！"
+ },
+ {
+  "id": 123,
+  "name": "black bokoblin",
+  "name_zh": "黑色波克布林",
+  "img": "assets/img/compendium/monsters/black_bokoblin.png",
+  "description": "Although Bokoblins are generally a nuisance, the Black Bokoblins are among the most dangerous type. They're extremely resilient and powerful, especially when it comes to their forceful attacks with their hefty horns.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Hyrule Ridge Depths"
+  ],
+  "drops": [
+   {
+    "name": "black bokoblin horn",
+    "name_zh": "黑色波克布林的犄角",
+    "img": "assets/img/compendium/materials/black_bokoblin horn.png",
+    "fuse_attack_power": 17,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "虽然Bokoblins通常令人讨厌，但黑Bokoblins是最危险的类型之一。他们非常有弹性和强大，特别是当他们用高大的角进行强有力的攻击时。"
+ },
+ {
+  "id": 124,
+  "name": "stalkoblin",
+  "name_zh": "骷髅波克布林",
+  "img": "assets/img/compendium/monsters/stalkoblin.png",
+  "description": "These remains of Bokoblins hate light and only move about in the dark. While they're fragile enough to crumble from a single blow, they have sharp horns. And as long as a skull remains intact, they'll continue to pull themselves back together and go on fighting.",
+  "common_locations": [
+   "Great Hyrule Forest",
+   "Gerudo Desert Depths"
+  ],
+  "drops": [
+   {
+    "name": "bokoblin horn",
+    "name_zh": "波克布林的犄角",
+    "img": "assets/img/compendium/materials/bokoblin_horn.png",
+    "fuse_attack_power": 4,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些博科布林的残骸讨厌光线，只能在黑暗中移动。虽然它们很脆弱，一击就崩溃，但它们有锋利的角。只要头骨完好无损，他们就会继续振作起来，继续战斗。"
+ },
+ {
+  "id": 125,
+  "name": "silver bokoblin",
+  "name_zh": "白银波克布林",
+  "img": "assets/img/compendium/monsters/silver_bokoblin.png",
+  "description": "You would be foolish to call these Silver Bokoblins a mere nuisance. They have been influenced by Ganon's fiendish magic, so they are stronger than even the Black Bokoblins. It's said that the Demon King's power marked their silver bodies with purple patterns. The magical glow at the tip of their horns may look funny at a glance, but don't take these creatures lightly, or the joke will be on you.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "silver bokoblin horn",
+    "name_zh": "白银波克布林的犄角",
+    "img": "assets/img/compendium/materials/silver_bokoblin horn.png",
+    "fuse_attack_power": 31,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "你把这些银色的博科布林称作仅仅是讨厌的东西是愚蠢的。他们受到了加农的恶魔魔法的影响，所以他们甚至比黑魔头还要强大。据说，妖王的力量给他们的银色身躯打上了紫色图案的印记。他们角尖的神奇光芒一眼看上去可能很有趣，但不要轻视这些生物，否则就会开玩笑。"
+ },
+ {
+  "id": 126,
+  "name": "boss bokoblin",
+  "name_zh": "首领波克布林",
+  "img": "assets/img/compendium/monsters/boss_bokoblin.png",
+  "description": "These heavyweight monsters are leaders of Bokoblins. They swagger about, whistling commands to the teams of minions nervously trailing them. Their heavy horns are so sharp, they can slice large trees clean in half.",
+  "common_locations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "drops": [
+   {
+    "name": "boss bokoblin horn",
+    "name_zh": "首领波克布林的犄角",
+    "img": "assets/img/compendium/materials/boss_bokoblin horn.png",
+    "fuse_attack_power": 10,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些重量级怪物是博科布林的领袖。他们大摇大摆地走来走去，紧张地向跟在他们后面的手下队伍发出口哨命令。它们的角很锋利，可以把大树切成两半。"
+ },
+ {
+  "id": 127,
+  "name": "blue boss bokoblin",
+  "name_zh": "蓝色首领波克布林",
+  "img": "assets/img/compendium/monsters/blue_boss_bokoblin.png",
+  "description": "These heavyweight monsters are leaders of Bokoblins. They've got more stamina than the red variety, and they execute powerful punches and weapon attacks. The horns on their heads are sharper too.",
+  "common_locations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "drops": [
+   {
+    "name": "blue boss bokoblin horn",
+    "name_zh": "蓝色首领波克布林的犄角",
+    "img": "assets/img/compendium/materials/blue_boss bokoblin horn.png",
+    "fuse_attack_power": 16,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些重量级怪物是博科布林的领袖。他们比红色品种有更多的耐力，他们执行强大的拳击和武器攻击。他们头上的角也更锋利。"
+ },
+ {
+  "id": 128,
+  "name": "black boss bokoblin",
+  "name_zh": "黑色首领波克布林",
+  "img": "assets/img/compendium/monsters/black_boss_bokoblin.png",
+  "description": "These heavyweight monsters are leaders of Bokoblins, and this variety has very high stamina thanks to their large muscles. Even skilled warriors will find them challenging due to their coordinated attacks involving minions. And those horns are just pure evil.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "drops": [
+   {
+    "name": "black boss bokoblin horn",
+    "name_zh": "黑色首领波克布林的犄角",
+    "img": "assets/img/compendium/materials/black_boss bokoblin horn.png",
+    "fuse_attack_power": 27,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些重量级怪物是Bokoblins的领导者，这种品种由于其庞大的肌肉而具有非常高的耐力。即使是熟练的战士也会发现他们具有挑战性，因为他们的协调攻击涉及小兵。而那些角只是纯粹的邪恶。"
+ },
+ {
+  "id": 129,
+  "name": "silver boss bokoblin",
+  "name_zh": "白银首领波克布林",
+  "img": "assets/img/compendium/monsters/silver_boss_bokoblin.png",
+  "description": "The mightiest of all Boss Bokoblins. It's a wonder that they're related at all to the lowly, garden-variety Bokoblin. The evil power of the Demon King dwells in their bodies and horns, enabling formidable attacks. And watch out for the elite minions that hang around them too.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "silver boss bokoblin horn",
+    "name_zh": "白银首领波克布林的犄角",
+    "img": "assets/img/compendium/materials/silver_boss bokoblin horn.png",
+    "fuse_attack_power": 37,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "所有Boss Bokoblins中最强大的。令人惊讶的是，它们与卑微的花园品种Bokoblin有着千丝万缕的联系。魔王的邪恶力量驻留在他们的身体和角中，使他们能够进行强大的攻击。还要注意周围的精英爪牙。"
+ },
+ {
+  "id": 130,
+  "name": "moblin",
+  "name_zh": "莫力布林",
+  "img": "assets/img/compendium/monsters/moblin.png",
+  "description": "This heavyweight species of monster can be found all over Hyrule. They're physically very strong, with a horn hard enough to crush a rock. With their incredibly powerful arms, Moblins have been known to pick up Bokoblins and throw them as makeshift projectile weapons.",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "drops": [
+   {
+    "name": "moblin horn",
+    "name_zh": "莫力布林的犄角",
+    "img": "assets/img/compendium/materials/moblin_horn.png",
+    "fuse_attack_power": 6,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种重量级怪物遍布海鲁尔。它们的身体非常强壮，角硬到足以压碎岩石。凭借其令人难以置信的强大武器，众所周知， Moblins会拿起Bokoblins并将其作为临时抛射武器投掷。"
+ },
+ {
+  "id": 131,
+  "name": "blue moblin",
+  "name_zh": "蓝色莫力布林",
+  "img": "assets/img/compendium/monsters/blue_moblin.png",
+  "description": "These heavyweight monsters can be found all over Hyrule. They're much tougher than their standard counterparts, with more powerful arms and a fully developed horn on their heads to smash things with.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "drops": [
+   {
+    "name": "blue moblin horn",
+    "name_zh": "蓝色莫力布林的犄角",
+    "img": "assets/img/compendium/materials/blue_moblin horn.png",
+    "fuse_attack_power": 13,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些重量级怪物遍布海鲁尔。它们比标准同类要坚韧得多，拥有更强大的手臂和头上完全发达的喇叭来粉碎东西。"
+ },
+ {
+  "id": 132,
+  "name": "black moblin",
+  "name_zh": "黑色莫力布林",
+  "img": "assets/img/compendium/monsters/black_moblin.png",
+  "description": "These heavyweight monsters can be found all over Hyrule and are among the most dangerous types of Moblin. They're extremely resilient, and a blow from the heavy horn can easily crush a rock.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Deep Akkala"
+  ],
+  "drops": [
+   {
+    "name": "black moblin horn",
+    "name_zh": "黑色莫力布林的犄角",
+    "img": "assets/img/compendium/materials/black_moblin horn.png",
+    "fuse_attack_power": 24,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些重量级怪物遍布Hyrule ，是最危险的Moblin类型之一。它们具有极强的弹性，重角的打击很容易压碎岩石。"
+ },
+ {
+  "id": 133,
+  "name": "stalmoblin",
+  "name_zh": "骷髅莫力布林",
+  "img": "assets/img/compendium/monsters/stalmoblin.png",
+  "description": "The remains of Moblins appear in the dark. Even the toughest Moblins become fragile when they're little more than a pile of bones, so they'll crumble after just a few attacks. However, as long as a skull remains intact, they'll continue to pull themselves back together and go on fighting. They have hard, heavy horns, and they hate strong light.",
+  "common_locations": [
+   "Great Hyrule Forest",
+   "Deep Akkala Depths"
+  ],
+  "drops": [
+   {
+    "name": "moblin horn",
+    "name_zh": "莫力布林的犄角",
+    "img": "assets/img/compendium/materials/moblin_horn.png",
+    "fuse_attack_power": 6,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "Moblins的残骸出现在黑暗中。即使是最强壮的Moblins也会在一堆骨头的时候变得脆弱，所以他们会在几次攻击后崩溃。但是，只要头骨完好无损，他们就会继续振作起来，继续战斗。他们有坚硬而沉重的角，他们讨厌强光。"
+ },
+ {
+  "id": 134,
+  "name": "silver moblin",
+  "name_zh": "白银莫力布林",
+  "img": "assets/img/compendium/monsters/silver_moblin.png",
+  "description": "The Demon King's fiendish magic has imbued Silver Moblins with the greatest power and resilience of all the Moblins. They're called \"silver\" for their body color as well as their rarity. The purple patterns on their bodies also help them to stand out. The ominous-looking horn has the potential for a powerful attack.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "silver moblin horn",
+    "name_zh": "白银莫力布林的犄角",
+    "img": "assets/img/compendium/materials/silver_moblin horn.png",
+    "fuse_attack_power": 33,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "魔王的恶魔魔法赋予了银怪最强大的力量和韧性。它们因其体色和稀有度而被称为“银色”。他们身体上的紫色图案也有助于他们脱颖而出。不祥之角有可能发动强大的攻击。"
+ },
+ {
+  "id": 135,
+  "name": "lizalfos",
+  "name_zh": "蜥蜴战士",
+  "img": "assets/img/compendium/monsters/lizalfos.png",
+  "description": "These quick-witted, lizard-like monsters can be found all over Hyrule. They're a sly species that lurk underwater or use camouflage to blend in with the environment to launch ambushes. Moreover, they never sleep. And even when they have no weapons, they'll come at you swinging their sword-like horn.",
+  "common_locations": [
+   "Lanayru Wetlands",
+   "Lanayru Great Spring"
+  ],
+  "drops": [
+   {
+    "name": "lizalfos horn",
+    "name_zh": "蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/lizalfos_horn.png",
+    "fuse_attack_power": 8,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些机智、蜥蜴般的怪物遍布海鲁尔。它们是一种狡猾的物种，潜伏在水下或使用伪装与环境融为一体，发动伏击。而且，他们从不睡觉。就算没有武器，他们也会挥舞着剑般的号角，向你扑来。"
+ },
+ {
+  "id": 136,
+  "name": "blue lizalfos",
+  "name_zh": "蓝色蜥蜴战士",
+  "img": "assets/img/compendium/monsters/blue_lizalfos.png",
+  "description": "These quick-witted, lizard-like monsters can be found all over Hyrule. Compared to the green Lizalfos, many of these carry much stronger weapons and are extremely dangerous with their longer and sharper horn.",
+  "common_locations": [
+   "Mount Lanayru",
+   "Akkala Highlands"
+  ],
+  "drops": [
+   {
+    "name": "blue lizalfos horn",
+    "name_zh": "蓝色蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/blue_lizalfos horn.png",
+    "fuse_attack_power": 16,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些机智、蜥蜴般的怪物遍布海鲁尔。与绿色的Lizalfos相比，其中许多都携带了更强大的武器，并且它们的喇叭更长、更锋利，非常危险。"
+ },
+ {
+  "id": 137,
+  "name": "black lizalfos",
+  "name_zh": "黑色蜥蜴战士",
+  "img": "assets/img/compendium/monsters/black_lizalfos.png",
+  "description": "A quick-witted, lizard-like species of monster found all over Hyrule. Their sharpened horn cuts like a knife, so be cautious even if they're not carrying a weapon. They are among the most dangerous Lizalfos, with high stamina.",
+  "common_locations": [
+   "Gerudo Desert",
+   "East Necluda"
+  ],
+  "drops": [
+   {
+    "name": "black lizalfos horn",
+    "name_zh": "黑色蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/black_lizalfos horn.png",
+    "fuse_attack_power": 26,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "海鲁尔到处发现了一种机智敏捷的蜥蜴状怪物。他们锋利的喇叭像刀子一样切割，所以即使他们没有携带武器，也要小心。它们是最危险的Lizalfos之一，具有很高的耐力。"
+ },
+ {
+  "id": 138,
+  "name": "stalizalfos",
+  "name_zh": "骷髅蜥蜴战士",
+  "img": "assets/img/compendium/monsters/stalizalfos.png",
+  "description": "The remains of Lizalfos appear in the dark. They're as sly as ever—even now that they're just some bones stacked atop each other—and still possess blade-like sharp horns. If a skull remains intact, they will pull themselves back up and continue to fight.",
+  "common_locations": [
+   "Lanayru Wetlands",
+   "Lanayru Great Spring"
+  ],
+  "drops": [
+   {
+    "name": "lizalfos horn",
+    "name_zh": "蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/lizalfos_horn.png",
+    "fuse_attack_power": 8,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "Lizalfos的遗骸出现在黑暗中。他们一如既往地狡猾--即使现在他们只是一些堆叠在一起的骨头--仍然拥有像刀刃一样锋利的角。如果头骨完好无损，他们会把自己拉起来继续战斗。"
+ },
+ {
+  "id": 139,
+  "name": "fire-breath lizalfos",
+  "name_zh": "喷火蜥蜴战士",
+  "img": "assets/img/compendium/monsters/fire-breath_lizalfos.png",
+  "description": "These quick-witted, lizard-like monsters can be found all over Hyrule. Their fiery breath makes them pretty dangerous, but exposure to cold will kill them instantly. The lava-like horn retains extreme heat and burns anything that touches it. They mainly live in volcanic regions.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "drops": [
+   {
+    "name": "fire-breath lizalfos horn",
+    "name_zh": "喷火蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/fire-breath_lizalfos horn.png",
+    "fuse_attack_power": 15,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些机智、蜥蜴般的怪物遍布海鲁尔。他们火热的呼吸使他们非常危险，但暴露在寒冷中会立即杀死他们。熔岩状的喇叭保持极端的热量，并燃烧任何接触它的东西。它们主要生活在火山地区。"
+ },
+ {
+  "id": 140,
+  "name": "ice-breath lizalfos",
+  "name_zh": "吐雹蜥蜴战士",
+  "img": "assets/img/compendium/monsters/ice-breath_lizalfos.png",
+  "description": "A quick-witted, lizard-like species of monster found all over Hyrule. They are a troublesome species that spit balls of ice and store freezing power inside their pale horns, but will die instantly if touched by fire. They live mainly on snowy mountains.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "drops": [
+   {
+    "name": "ice-breath lizalfos horn",
+    "name_zh": "吐雹蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/ice-breath_lizalfos horn.png",
+    "fuse_attack_power": 15,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "海鲁尔到处发现了一种机智敏捷的蜥蜴状怪物。它们是一种麻烦的物种，会吐出冰球，并将冰冻的力量储存在苍白的角中，但如果被火触及，它们会立即死亡。他们主要生活在白雪皑皑的山上。"
+ },
+ {
+  "id": 141,
+  "name": "electric lizalfos",
+  "name_zh": "电麻蜥蜴战士",
+  "img": "assets/img/compendium/monsters/electric_lizalfos.png",
+  "description": "These quick-witted, lizard-like monsters can be found all over Hyrule. They can emit strong electrical currents from their bodies, so don't get too close. Their horns are brimming with electricity, which will discharge and arc to nearby areas if struck by an arrow. They live in desert climates.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Faron"
+  ],
+  "drops": [
+   {
+    "name": "electric lizalfos horn",
+    "name_zh": "电麻蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/electric_lizalfos horn.png",
+    "fuse_attack_power": 15,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些机智、蜥蜴般的怪物遍布海鲁尔。它们可以从身体发出强大的电流，所以不要靠得太近。它们的角充满了电，如果被箭击中，它们会放电并弧形到附近的区域。他们生活在沙漠气候中。"
+ },
+ {
+  "id": 142,
+  "name": "silver lizalfos",
+  "name_zh": "白银蜥蜴战士",
+  "img": "assets/img/compendium/monsters/silver_lizalfos.png",
+  "description": "These Lizalfos have been influenced by the Demon King's fiendish magic to become the mightiest of all Lizalfos. They're called \"silver\" for their unique coloring and also to denote their rarity. Their horns, turned ominous by the Demon King's influence, can cut anything with the slightest touch.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "silver lizalfos horn",
+    "name_zh": "白银蜥蜴战士的犄角",
+    "img": "assets/img/compendium/materials/silver_lizalfos horn.png",
+    "fuse_attack_power": 34,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些Lizalfos受到魔王恶魔魔法的影响，成为所有Lizalfos中最强大的。它们因其独特的颜色和稀有性而被称为“银色”。他们的号角，被魔王的势力逼得一塌糊涂，一丝一毫都能割破。"
+ },
+ {
+  "id": 143,
+  "name": "horriblin",
+  "name_zh": "霍拉布林",
+  "img": "assets/img/compendium/monsters/horriblin.png",
+  "description": "After the Upheaval, these monsters began appearing in Hyrule's cave systems. They have sturdy horns that are perfect for crushing rocks and strong muscles that allow them to traverse cave walls and ceilings as easily as if they were walking on the ground. They often hang from ceilings, waiting for prey.",
+  "common_locations": [
+   "Hyrule Caves",
+   "Eldin Canyon Depths"
+  ],
+  "drops": [
+   {
+    "name": "horriblin horn",
+    "name_zh": "霍拉布林的犄角",
+    "img": "assets/img/compendium/materials/horriblin_horn.png",
+    "fuse_attack_power": 5,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "动荡之后，这些怪物开始出现在海鲁尔的洞穴系统中。它们有坚固的角，非常适合压碎岩石和强壮的肌肉，使它们能够像在地面上行走一样轻松地穿过洞穴的墙壁和天花板。它们经常悬挂在天花板上，等待猎物。"
+ },
+ {
+  "id": 144,
+  "name": "blue horriblin",
+  "name_zh": "蓝色霍拉布林",
+  "img": "assets/img/compendium/monsters/blue_horriblin.png",
+  "description": "After the Upheaval, these monsters began appearing in Hyrule's cave systems. Compared to the red variety, they have more stamina and more developed limbs, enabling them to hurl large rocks with ease.",
+  "common_locations": [
+   "Hyrule Caves",
+   "Death Mountain Depths"
+  ],
+  "drops": [
+   {
+    "name": "blue horriblin horn",
+    "name_zh": "蓝色霍拉布林的犄角",
+    "img": "assets/img/compendium/materials/blue_horriblin horn.png",
+    "fuse_attack_power": 11,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "动荡之后，这些怪物开始出现在海鲁尔的洞穴系统中。与红色品种相比，它们具有更强的耐力和更发达的四肢，使它们能够轻松投掷大石头。"
+ },
+ {
+  "id": 145,
+  "name": "black horriblin",
+  "name_zh": "黑色霍拉布林",
+  "img": "assets/img/compendium/monsters/black_horriblin.png",
+  "description": "After the Upheaval, these monsters began appearing in Hyrule's cave systems. Because of the inordinate amount of time they spend moving along cave walls and ceilings, they have developed great strength in their mighty arms. This variety poses a huge threat to even the most experienced adventurers.",
+  "common_locations": [
+   "Hyrule Caves",
+   "Gerudo Desert Depths"
+  ],
+  "drops": [
+   {
+    "name": "black horriblin horn",
+    "name_zh": "黑色霍拉布林的犄角",
+    "img": "assets/img/compendium/materials/black_horriblin horn.png",
+    "fuse_attack_power": 22,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "horriblin horn",
+    "name_zh": "霍拉布林的犄角",
+    "img": "assets/img/compendium/materials/horriblin_horn.png",
+    "fuse_attack_power": 5,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "动荡之后，这些怪物开始出现在海鲁尔的洞穴系统中。由于他们沿着洞穴墙壁和天花板移动的时间过长，他们在强大的手臂中发展了巨大的力量。即使是最有经验的冒险家，这种品种也构成了巨大的威胁。"
+ },
+ {
+  "id": 146,
+  "name": "silver horriblin",
+  "name_zh": "白银霍拉布林",
+  "img": "assets/img/compendium/monsters/silver_horriblin.png",
+  "description": "The mightiest of the cave masters. The purple markings on their bodies are due to the overwhelming magic power of the Demon King. Their tough bodies and horns have been strengthened beyond the levels seen in their lesser relatives, making these monsters more dangerous than others of their ilk.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "silver horriblin horn",
+    "name_zh": "白银霍拉布林的犄角",
+    "img": "assets/img/compendium/materials/silver_horriblin horn.png",
+    "fuse_attack_power": 5,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "最强大的洞主。他们身上的紫色印记，是魔王压倒一切的魔力所致。他们坚韧的身体和角都得到了加强，超过了他们较小的亲戚的水平，使这些怪物比其他同类更危险。"
+ },
+ {
+  "id": 147,
+  "name": "lynel",
+  "name_zh": "莱尼尔",
+  "img": "assets/img/compendium/monsters/lynel.png",
+  "description": "These fearsome monsters have lived in Hyrule since ancient times. They possess intense intelligence and resilience, as well as a piercing horn, making them among the most dangerous monsters in all the land. This is compounded by their natural resistance to all elements. Only challenge a Lynel if you're very well prepared.",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "drops": [
+   {
+    "name": "lynel saber horn",
+    "name_zh": "莱尼尔的刃角",
+    "img": "assets/img/compendium/materials/lynel_saber horn.png",
+    "fuse_attack_power": 22,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "lynel mace horn",
+    "name_zh": "莱尼尔的碎角",
+    "img": "assets/img/compendium/materials/lynel_mace horn.png",
+    "fuse_attack_power": 18,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些可怕的怪物自古以来就生活在海鲁尔。他们拥有强大的智慧和韧性，以及刺耳的角，使他们成为所有土地上最危险的怪物之一。它们对所有元素的天然抵抗力加剧了这一点。只有在你做好充分准备的情况下，才能挑战Lynel。"
+ },
+ {
+  "id": 148,
+  "name": "blue-maned lynel",
+  "name_zh": "蓝鬃莱尼尔",
+  "img": "assets/img/compendium/monsters/blue-maned_lynel.png",
+  "description": "These fearsome monsters have lived in Hyrule since ancient times. Compared to the standard Lynel, those with blue manes are much tougher, with much sharper horns. Facing off against a Lynel is ill-advised, but if you must, be sure you're very well prepared.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "Eldin Canyon Depths"
+  ],
+  "drops": [
+   {
+    "name": "blue-maned lynel saber horn",
+    "name_zh": "蓝鬃莱尼尔的刃角",
+    "img": "assets/img/compendium/materials/blue-maned_lynel saber horn.png",
+    "fuse_attack_power": 33,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "blue-maned lynel mace horn",
+    "name_zh": "蓝鬃莱尼尔的碎角",
+    "img": "assets/img/compendium/materials/blue-maned_lynel mace horn.png",
+    "fuse_attack_power": 29,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些可怕的怪物自古以来就生活在海鲁尔。与标准的Lynel相比，蓝鬃毛更坚韧，角更锋利。面对Lynel是不明智的，但如果必须的话，请确保您做好了充分的准备。"
+ },
+ {
+  "id": 149,
+  "name": "white-maned lynel",
+  "name_zh": "白鬃莱尼尔",
+  "img": "assets/img/compendium/monsters/white-maned_lynel.png",
+  "description": "These hooved monsters are said to have lived all over Hyrule since ancient times and are known to be especially dangerous. They are extremely intelligent and resilient and bear very powerful horns. There is very little eyewitness information, because few who encounter them return alive.",
+  "common_locations": [
+   "Faron Grasslands Depths",
+   "Central Hyrule Depths"
+  ],
+  "drops": [
+   {
+    "name": "white-maned lynel mace horn",
+    "name_zh": "白鬃莱尼尔的碎角",
+    "img": "assets/img/compendium/materials/white-maned_lynel mace horn.png",
+    "fuse_attack_power": 40,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "white-maned lynel saber horn",
+    "name_zh": "白鬃莱尼尔的刃角",
+    "img": "assets/img/compendium/materials/white-maned_lynel saber horn.png",
+    "fuse_attack_power": 44,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "据说这些有蹄怪物自古以来就生活在海鲁尔各地，并且被认为特别危险。它们非常聪明，有弹性，有非常强大的角。目击者信息很少，因为很少有人能活着回来。"
+ },
+ {
+  "id": 150,
+  "name": "silver lynel",
+  "name_zh": "白银莱尼尔",
+  "img": "assets/img/compendium/monsters/silver_lynel.png",
+  "description": "Silver Lynels are not to be trifled with. The Demon King's fiendish magic has made them the strongest of the Lynel species, beyond even the deadly white-maned variety. Their powerful horns can slice through almost anything. Think of their purple stripes as a warning to keep away.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "silver lynel saber horn",
+    "name_zh": "白银莱尼尔的刃角",
+    "img": "assets/img/compendium/materials/silver_lynel saber horn.png",
+    "fuse_attack_power": 55,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "silver lynel mace horn",
+    "name_zh": "白银莱尼尔的碎角",
+    "img": "assets/img/compendium/materials/silver_lynel mace horn.png",
+    "fuse_attack_power": 51,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "银色的莱纳尔是不能玩弄的。魔王的恶魔魔法使他们成为最强大的Lynel物种，甚至超越了致命的白人品种。它们强大的角几乎可以穿透任何东西。将它们的紫色条纹视为远离的警告。"
+ },
+ {
+  "id": 151,
+  "name": "soldier construct i",
+  "name_zh": "兵队魔像",
+  "img": "assets/img/compendium/monsters/soldier_construct_i.png",
+  "description": "A standard-issue combat construct made by the Zonai with ancient techniques and magic. It faithfully obeys commands and tries to root out any being it deems to be an enemy. The decoration on its head is sharp and cuts like a blade.",
+  "common_locations": [
+   "Great Sky Island",
+   "North Gerudo Sky Archipelago"
+  ],
+  "drops": [],
+  "description_zh": "Zonai用古老的技术和魔法制造的标准战斗结构。它忠实地服从命令，并试图铲除任何它认为是敌人的存在。它头上的装饰很锋利，像刀片一样切割。"
+ },
+ {
+  "id": 152,
+  "name": "soldier construct ii",
+  "name_zh": "兵队魔像（中等）",
+  "img": "assets/img/compendium/monsters/soldier_construct_ii.png",
+  "description": "A mid-tier combat construct made by the Zonai with ancient techniques and magic. It faithfully obeys commands and tries to root out any being it deems to be an enemy. The heavy decoration on its head can be swung like an axe in slash attacks.",
+  "common_locations": [
+   "Hebra Mountains"
+  ],
+  "drops": [
+   {
+    "name": "soldier construct ii horn",
+    "name_zh": "兵队魔像的角（中等）",
+    "img": "assets/img/compendium/materials/soldier_construct ii horn.png",
+    "fuse_attack_power": 8,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "由左纳乌以古老技术与魔法制造的进阶战斗构装体。它忠实服从命令，并试图清除一切被视为敌人的存在。头部厚重的装饰可如斧头般挥舞进行斩击。"
+ },
+ {
+  "id": 153,
+  "name": "soldier construct iii",
+  "name_zh": "兵队魔像（上等）",
+  "img": "assets/img/compendium/monsters/soldier_construct_iii.png",
+  "description": "An upper-tier combat construct made by the Zonai with ancient techniques and magic. It faithfully obeys commands and tries to root out any being it deems to be an enemy. The decoration on its head, designed to intimidate foes, becomes a powerful weapon when swung around.",
+  "common_locations": [
+   "Lanayru Sky Archipelago",
+   "Thunderhead Isles"
+  ],
+  "drops": [
+   {
+    "name": "soldier construct iii horn",
+    "name_zh": "兵队魔像的角（上等）",
+    "img": "assets/img/compendium/materials/soldier_construct iii horn.png",
+    "fuse_attack_power": 18,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "由左纳乌以古老技术与魔法制造的高级战斗构装体。它忠实服从命令，并试图清除一切被视为敌人的存在。头部用以威吓敌人的装饰在挥舞时成为强力武器。"
+ },
+ {
+  "id": 154,
+  "name": "soldier construct iv",
+  "name_zh": "兵队魔像（特等）",
+  "img": "assets/img/compendium/monsters/soldier_construct_iv.png",
+  "description": "A sophisticated variant of the combat construct made by the Zonai with ancient techniques and magic. Unlike lower-ranked Soldier Constructs, its body sports a striking golden color. Comes equipped with excellent attack power and endurance, not to mention a majestic decoration on its head.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "soldier construct iv horn",
+    "name_zh": "兵队魔像的角（特等）",
+    "img": "assets/img/compendium/materials/soldier_construct iv horn.png",
+    "fuse_attack_power": 24,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "由左纳乌以古老技术与魔法制造的精良战斗构装体变种。与下级兵队魔像不同，其躯体呈醒目的金色。具备出色的攻击力与耐久，头顶更有华丽的装饰。"
+ },
+ {
+  "id": 155,
+  "name": "captain construct i",
+  "name_zh": "队长魔像",
+  "img": "assets/img/compendium/monsters/captain_construct_i.png",
+  "description": "An elite Soldier Construct, hence its \"captain\" title. Made by the Zonai with advanced techniques and magic. As a standard-rank member of the captain class, its combat functions are more sophisticated than those of Soldier Constructs. It can use Fuse to enhance its weapons.",
+  "common_locations": [
+   "Great Sky Island",
+   "Rising Island Chain"
+  ],
+  "drops": [
+   {
+    "name": "captain construct i horn",
+    "name_zh": "队长魔像的角",
+    "img": "assets/img/compendium/materials/captain_construct i horn.png",
+    "fuse_attack_power": 5,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "精英级兵队魔像，故得「队长」之名。由左纳乌以先进技术及魔法制造。作为队长级的标准成员，其战斗机能比普通兵队魔像更复杂，还能使用余料合成强化武器。"
+ },
+ {
+  "id": 156,
+  "name": "captain construct ii",
+  "name_zh": "队长魔像（中等）",
+  "img": "assets/img/compendium/monsters/captain_construct_ii.png",
+  "description": "An elite Soldier Construct, hence its \"captain\" title. Made by the Zonai with advanced techniques and magic. Compared to standard Captain Constructs, it has some upgrades, including enhanced endurance and more powerful weapons.",
+  "common_locations": [
+   "Lanayru Sky Archipelago",
+   "West Necluda"
+  ],
+  "drops": [
+   {
+    "name": "captain construct ii horn",
+    "name_zh": "队长魔像的角（中等）",
+    "img": "assets/img/compendium/materials/captain_construct ii horn.png",
+    "fuse_attack_power": 15,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "精英级兵队魔像，故得「队长」之名。由左纳乌以先进技术及魔法制造。相较标准队长魔像有所强化，包括提升耐久与装备更强武器。"
+ },
+ {
+  "id": 157,
+  "name": "captain construct iii",
+  "name_zh": "队长魔像（上等）",
+  "img": "assets/img/compendium/monsters/captain_construct_iii.png",
+  "description": "An elite Soldier Construct, hence its \"captain\" title. Made by the Zonai with advanced techniques and magic. A powerful Captain Construct. It has high durability and extremely advanced combat patterns. Equipped with a variety of sword techniques.",
+  "common_locations": [
+   "Thyphlo Ruins"
+  ],
+  "drops": [
+   {
+    "name": "captain construct iii horn",
+    "name_zh": "队长魔像的角（上等）",
+    "img": "assets/img/compendium/materials/captain_construct iii horn.png",
+    "fuse_attack_power": 25,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "精英级兵队魔像，故得「队长」之名。由左纳乌以先进技术及魔法制造。强力的队长魔像，耐久极高、战斗模式极为先进，并掌握多种剑术。"
+ },
+ {
+  "id": 158,
+  "name": "captain construct iv",
+  "name_zh": "队长魔像（特等）",
+  "img": "assets/img/compendium/monsters/captain_construct_iv.png",
+  "description": "An elite Soldier Construct, hence its \"captain\" title. Made by the Zonai with advanced techniques and magic. Stands above all of its peers, as signified by its golden body. In endurance and sheer combat ability, it exceeds all other Captain Constructs, making it the mightiest of all.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "captain construct iv horn",
+    "name_zh": "队长魔像的角（特等）",
+    "img": "assets/img/compendium/materials/captain_construct iv horn.png",
+    "fuse_attack_power": 35,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "精英级兵队魔像，故得「队长」之名。由左纳乌以先进技术及魔法制造。金色的躯体彰显其凌驾同侪的地位，无论耐久还是纯粹战力都超越所有队长魔像，堪称最强。"
+ },
+ {
+  "id": 159,
+  "name": "training construct",
+  "name_zh": "特务队长魔像",
+  "img": "assets/img/compendium/monsters/training_construct.png",
+  "description": "The Zonai employed advanced technology and magic to create this instructional construct. Its color indicates that it is equipped with special combat-training functions. It is even capable of using Fuse to modify and strengthen its weapons.",
+  "common_locations": [],
+  "drops": [],
+  "description_zh": "左纳乌以先进技术及魔法创造的教导型构装体。其颜色表明它配备了特殊的战斗训练机能，甚至能使用余料合成改造并强化武器。"
+ },
+ {
+  "id": 160,
+  "name": "flux construct i",
+  "name_zh": "方块魔像",
+  "img": "assets/img/compendium/monsters/flux_construct_i.png",
+  "description": "A construct composed of interconnected blocks, made by the Zonai with advanced techniques and magic. It can rearrange the blocks to change its shape at will. To provide sufficient energy to power its gigantic form, this construct contains a massive store of Zonai charge.",
+  "common_locations": [
+   "West Hebra Sky Archipelago",
+   "Gerudo Highlands Depths"
+  ],
+  "drops": [],
+  "description_zh": "由左纳乌以先进技术及魔法制造的、由互相连接的方块组成的构装体。可重新组合方块随意改变形体。为驱动庞大的躯体，其内部储存了大量左纳乌电荷。"
+ },
+ {
+  "id": 161,
+  "name": "flux construct ii",
+  "name_zh": "方块魔像（中等）",
+  "img": "assets/img/compendium/monsters/flux_construct_ii.png",
+  "description": "A construct composed of interconnected blocks, made by the Zonai with advanced techniques and magic. This model has been upgraded to process complex commands and assume modified shapes. To provide sufficient energy to power its gigantic form, this construct contains a massive store of Zonai charge.",
+  "common_locations": [
+   "Lanayru Sky Archipelago",
+   "Mount Lanayru Depths"
+  ],
+  "drops": [],
+  "description_zh": "由左纳乌以先进技术及魔法制造的、由互相连接的方块组成的构装体。此型号已升级，能处理复杂指令并采取变形。为驱动庞大的躯体，其内部储存了大量左纳乌电荷。"
+ },
+ {
+  "id": 162,
+  "name": "flux construct iii",
+  "name_zh": "方块魔像（上等）",
+  "img": "assets/img/compendium/monsters/flux_construct_iii.png",
+  "description": "A construct composed of interconnected blocks, made by the Zonai with advanced techniques and magic. This model has increased defenses to protect its vulnerable core. Can change shape in order to block attacks. To provide sufficient energy to power its gigantic form, this construct contains a massive store of Zonai charge.",
+  "common_locations": [
+   "North Akkala Sky Archipelago"
+  ],
+  "drops": [],
+  "description_zh": "由左纳乌以先进技术及魔法制造的、由互相连接的方块组成的构装体。此型号强化了防御以保护脆弱的核心，可改变形态格挡攻击。为驱动庞大的躯体，其内部储存了大量左纳乌电荷。"
+ },
+ {
+  "id": 163,
+  "name": "yiga footsoldier",
+  "name_zh": "依盖队 成员",
+  "img": "assets/img/compendium/monsters/yiga_footsoldier.png",
+  "description": "The lowest-ranked members of the Yiga Clan. They've been dispatched all across Hyrule with a single task: seek out and kill Princess Zelda and Link. They're a crafty bunch, sometimes disguising themselves as simple travelers or villagers to get the jump on you. Be wary of suspicious people you encounter. They're very agile, and their weapons of choice are bows and swords.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "mighty bananas",
+    "name_zh": "大剑香蕉",
+    "img": "assets/img/compendium/materials/mighty_bananas.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "attack up",
+    "hearts_recovered": 0.5
+   }
+  ],
+  "description_zh": "依盖队最低阶的成员。他们被派往海拉鲁各地，唯一的任务就是找到并杀死塞尔达公主与林克。他们诡计多端，有时会伪装成普通旅人或村民突袭你。对可疑之人务必警惕。他们身手敏捷，惯用弓与剑。"
+ },
+ {
+  "id": 164,
+  "name": "yiga blademaster",
+  "name_zh": "依盖队 干部",
+  "img": "assets/img/compendium/monsters/yiga_blademaster.png",
+  "description": "These are the elite soldiers of the Yiga Clan. Equipped with blades of wind-cleaving power, they are extremely agile despite their bulky build. At this Yiga Clan rank, they have mastered a technique that allows them to manipulate the very earth. By striking the ground, they can raise stone pillars and unleash a blast of air.",
+  "common_locations": [],
+  "drops": [
+   {
+    "name": "mighty bananas",
+    "name_zh": "大剑香蕉",
+    "img": "assets/img/compendium/materials/mighty_bananas.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "attack up",
+    "hearts_recovered": 0.5
+   }
+  ],
+  "description_zh": "依盖队的精英战士。配备斩风之力的刀刃，尽管身形魁梧却极为敏捷。达到此阶级已掌握操控大地的技巧——敲击地面可升起石柱并释放冲击波。"
+ },
+ {
+  "id": 165,
+  "name": "master kohga",
+  "name_zh": "可盖大人",
+  "img": "assets/img/compendium/monsters/master_kohga.png",
+  "description": "The leader of the Yiga Clan, who worship the Demon King. His larger-than-life presence makes him popular and deeply respected. After the Upheaval, Kohga latched on to Zonai devices as a way to increase his power. He had his underlings use the technology to make a variety of bizarre and deadly contraptions to kill you with.",
+  "common_locations": [],
+  "drops": [],
+  "description_zh": "崇拜魔王的依盖队首领，气场十足，深受拥戴与敬重。异变之后，可盖依附左纳乌装置以增强实力，命部下利用该技术制造出各种诡异而致命的机关来取你性命。"
+ },
+ {
+  "id": 166,
+  "name": "stone pebblit",
+  "name_zh": "岩石人",
+  "img": "assets/img/compendium/monsters/stone_pebblit.png",
+  "description": "A very young Stone Talus. Their bodies toughen as they mature, becoming as tough as boulders by adulthood. As a child, however, their bodies are light enough to be lifted and fragile enough to break when thrown.",
+  "common_locations": [
+   "Greater Hyrule"
+  ],
+  "drops": [],
+  "description_zh": "非常年幼的岩石巨人。它们随成长而变硬，成年后坚如磐石。但幼年时躯体轻盈可举起，抛出后也很脆弱易碎。"
+ },
+ {
+  "id": 167,
+  "name": "igneo pebblit",
+  "name_zh": "熔岩人",
+  "img": "assets/img/compendium/monsters/igneo_pebblit.png",
+  "description": "A very young Igneo Talus. Their bodies toughen as they mature and convert fully into lava by adulthood. As a child, however, while still covered in fire, their bodies are fragile and light enough to be blown away by a bomb's blast.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Eldin Canyon Depths"
+  ],
+  "drops": [],
+  "description_zh": "非常年幼的火岩巨人。它们随成长而变硬，成年后完全化为熔岩。但幼年时虽身覆火焰，躯体脆弱轻盈，可被爆炸气浪吹飞。"
+ },
+ {
+  "id": 168,
+  "name": "frost pebblit",
+  "name_zh": "冰岩人",
+  "img": "assets/img/compendium/monsters/frost_pebblit.png",
+  "description": "A very young Frost Talus. Their bodies toughen and frost over as they mature, becoming entirely made of ice by adulthood. As a child, however, their bodies are awfully fragile and are light enough to be blown away by a bomb's blast.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "drops": [],
+  "description_zh": "非常年幼的冰岩巨人。它们随成长而结霜变硬，成年后完全由冰构成。但幼年时躯体极为脆弱轻盈，可被爆炸气浪吹飞。"
+ },
+ {
+  "id": 169,
+  "name": "stone talus",
+  "name_zh": "岩石巨人",
+  "img": "assets/img/compendium/monsters/stone_talus.png",
+  "description": "This enormous monster is naturally camouflaged as a rock formation. Neither sword nor arrow can pierce its stony form, but a cunning adventurer knows to scale its body and attack the ore sprouting from its peak. Lives not only in meadows and rocky areas but also plains.",
+  "common_locations": [
+   "Gerudo Highlands Depths",
+   "Tabantha Frontier"
+  ],
+  "drops": [],
+  "description_zh": "这种巨型怪物天生伪装成岩层。刀箭难伤其石躯，但机敏的冒险者懂得攀上其身体、攻击其头顶冒出的矿石。不仅栖息于草原与岩石地带，也出没于平原。"
+ },
+ {
+  "id": 170,
+  "name": "stone talus (luminous)",
+  "name_zh": "岩石巨人（夜光）",
+  "img": "assets/img/compendium/monsters/stone_talus_(luminous).png",
+  "description": "This enormous monster is naturally camouflaged as a rock formation. Neither sword nor arrow can pierce its stony form, but a cunning adventurer knows to scale its body and attack the ore sprouting from its peak. Stronger than your average Stone Talus, and unlike that creature, its ore deposit consists mostly of luminous stone.",
+  "common_locations": [
+   "Tabantha Frontier",
+   "Lanayru Great Spring"
+  ],
+  "drops": [],
+  "description_zh": "这种巨型怪物天生伪装成岩层。刀箭难伤其石躯，但机敏的冒险者懂得攀上其身体、攻击其头顶冒出的矿石。比一般岩石巨人更强，且矿石多为夜光石。"
+ },
+ {
+  "id": 171,
+  "name": "stone talus (rare)",
+  "name_zh": "岩石巨人（稀有）",
+  "img": "assets/img/compendium/monsters/stone_talus_(rare).png",
+  "description": "This enormous monster is naturally camouflaged as a rock formation. Neither sword nor arrow can pierce its stony form, but a cunning adventurer knows to scale its body and attack the ore sprouting from its peak. Unlike your average Stone Talus, this type's ore deposit contains a large amount of precious ore, making it a rare find.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Faron Grasslands"
+  ],
+  "drops": [],
+  "description_zh": "这种巨型怪物天生伪装成岩层。刀箭难伤其石躯，但机敏的冒险者懂得攀上其身体、攻击其头顶冒出的矿石。与一般岩石巨人不同，此类型矿石富含大量贵重金属，十分稀有。"
+ },
+ {
+  "id": 172,
+  "name": "battle talus",
+  "name_zh": "岩家巨人",
+  "img": "assets/img/compendium/monsters/battle_talus.png",
+  "description": "Monsters have built structures onto this Talus to create what might be called a moving fort. Its body is reinforced with wooden planks to keep away enemies. It can't be easily climbed.",
+  "common_locations": [
+   "Hyrule Field",
+   "Tabantha Frontier Depths"
+  ],
+  "drops": [],
+  "description_zh": "怪物在岩石巨人身上搭建结构，形成一座可移动的堡垒。躯体以木板加固以阻挡敌人，难以直接攀爬。"
+ },
+ {
+  "id": 173,
+  "name": "igneo talus",
+  "name_zh": "熔岩巨人",
+  "img": "assets/img/compendium/monsters/igneo_talus.png",
+  "description": "This enormous monster is naturally camouflaged as molten rock. Neither sword nor arrow can pierce its fiery form. Merely touching its magma-hot body can burn you pretty badly, but you may be able to scale it if you can use something to chill its flames.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Eldin Canyon Depths"
+  ],
+  "drops": [],
+  "description_zh": "这种巨型怪物天生伪装成熔岩。刀箭难伤其火躯，仅触碰灼热的身体就可能严重烧伤，但若能冷却其火焰或许可以攀爬。"
+ },
+ {
+  "id": 174,
+  "name": "frost talus",
+  "name_zh": "冰岩巨人",
+  "img": "assets/img/compendium/monsters/frost_talus.png",
+  "description": "This enormous monster is naturally camouflaged as a frozen rock formation. Neither sword nor arrow can pierce its frigid form. Merely touching its frosty body can leave you with severe frostbite, but you may be able to scale it if you use something to thaw its icy exterior. Lives in cold, snowy regions.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "drops": [],
+  "description_zh": "这种巨型怪物天生伪装成冰封岩层。刀箭难伤其寒躯，仅触碰冰冷的身体就可能严重冻伤，但若能融化其冰壳或许可以攀爬。居住于寒冷多雪之地。"
+ },
+ {
+  "id": 175,
+  "name": "hinox",
+  "name_zh": "西诺克斯",
+  "img": "assets/img/compendium/monsters/hinox.png",
+  "description": "These giant, one-eyed monsters live mostly in the woods and have large, thick horns. Hinox are known for tearing entire trees from the ground and using them as weapons. Occasionally, they fall asleep on roads, presenting terrifying roadblocks for travelers. A deft hand can steal weapons from the necklaces they wear.",
+  "common_locations": [
+   "Hyrule Ridge",
+   "West Necluda"
+  ],
+  "drops": [
+   {
+    "name": "hinox horn",
+    "name_zh": "西诺克斯的犄角",
+    "img": "assets/img/compendium/materials/hinox_horn.png",
+    "fuse_attack_power": 12,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "palm fruit",
+    "name_zh": "椰子",
+    "img": "assets/img/compendium/materials/palm_fruit.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "",
+    "hearts_recovered": 1
+   },
+   {
+    "name": "apple",
+    "name_zh": "苹果",
+    "img": "assets/img/compendium/materials/apple.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "",
+    "hearts_recovered": 0.5
+   },
+   {
+    "name": "wildberry",
+    "name_zh": "草莓",
+    "img": "assets/img/compendium/materials/wildberry.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "",
+    "hearts_recovered": 0.5
+   },
+   {
+    "name": "fortified pumpkin",
+    "name_zh": "铠甲南瓜",
+    "img": "assets/img/compendium/materials/fortified_pumpkin.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "defense up",
+    "hearts_recovered": 0.5
+   },
+   {
+    "name": "voltfruit",
+    "name_zh": "酥麻水果",
+    "img": "assets/img/compendium/materials/voltfruit.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "sock resistance",
+    "hearts_recovered": 0.5
+   }
+  ],
+  "description_zh": "这些独眼巨怪多居于森林，长有巨大粗角。西诺克斯以连根拔起整棵树当作武器而闻名。偶尔会在路上酣睡，成为旅人可怕的路障。身手敏捷者可从其佩戴的项链上窃取武器。"
+ },
+ {
+  "id": 176,
+  "name": "blue hinox",
+  "name_zh": "蓝色西诺克斯",
+  "img": "assets/img/compendium/monsters/blue_hinox.png",
+  "description": "These giant, one-eyed monsters live mostly in the woods, have giant horns, and possess a ferocity similar to that of their red brethren. They are also known for tearing entire trees from the ground and using them as weapons. They're stronger, though, and wear greaves that can be burnt away to expose their feet. A deft hand can steal weapons from the necklaces they wear.",
+  "common_locations": [
+   "East Necluda Depths",
+   "West Necluda"
+  ],
+  "drops": [
+   {
+    "name": "blue hinox horn",
+    "name_zh": "蓝色西诺克斯的犄角",
+    "img": "assets/img/compendium/materials/blue_hinox horn.png",
+    "fuse_attack_power": 19,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些独眼巨怪多居于森林，长有巨大之角，凶性不亚于红色同胞。同样以连根拔起整棵树当作武器。但更强，并穿戴可被烧毁以暴露脚部的护胫。身手敏捷者可从其佩戴的项链上窃取武器。"
+ },
+ {
+  "id": 177,
+  "name": "black hinox",
+  "name_zh": "黑色西诺克斯",
+  "img": "assets/img/compendium/monsters/black_hinox.png",
+  "description": "These giant, one-eyed monsters live mostly in the woods and have extremely hard horns. A keen awareness of your surroundings is paramount when facing one, as Hinox are known for tearing entire trees from the ground and using them as weapons. Black Hinox wear metal greaves that are too hard to break. A deft hand can steal weapons off the necklaces they wear.",
+  "common_locations": [
+   "East Necluda",
+   "West Necluda Depths"
+  ],
+  "drops": [
+   {
+    "name": "black hinox horn",
+    "name_zh": "黑色西诺克斯的犄角",
+    "img": "assets/img/compendium/materials/black_hinox horn.png",
+    "fuse_attack_power": 27,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这些独眼巨怪多居于森林，长有极硬之角。面对它们时对环境保持高度警觉至关重要，因为它们以连根拔起整棵树当作武器而闻名。黑色西诺克斯佩戴的金属护胫坚硬难破。身手敏捷者可从其佩戴的项链上窃取武器。"
+ },
+ {
+  "id": 178,
+  "name": "stalnox",
+  "name_zh": "骷髅西诺克斯",
+  "img": "assets/img/compendium/monsters/stalnox.png",
+  "description": "The remains of a Hinox, a giant monster with only one eye. This skeletal beast appears in the dark and can throw its own rib bones at enemies. Furthermore, even if it appears defeated, it will keep coming back for more as long as its eye is left intact.",
+  "common_locations": [
+   "East Necluda",
+   "West Necluda Depths"
+  ],
+  "drops": [
+   {
+    "name": "stalnox horn",
+    "name_zh": "骷髅西诺克斯的犄角",
+    "img": "assets/img/compendium/materials/stalnox_horn.png",
+    "fuse_attack_power": 29,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "西诺克斯——独眼巨怪——的遗骸。这具骷髅在黑暗中现身，能将自身肋骨掷向敌人。而且即便看似被击败，只要眼睛完好便会不断复活卷土重来。"
+ },
+ {
+  "id": 179,
+  "name": "molduga",
+  "name_zh": "莫尔德拉吉克",
+  "img": "assets/img/compendium/monsters/molduga.png",
+  "description": "This massive monster swims beneath the desert's sand. It spends most of its time submerged, but if it senses sound, it will breach the surface to feast on whatever it can grab. Running around carelessly can be dangerous if you suspect there may be one in the area.",
+  "common_locations": [
+   "Gerudo Desert"
+  ],
+  "drops": [
+   {
+    "name": "molduga jaw",
+    "name_zh": "莫尔德拉吉克的颚骨",
+    "img": "assets/img/compendium/materials/molduga_jaw.png",
+    "fuse_attack_power": 32,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种巨型怪物在沙漠沙层下游动。多数时间潜于沙中，一旦察觉声响便会破沙而出，吞食能抓取的一切。在疑似有它的区域里莽撞奔跑十分危险。"
+ },
+ {
+  "id": 180,
+  "name": "flame gleeok",
+  "name_zh": "火焰古栗欧克",
+  "img": "assets/img/compendium/monsters/flame_gleeok.png",
+  "description": "This three-headed monster first appeared after the Upheaval. Fighting it alone is inadvisable, as its three heads will attack you all at once. Creates powerful flames within its body. When someone sets foot upon its turf, this beast will engulf the intruder and their surroundings in a fierce blaze.",
+  "common_locations": [
+   "Hyrule Ridge",
+   "Eldin Canyon"
+  ],
+  "drops": [
+   {
+    "name": "gleeok flame horn",
+    "name_zh": "古栗欧克的火焰犄角",
+    "img": "assets/img/compendium/materials/gleeok_flame horn.png",
+    "fuse_attack_power": 30,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种三头怪物在异变后首次出现。切勿单独应战，因为它的三个头会同时攻击你。它体内生成猛烈火焰，一旦有人踏入领地，便会用烈焰将入侵者与周遭一同吞没。"
+ },
+ {
+  "id": 181,
+  "name": "frost gleeok",
+  "name_zh": "冰雪古栗欧克",
+  "img": "assets/img/compendium/monsters/frost_gleeok.png",
+  "description": "This three-headed monster first appeared after the Upheaval. Fighting it alone is inadvisable, as its three heads will attack you all at once. Creates blistering cold air within its body. When someone sets foot upon its turf, this beast will freeze the intruder and their surroundings in ice.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "drops": [
+   {
+    "name": "gleeok frost horn",
+    "name_zh": "古栗欧克的冰雪犄角",
+    "img": "assets/img/compendium/materials/gleeok_frost horn.png",
+    "fuse_attack_power": 30,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种三头怪物在异变后首次出现。切勿单独应战，因为它的三个头会同时攻击你。它体内生成刺骨寒气，一旦有人踏入领地，便会用寒冰将入侵者与周遭一同冻结。"
+ },
+ {
+  "id": 182,
+  "name": "thunder gleeok",
+  "name_zh": "雷电古栗欧克",
+  "img": "assets/img/compendium/monsters/thunder_gleeok.png",
+  "description": "This three-headed monster first appeared after the Upheaval. Fighting it alone is inadvisable, as its three heads will attack you all at once. When someone sets foot upon its turf, this beast will unleash a salvo of lightning strikes, not letting up until the intruder is reduced to a pile of ashes.",
+  "common_locations": [
+   "Hyrule Field",
+   "Faron Grasslands"
+  ],
+  "drops": [
+   {
+    "name": "gleeok thunder horn",
+    "name_zh": "古栗欧克的雷电犄角",
+    "img": "assets/img/compendium/materials/gleeok_thunder horn.png",
+    "fuse_attack_power": 30,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种三头怪物在异变后首次出现。切勿单独应战，因为它的三个头会同时攻击你。一旦有人踏入领地，便会倾泻雷暴连击，直到入侵者化为灰烬方肯罢休。"
+ },
+ {
+  "id": 183,
+  "name": "king gleeok",
+  "name_zh": "古栗欧克王",
+  "img": "assets/img/compendium/monsters/king_gleeok.png",
+  "description": "This three-headed monster with lightning, fire, and ice attributes first appeared after the Upheaval. Fighting it alone is inadvisable, as it can launch coordinated elemental attacks with staggering brutality. You must be well-prepared to survive an entanglement with this beast.",
+  "common_locations": [
+   "Gerudo Desert Sky",
+   "Necluda Sea Sky"
+  ],
+  "drops": [
+   {
+    "name": "gleeok frost horn",
+    "name_zh": "古栗欧克的冰雪犄角",
+    "img": "assets/img/compendium/materials/gleeok_frost horn.png",
+    "fuse_attack_power": 30,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "gleeok thunder horn",
+    "name_zh": "古栗欧克的雷电犄角",
+    "img": "assets/img/compendium/materials/gleeok_thunder horn.png",
+    "fuse_attack_power": 30,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "gleeok flame horn",
+    "name_zh": "古栗欧克的火焰犄角",
+    "img": "assets/img/compendium/materials/gleeok_flame horn.png",
+    "fuse_attack_power": 30,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "这种兼具雷、火、冰属性的三头怪物在异变后首次出现。切勿单独应战，因为它能发动协调的元素攻击，凶残至极。与其缠斗须做好万全准备。"
+ },
+ {
+  "id": 184,
+  "name": "little frox",
+  "name_zh": "小迦马",
+  "img": "assets/img/compendium/monsters/little_frox.png",
+  "description": "A very young Frox. Makes up for its diminutive size with powerful legs and by attacking in large numbers.",
+  "common_locations": [
+   "The Depths"
+  ],
+  "drops": [
+   {
+    "name": "giant brightbloom seed",
+    "name_zh": "巨大光亮花的种子",
+    "img": "assets/img/compendium/materials/giant_brightbloom seed.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "brightbloom seed",
+    "name_zh": "光亮花的种子",
+    "img": "assets/img/compendium/materials/brightbloom_seed.png",
+    "fuse_attack_power": 1,
+    "cooking_effect": "",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "非常年幼的迦马。虽体型娇小，却以强壮的后腿与成群攻击弥补劣势。"
+ },
+ {
+  "id": 185,
+  "name": "frox",
+  "name_zh": "巨霸迦马",
+  "img": "assets/img/compendium/monsters/frox.png",
+  "description": "A large monster that dwells in the Depths. Despite its unwieldy body, it has incredibly powerful legs that it can use to leap from afar to capture prey. Its large mouth allows it to swallow whatever it hungers for in one gulp.",
+  "common_locations": [
+   "Gerudo Highlands Depths",
+   "Central Hyrule Depths"
+  ],
+  "drops": [
+   {
+    "name": "frox fang",
+    "name_zh": "巨霸迦马的大牙",
+    "img": "assets/img/compendium/materials/frox_fang.png",
+    "fuse_attack_power": 14,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "栖息于地底的大型怪物。尽管身躯笨重，却拥有极强的后腿，可远距跃起捕获猎物。大嘴能将渴望之物一口吞下。"
+ },
+ {
+  "id": 186,
+  "name": "obsidian frox",
+  "name_zh": "黑曜巨霸迦马",
+  "img": "assets/img/compendium/monsters/obsidian_frox.png",
+  "description": "A large monster that dwells in the Depths. Has legs even more powerful than those of its green-colored counterpart, and it can leap from afar to capture distant enemies. Its large mouth allows it to swallow whatever it hungers for in one gulp.",
+  "common_locations": [
+   "Gerudo Desert Depths",
+   "Hyrule Ridge Depths"
+  ],
+  "drops": [
+   {
+    "name": "obsidian frox fang",
+    "name_zh": "黑曜巨霸迦马的大牙",
+    "img": "assets/img/compendium/materials/obsidian_frox fang.png",
+    "fuse_attack_power": 24,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "栖息于地底的大型怪物。后腿比绿色同类更强，可远距跃起捕获远方敌人。大嘴能将渴望之物一口吞下。"
+ },
+ {
+  "id": 187,
+  "name": "blue-white frox",
+  "name_zh": "白苍巨霸迦马",
+  "img": "assets/img/compendium/monsters/blue-white_frox.png",
+  "description": "A large monster that dwells in the Depths. Has ore on its back to lure enemies. Can shake off enemies who climb atop it and then snatch them midair. Its large mouth allows it to swallow whatever it hungers for in one gulp.",
+  "common_locations": [
+   "Hebra Mountains Depths",
+   "Tabantha Frontier Depths"
+  ],
+  "drops": [
+   {
+    "name": "blue-white frox fang",
+    "name_zh": "白苍巨霸迦马的大牙",
+    "img": "assets/img/compendium/materials/blue-white_frox fang.png",
+    "fuse_attack_power": 35,
+    "cooking_effect": "effect duration +00:40",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "栖息于地底的大型怪物。背上生有矿石以诱敌，能甩落攀爬者并在半空将其擒获。大嘴能将渴望之物一口吞下。"
+ },
+ {
+  "id": 188,
+  "name": "dinraal",
+  "name_zh": "奥尔龙",
+  "img": "assets/img/compendium/monsters/dinraal.png",
+  "description": "A spirit of fire has taken the form of this giant dragon. Making its home in the Eldin region, it's said to have served the Spring of Power since ancient times. The flames that coat its body can make the surrounding area blazing hot, but Dinraal bears no ill will toward people. Few have seen it in the current age.",
+  "common_locations": [
+   "Eldin Mountains",
+   "Deep Akkala"
+  ],
+  "drops": [
+   {
+    "name": "shard of dinraal's spike",
+    "name_zh": "奥尔龙的龙岩石",
+    "img": "assets/img/compendium/materials/shard_of dinraal's spike.png",
+    "fuse_attack_power": 16,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "dinraal's horn",
+    "name_zh": "奥尔龙的犄角",
+    "img": "assets/img/compendium/materials/dinraal's_horn.png",
+    "fuse_attack_power": 26,
+    "cooking_effect": "effect duration +30:00",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "火之精灵化为此巨龙之形。栖身于艾尔丁地区，据说自古便守护力量之泉。覆盖身躯的火焰能使周遭炽热如火，但奥尔龙对人并无恶意。当今之世鲜有人得见。"
+ },
+ {
+  "id": 189,
+  "name": "naydra",
+  "name_zh": "聂尔龙",
+  "img": "assets/img/compendium/monsters/naydra.png",
+  "description": "A spirit of ice has taken the form of this giant dragon. Making its home in the Lanayru region, it's said to have served the Spring of Wisdom since ancient times. The ice that coats its body can make the surrounding area freezing cold, but Naydra bears no ill will toward people. Few have seen it in the current age.",
+  "common_locations": [
+   "East Necluda",
+   "Mount Lanayru"
+  ],
+  "drops": [
+   {
+    "name": "shard of naydra's spike",
+    "name_zh": "聂尔龙的龙岩石",
+    "img": "assets/img/compendium/materials/shard_of naydra's spike.png",
+    "fuse_attack_power": 16,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "naydra's horn",
+    "name_zh": "聂尔龙的犄角",
+    "img": "assets/img/compendium/materials/naydra's_horn.png",
+    "fuse_attack_power": 26,
+    "cooking_effect": "effect duration +30:00",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "冰之精灵化为此巨龙之形。栖身于拉聂尔地区，据说自古便守护智慧之泉。覆盖身躯的寒冰能使周遭冰冷刺骨，但聂尔龙对人并无恶意。当今之世鲜有人得见。"
+ },
+ {
+  "id": 190,
+  "name": "farosh",
+  "name_zh": "费罗龙",
+  "img": "assets/img/compendium/monsters/farosh.png",
+  "description": "A spirit of lightning has taken the form of this giant dragon. Making its home in the Faron region, it's said to have served the Spring of Courage since ancient times. The electricity that coats its body can cause lightning storms, but Farosh bears no ill will toward people. Few have seen it in the current age.",
+  "common_locations": [
+   "Lake Hylia",
+   "Gerudo Canyon"
+  ],
+  "drops": [
+   {
+    "name": "shard of farosh's spike",
+    "name_zh": "费罗龙的龙岩石",
+    "img": "assets/img/compendium/materials/shard_of farosh's spike.png",
+    "fuse_attack_power": 16,
+    "cooking_effect": "effect duration +01:20",
+    "hearts_recovered": 0
+   },
+   {
+    "name": "farosh's horn",
+    "name_zh": "费罗龙的犄角",
+    "img": "assets/img/compendium/materials/farosh's_horn.png",
+    "fuse_attack_power": 26,
+    "cooking_effect": "effect duration +30:00",
+    "hearts_recovered": 0
+   }
+  ],
+  "description_zh": "雷之精灵化为此巨龙之形。栖身于法隆地区，据说自古便守护勇气之泉。覆盖身躯的雷电能引发雷暴，但费罗龙对人并无恶意。当今之世鲜有人得见。"
+ },
+ {
+  "id": 191,
+  "name": "colgera",
+  "name_zh": "急冻盖拉",
+  "img": "assets/img/compendium/monsters/colgera.png",
+  "description": "The culprit behind the blizzard that plagued the Hebra region. This huge beast harnesses wind to produce strong updrafts and lift itself aloft. The jagged layer of ice covering its body serves as a protective shield and allows it to launch frozen spikes at its foes.",
+  "common_locations": [
+   "Wind Temple"
+  ],
+  "drops": [],
+  "description_zh": "造成海布拉地区暴雪雪灾的元凶。这头巨兽驾驭风力产生强上升气流使自己升空。覆盖躯体的层层尖冰既是护盾，也能射出冰刺攻击敌人。"
+ },
+ {
+  "id": 192,
+  "name": "moragia",
+  "name_zh": "伊尔巴基亚",
+  "img": "assets/img/compendium/monsters/moragia.png",
+  "description": "An enormous monster dwelling in Death Mountain. Its body is composed of boiling lava and hard rocks that are infused with gloom. To keep its body held together, the creature draws heat and gloom power from the crater.",
+  "common_locations": [
+   "Death Mountain"
+  ],
+  "drops": [],
+  "description_zh": "栖息于死亡之山的巨型怪物。躯体由沸腾的熔岩与浸染瘴气的硬岩构成。为维持躯体不散，它从火山口汲取热力与瘴气之力。"
+ },
+ {
+  "id": 193,
+  "name": "marbled gohma",
+  "name_zh": "巨砾哥马",
+  "img": "assets/img/compendium/monsters/marbled_gohma.png",
+  "description": "The culprit behind marbled rock roast, who produced it and brought it to the Eldin region. It uses its rock-covered legs to execute devastating attacks. The eyeball on its head may look vulnerable, but good luck reaching it atop this creature's massive body.",
+  "common_locations": [
+   "Fire Temple"
+  ],
+  "drops": [],
+  "description_zh": "造成大理石烤肉事件的元凶，它将此物产出并带至艾尔丁地区。以覆石的后腿施展毁灭性攻击。头上的眼球看似脆弱，但想够到这庞大躯体顶端的它谈何容易。"
+ },
+ {
+  "id": 194,
+  "name": "sludge like",
+  "name_zh": "淤泥莱克",
+  "img": "assets/img/compendium/monsters/sludge_like.png",
+  "description": "These sludge-loving Like Likes are nightmarishly mobile. They ooze sludge, and they use that sludge to move around, sometimes creeping into areas that other types of Like Likes tend to avoid. As if that weren't enough, they also spew sludge out of their maws to slow and capture prey.",
+  "common_locations": [
+   "Lanayru Great Spring"
+  ],
+  "drops": [],
+  "description_zh": "这种嗜好淤泥的莱克极为灵活好动。它们分泌淤泥并借以移动，有时还会潜入其他莱克回避的区域。不仅如此，还会从口中喷出淤泥以减速并捕获猎物。"
+ },
+ {
+  "id": 195,
+  "name": "mucktorok",
+  "name_zh": "八爪怪章",
+  "img": "assets/img/compendium/monsters/mucktorok.png",
+  "description": "The culprit behind the sludge that plagued Zora's Domain. Despite its small size, it was able to produce a massive deluge of the substance, polluting the entire region. It can mold sludge into outer shells of various shapes, a technique it uses both to protect itself and attack its foes.",
+  "common_locations": [
+   "Water Temple"
+  ],
+  "drops": [],
+  "description_zh": "造成卓拉领地淤泥污染的元凶。虽体型小巧，却能制造大量淤泥淹没整片区域。它可将淤泥塑成各种外形的外壳，既用于自保也用于攻击。"
+ },
+ {
+  "id": 196,
+  "name": "queen gibdo",
+  "name_zh": "吉波得女王",
+  "img": "assets/img/compendium/monsters/queen_gibdo.png",
+  "description": "The ruler of the Gibdos and the culprit behind the sand shroud that plagued the Gerudo region, the Queen Gibdo is an agile beast who built a nest in the desert to spawn her drones en masse. Her tough exoskeleton deflects ordinary weapons.",
+  "common_locations": [
+   "Lightning Temple"
+  ],
+  "drops": [],
+  "description_zh": "吉波得的统治者，也是造成格鲁德地区黄沙笼罩的元凶。女王吉波得身手敏捷，在沙漠筑巢大量孵育部下。坚硬的外骨骼能弹开寻常武器。"
+ },
+ {
+  "id": 197,
+  "name": "seized construct",
+  "name_zh": "被夺之魔像",
+  "img": "assets/img/compendium/monsters/seized_construct.png",
+  "description": "The construct that Mineru originally intended to house her spirit. It was changed into this ominous form by the magic power of the Demon King. Originally intended for construction, it is highly durable and able to withstand harsh conditions.",
+  "common_locations": [
+   "Spirit Temple"
+  ],
+  "drops": [],
+  "description_zh": "弥涅璐原本打算用来承载其魂魄的构装体，却被魔王的魔力改成了这副不祥模样。本用于建造，故极为耐用，能承受严酷环境。"
+ },
+ {
+  "id": 198,
+  "name": "phantom ganon",
+  "name_zh": "幻影加侬",
+  "img": "assets/img/compendium/monsters/phantom_ganon.png",
+  "description": "Though it may walk on two legs, this creature is undeniably monstrous in appearance. A sinister aura permeates the air around it. You know little of its attributes or behavior, but its strength and weapon mastery make it a formidable foe. It was first sighted after the Upheaval. Its identity and origins are shrouded in mystery.",
+  "common_locations": [],
+  "drops": [],
+  "description_zh": "虽以双足行走，这生物的外貌却无疑狰狞如怪物。周遭弥漫着不祥之气。你对其属性与习性知之甚少，但其力量与武器造诣使其成为劲敌。异变后首次现身，身份与来历成谜。"
+ },
+ {
+  "id": 199,
+  "name": "demon king ganondorf",
+  "name_zh": "魔王加侬多夫",
+  "img": "assets/img/compendium/monsters/demon_king_ganondorf.png",
+  "description": "An evil man who lived long ago in the era of Hyrule's founding. He was imprisoned beneath Hyrule Castle for ages, but the magic weakened, and his power has steadily been growing since. Now he has revived as a threat beyond the knowledge of any. A master of every known weapon, he will not hesitate to crush any foe who stands in his way.",
+  "common_locations": [],
+  "drops": [],
+  "description_zh": "远古海拉鲁建国时代存活的邪恶之徒。他被囚于海拉鲁城堡之下漫长岁月，随着魔法减弱，力量也持续复苏。如今他作为超越任何认知的威胁复活。精通一切已知武器，绝不会放过挡路的敌人。"
+ },
+ {
+  "id": 200,
+  "name": "demon king ganondorf (2nd form)",
+  "name_zh": "魔王加侬多夫（第二形态）",
+  "img": "assets/img/compendium/monsters/demon_king_ganondorf_(2nd_form).png",
+  "description": "The fearsome form that Demon King Ganondorf attained after unleashing the power of the secret stone. The ancient sages were no match for him and only barely managed to contain his devastating power. The gloom he produces is a corrosive substance so foul that it can wither anyone who touches it.",
+  "common_locations": [],
+  "drops": [],
+  "description_zh": "魔王加侬多夫释放秘石之力后所达到的可怕形态。远古贤者不敌于他，仅勉强封住其毁灭性的力量。他产生的瘴气腐蚀性极强，触之者皆会枯萎。"
+ },
+ {
+  "id": 201,
+  "name": "demon dragon",
+  "name_zh": "黑龙",
+  "img": "assets/img/compendium/monsters/demon_dragon.png",
+  "description": "The form that Ganondorf, the Demon King, attained after swallowing a secret stone and attaining his true power. No trace of his original form remains. Its overwhelming magical strength would shake the skies. The jet-black scales covering it repel any and all attacks, save for those of the one and only Master Sword.",
+  "common_locations": [],
+  "drops": [],
+  "description_zh": "魔王加侬多夫吞下秘石、获得真正力量后的形态。原本的模样已荡然无存。压倒性的魔力足以震动苍穹。覆盖周身的漆黑鳞片能弹开一切攻击，唯有大师之剑例外。"
+ },
+ {
+  "id": 202,
+  "name": "light dragon",
+  "name_zh": "白龙",
+  "img": "assets/img/compendium/monsters/light_dragon.png",
+  "description": "A spirit has taken the form of this giant dragon inhabiting the upper reaches of the skies. It is named for its shining golden mane and gleaming scales. It looks divine as it soars through the sky, giving off a soft glow, and its presence is comforting somehow.",
+  "common_locations": [
+   "Greater Hyrule"
+  ],
+  "drops": [],
+  "description_zh": "精灵化为此巨龙之形，栖息于天空高处。因其闪耀的金鬃与粼粼鳞片而得名。翱翔天际时散发柔和光芒，神圣而令人安心，仿佛带来慰藉。"
+ }
+]

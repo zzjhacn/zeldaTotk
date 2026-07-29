@@ -1,0 +1,18 @@
+{
+ "generated": "2026-07-27",
+ "counts": {
+  "shrines": 152,
+  "koroks": 900,
+  "high_tier_monsters": 1602,
+  "monsters": 110,
+  "materials": 126,
+  "equipment": 175,
+  "armors": 135,
+  "quests": 253,
+  "quests_detailed": 83,
+  "quests_simple": 170,
+  "caves": 148,
+  "wells": 59,
+  "towers": 15
+ }
+}

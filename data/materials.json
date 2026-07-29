@@ -1,0 +1,2111 @@
+[
+ {
+  "id": 203,
+  "name": "apple",
+  "name_zh": "苹果",
+  "img": "assets/img/compendium/materials/apple.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0.5,
+  "description": "A common fruit eaten by people since ancient times. Eat it fresh, or cook it to increase its effect.",
+  "common_locations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [
+   "西诺克斯"
+  ],
+  "description_zh": "人们自远古以来便食用的水果。就这么生吃也很美味，如果用来烹饪，效果还会提升。"
+ },
+ {
+  "id": 204,
+  "name": "golden apple",
+  "name_zh": "金苹果",
+  "img": "assets/img/compendium/materials/golden_apple.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "effect duration +00:20",
+  "hearts_recovered": 1.5,
+  "description": "A rare, very sweet fruit that seems to have an extra sparkle to it. Sometimes found near normal apples.",
+  "common_locations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [],
+  "description_zh": "散发神秘光辉的水果，偶尔能在普通的苹果中发现。食用一口，前所未尝的甘甜会在口中蔓延开来。"
+ },
+ {
+  "id": 205,
+  "name": "palm fruit",
+  "name_zh": "椰子",
+  "img": "assets/img/compendium/materials/palm_fruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 1,
+  "description": "Fruit from palm trees that grow near the ocean. It doesn't offer any special effects but will increase your heart recovery when used as an ingredient.",
+  "common_locations": [
+   "East Necluda",
+   "Gerudo Desert"
+  ],
+  "dropped_by": [
+   "西诺克斯"
+  ],
+  "description_zh": "海边的椰子树所结的果实。没有特殊效果，但如果用于烹饪，会回复心心。"
+ },
+ {
+  "id": 206,
+  "name": "wildberry",
+  "name_zh": "草莓",
+  "img": "assets/img/compendium/materials/wildberry.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0.5,
+  "description": "A fruit that grows in cold, snowy regions known for its tangy, sweet flavor. It doesn't offer any special effects, but it's a popular cooking ingredient.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dropped_by": [
+   "西诺克斯"
+  ],
+  "description_zh": "在下雪的寒冷地区生长的水果。酸酸甜甜的味道是它的特征。没有特殊效果，但常被用于烹饪。"
+ },
+ {
+  "id": 207,
+  "name": "hylian tomato",
+  "name_zh": "海拉鲁番茄",
+  "img": "assets/img/compendium/materials/hylian_tomato.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 1,
+  "description": "A fruit found widely from cold areas to warm climates. Full of nutrition, and kind of trendy lately. Use it in cooking to recover more hearts.",
+  "common_locations": [
+   "East Necluda",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "从寒冷地带到温暖地区广泛分布的果实。营养丰富，近年来受人注目。如果用于烹饪，心心的回复量会增加。"
+ },
+ {
+  "id": 208,
+  "name": "hydromelon",
+  "name_zh": "冰冷蜜瓜",
+  "img": "assets/img/compendium/materials/hydromelon.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "heat resistance",
+  "hearts_recovered": 0.5,
+  "description": "This resilient fruit can flourish even in the heat of the desert. The hydrating liquid inside provides a cooling effect that, when cooked, increases your heat resistance.",
+  "common_locations": [
+   "Gerudo Desert"
+  ],
+  "dropped_by": [],
+  "description_zh": "即使在沙漠也能生长的特殊水果。多汁的果肉可以降低体温。如果用于烹饪，能发挥耐热的效果。"
+ },
+ {
+  "id": 209,
+  "name": "spicy pepper",
+  "name_zh": "暖暖草果",
+  "img": "assets/img/compendium/materials/spicy_pepper.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "cold resistance",
+  "hearts_recovered": 0.5,
+  "description": "This pepper is exploding with spice. Cook with it to create dishes that will raise your body temperature and help you withstand the cold.",
+  "common_locations": [
+   "Hyrule Field",
+   "Gerudo Desert"
+  ],
+  "dropped_by": [],
+  "description_zh": "生吃的话，会感觉火辣辣的。如果用于烹饪，食用后身体会变暖和，即便在寒冷的地方也能经受得住。"
+ },
+ {
+  "id": 210,
+  "name": "voltfruit",
+  "name_zh": "酥麻水果",
+  "img": "assets/img/compendium/materials/voltfruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "sock resistance",
+  "hearts_recovered": 0.5,
+  "description": "Cacti found in the Gerudo Desert bear this sweet fruit. It's naturally insulated, so when cooked into a dish, it provides resistance against electricity.",
+  "common_locations": [
+   "Gerudo Desert"
+  ],
+  "dropped_by": [
+   "西诺克斯"
+  ],
+  "description_zh": "格鲁德沙漠里的仙人掌所结的水果。甘甜的果实里富含绝缘成分。如果用于烹饪，食用后能抵御电的攻击。"
+ },
+ {
+  "id": 211,
+  "name": "fleet-lotus seeds",
+  "name_zh": "速速莲蓬",
+  "img": "assets/img/compendium/materials/fleet-lotus_seeds.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "speed up",
+  "hearts_recovered": 0.5,
+  "description": "The plant that bears these seeds grows near deep water. The roots draw nutrients from the water, which boosts your movement speed when the seeds are cooked into a dish.",
+  "common_locations": [
+   "Lanayru Great Spring"
+  ],
+  "dropped_by": [],
+  "description_zh": "水边开放的荷花的果实。通过深扎于水中的根吸收营养。如果用于烹饪，会展现出提高移动速度的效果。"
+ },
+ {
+  "id": 212,
+  "name": "mighty bananas",
+  "name_zh": "大剑香蕉",
+  "img": "assets/img/compendium/materials/mighty_bananas.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "attack up",
+  "hearts_recovered": 0.5,
+  "description": "This fruit grows mainly in tropical forests of the Faron region. When it's used as an ingredient, the resulting dish will temporarily increase your attack power.",
+  "common_locations": [
+   "Lake Floria",
+   "Eventide Island"
+  ],
+  "dropped_by": [
+   "依盖队 成员",
+   "依盖队 干部"
+  ],
+  "description_zh": "主要生长在费罗尼地区热带丛林里的水果。被皮包裹着的果肉具有增加肌肉力量的效果。如果加以烹饪，能做成增加攻击力的菜肴。"
+ },
+ {
+  "id": 213,
+  "name": "fire fruit",
+  "name_zh": "火焰果",
+  "img": "assets/img/compendium/materials/fire_fruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "hot weather attack",
+  "hearts_recovered": 0.25,
+  "description": "A fruit that generates heat when struck. Cooked correctly, its heating properties improve blood flow and stimulate muscles to raise attack power in high temperatures.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dropped_by": [],
+  "description_zh": "破裂后会发热的果实。含有的成分能以热量促进血液流动、活化肌肉，因此烹饪后食用，可以在高温时施放强力的攻击。"
+ },
+ {
+  "id": 214,
+  "name": "ice fruit",
+  "name_zh": "冷气果",
+  "img": "assets/img/compendium/materials/ice_fruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "cold weather attack",
+  "hearts_recovered": 0.25,
+  "description": "A fruit that generates cold when struck. Cooked correctly, it gives off an effect that strengthens muscles and increases attack power in cold temperatures.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dropped_by": [],
+  "description_zh": "破裂后会散发冷气的果实。低温状态可强化平时不使用的肌纤维，因此烹饪后食用，可以在寒冷时使出强力的攻击。"
+ },
+ {
+  "id": 215,
+  "name": "splash fruit",
+  "name_zh": "水之果",
+  "img": "assets/img/compendium/materials/splash_fruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "swim speed up",
+  "hearts_recovered": 0.25,
+  "description": "A fruit that contains pressurized water. Cooking it brings out its ability to enhance swim speed when ingested.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "内部积蓄了高压水的树果。其成分能让手脚更加灵活，做成料理食用后可使游泳速度增快。"
+ },
+ {
+  "id": 216,
+  "name": "shock fruit",
+  "name_zh": "电流果",
+  "img": "assets/img/compendium/materials/shock_fruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stormy weather attack",
+  "hearts_recovered": 0.25,
+  "description": "When cooked correctly, this shockingly tasty fruit stimulates the consumer's muscles and grants increased attack power during thunderstorms.",
+  "common_locations": [
+   "East Necluda",
+   "Gerudo Desert"
+  ],
+  "dropped_by": [],
+  "description_zh": "破裂后会产生电流的果实。含有的成分会对雷鸣发生反应，刺激肌肉力量，因此烹饪后食用，可以在雷雨天施放强力的攻击。"
+ },
+ {
+  "id": 217,
+  "name": "dazzlefruit",
+  "name_zh": "闪耀果",
+  "img": "assets/img/compendium/materials/dazzlefruit.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0.25,
+  "description": "A fruit charged with powerful light. Break it to unleash dazzling sparkles that blind any monsters nearby.",
+  "common_locations": [
+   "Hyrule Field",
+   "Gerudo Highlands"
+  ],
+  "dropped_by": [],
+  "description_zh": "积攒了强光的树木果实。一旦破裂便会向周围发出刺眼的闪光，可以利用它让怪物失明。"
+ },
+ {
+  "id": 218,
+  "name": "hylian shroom",
+  "name_zh": "海拉鲁蘑菇",
+  "img": "assets/img/compendium/materials/hylian_shroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0.5,
+  "description": "A common mushroom found near trees around Hyrule. Eat it to restore half a heart.",
+  "common_locations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [],
+  "description_zh": "代表着海拉鲁森林的蘑菇。大多生长在树的旁边。食用后能回复心心。"
+ },
+ {
+  "id": 219,
+  "name": "skyshroom",
+  "name_zh": "天空蘑菇",
+  "img": "assets/img/compendium/materials/skyshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0.25,
+  "description": "A common mushroom that grows near trees on sky islands. Eat it to restore health.",
+  "common_locations": [
+   "Great Sky Island",
+   "Thunderhead Isles"
+  ],
+  "dropped_by": [],
+  "description_zh": "生长于空岛的树根，很常见的蘑菇。食用后能回复心心。"
+ },
+ {
+  "id": 220,
+  "name": "endura shroom",
+  "name_zh": "毅力蘑菇",
+  "img": "assets/img/compendium/materials/endura_shroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "extra stamina",
+  "hearts_recovered": 1,
+  "description": "A rare yellowish-orange mushroom. Cook it before eating to temporarily increase your stamina limit.",
+  "common_locations": [
+   "North Tabantha Sky Archipelago",
+   "North Necluda Sky Archipelago"
+  ],
+  "dropped_by": [],
+  "description_zh": "极少见的黄色蘑菇。烹饪后，精力槽的最大值会增长。也就是说，会发挥很重要的效果。"
+ },
+ {
+  "id": 221,
+  "name": "stamella shroom",
+  "name_zh": "精力蘑菇",
+  "img": "assets/img/compendium/materials/stamella_shroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stamina recovery",
+  "hearts_recovered": 0.5,
+  "description": "A nutritious mushroom chock-full of natural energy. Cook it to release its stamina-restoration properties.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "储存了很多大地的能源，营养十分丰富的蘑菇。如果用于烹饪，可以获得回复精力的效果。"
+ },
+ {
+  "id": 222,
+  "name": "hearty truffle",
+  "name_zh": "生命松露",
+  "img": "assets/img/compendium/materials/hearty_truffle.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "extra hearts",
+  "hearts_recovered": 2,
+  "description": "This rare mushroom has a rich scent. It'll restore all your hearts and temporarily increase your maximum hearts when used in cooking.",
+  "common_locations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "相当贵重的一种蘑菇。在土里生长，有强烈香气。制成料理的话，能够回复全部心心并增加心心最大值。"
+ },
+ {
+  "id": 223,
+  "name": "big hearty truffle",
+  "name_zh": "大生命松露",
+  "img": "assets/img/compendium/materials/big_hearty truffle.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "extra hearts",
+  "hearts_recovered": 3,
+  "description": "Years of going unpicked have allowed this hearty truffle to grow quite large. When cooked into a dish, it'll restore all hearts and temporarily increase your maximum hearts.",
+  "common_locations": [
+   "East Necluda",
+   "Gerudo Desert"
+  ],
+  "dropped_by": [],
+  "description_zh": "谁都没有发现的长得巨大的生命松露。因为储存的营养很丰富，如果用于烹饪，可以回复全部心心，并大幅增加心心最大值。"
+ },
+ {
+  "id": 224,
+  "name": "chillshroom",
+  "name_zh": "冰冷蘑菇",
+  "img": "assets/img/compendium/materials/chillshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "heat resistance",
+  "hearts_recovered": 0.5,
+  "description": "Often found at the base of pine trees in cold climates, these mushrooms are cool to the touch and can be used to cook dishes that allow you to stay cool even in arid regions.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dropped_by": [],
+  "description_zh": "经常生长在雪山针叶树的树根旁。碰到的话会冰冰的。如果用于烹饪，就能连沙漠的酷暑也经受得住。"
+ },
+ {
+  "id": 225,
+  "name": "sunshroom",
+  "name_zh": "暖暖蘑菇",
+  "img": "assets/img/compendium/materials/sunshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "cold resistance",
+  "hearts_recovered": 0.5,
+  "description": "A bright-red mushroom that grows in hot climates. Imbued with the power of heat, it can be used to cook dishes that will allow you to endure the bitter cold.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "dropped_by": [],
+  "description_zh": "主要生长在高温地区的大红色的蘑菇。如外表所见，蕴藏着火之力量。如果用于烹饪，便能发挥连寒冷的雪山也能经受的功效。"
+ },
+ {
+  "id": 226,
+  "name": "zapshroom",
+  "name_zh": "酥麻蘑菇",
+  "img": "assets/img/compendium/materials/zapshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "shock resistance",
+  "hearts_recovered": 0.5,
+  "description": "This mushroom grows wild in the Gerudo region. The cap is naturally insulated, so when used in cooking, it will offer protection against electricity.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Lanayru Wetlands"
+  ],
+  "dropped_by": [],
+  "description_zh": "在格鲁德地区很常见的蘑菇。菌伞部分富含绝缘成分，如果用于烹饪，就能经受得住电击。"
+ },
+ {
+  "id": 227,
+  "name": "rushroom",
+  "name_zh": "速速蘑菇",
+  "img": "assets/img/compendium/materials/rushroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "speed up",
+  "hearts_recovered": 0.5,
+  "description": "A mushroom that can grow almost anywhere but prefers ceilings and sheer cliffs. Cook it before eating to temporarily increase your movement speed.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Tabantha Frontier"
+  ],
+  "dropped_by": [],
+  "description_zh": "攀着天花板或断崖生长的蘑菇。无论何处都能生长，生命力很强。如果用于烹饪，会有提高行动速度的效果。"
+ },
+ {
+  "id": 228,
+  "name": "razorshroom",
+  "name_zh": "大剑蘑菇",
+  "img": "assets/img/compendium/materials/razorshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "attack up",
+  "hearts_recovered": 0.5,
+  "description": "This mushroom is known for the natural slice in its cap. Eating it fosters your competitive spirit. Use it when cooking to prepare a dish that will increase your strength.",
+  "common_locations": [
+   "Great Hyrule Forest",
+   "Tabantha Frontier"
+  ],
+  "dropped_by": [],
+  "description_zh": "表面裂纹像是用剑劈过一样的蘑菇。如果用于烹饪，据说会因菌伞内褶皱中的成分而提高斗志，增加攻击力。"
+ },
+ {
+  "id": 229,
+  "name": "ironshroom",
+  "name_zh": "铠甲蘑菇",
+  "img": "assets/img/compendium/materials/ironshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "defense up",
+  "hearts_recovered": 0.5,
+  "description": "The cap of this mushroom is very hard. Use it when cooking to prepare a dish that increases your defense.",
+  "common_locations": [
+   "East Necluda",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "菌伞非常坚硬发达的蘑菇。将菌伞中含有的成分调制烹饪后，具有强化身体的功效，能增加防御力。"
+ },
+ {
+  "id": 230,
+  "name": "silent shroom",
+  "name_zh": "潜行蘑菇",
+  "img": "assets/img/compendium/materials/silent_shroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stealth up",
+  "hearts_recovered": 0.5,
+  "description": "A strange mushroom that glows softly in the forest at night. Cooking it into a dish unlocks the nutrients in its cap, resulting in a meal that will allow you to move stealthily.",
+  "common_locations": [
+   "Akkala Highlands",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "到了夜里就会静静地发光的蘑菇。如果用于烹饪，就会因菌伞内所含的成分而提高集中力，行动时没有一点动静。"
+ },
+ {
+  "id": 231,
+  "name": "brightcap",
+  "name_zh": "光亮蘑菇",
+  "img": "assets/img/compendium/materials/brightcap.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "glow",
+  "hearts_recovered": 0.5,
+  "description": "A mushroom that grows in caves and contains luminescent enzymes. Cook it into a dish to give a glowing effect to anyone who eats it.",
+  "common_locations": [
+   "Hyrule Caves"
+  ],
+  "dropped_by": [],
+  "description_zh": "生长在洞窟，含有发光酶的蘑菇。如果用于烹饪，食用其中发光成分的人，身体会发出微弱的光芒。"
+ },
+ {
+  "id": 232,
+  "name": "puffshroom",
+  "name_zh": "烟雾蘑菇",
+  "img": "assets/img/compendium/materials/puffshroom.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A mushroom that spreads a cloud of fine spores when a stimulus is applied. The bitter powder makes them inedible.",
+  "common_locations": [
+   "The Depths"
+  ],
+  "dropped_by": [],
+  "description_zh": "含有非常细密的孢子的蘑菇。一旦受到刺激就会发散出一大片孢子的粉尘。味道很苦，并不能食用。"
+ },
+ {
+  "id": 233,
+  "name": "hyrule herb",
+  "name_zh": "海拉鲁草",
+  "img": "assets/img/compendium/materials/hyrule_herb.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 1,
+  "description": "This healthy herb has not changed since ancient times. Cook it before eating to increase the number of hearts it restores.",
+  "common_locations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [],
+  "description_zh": "自远古以来外形一成不变的草本植物。富含生命力，如果用于烹饪，会有回复心心的效果。"
+ },
+ {
+  "id": 234,
+  "name": "stambulb",
+  "name_zh": "精力草",
+  "img": "assets/img/compendium/materials/stambulb.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stamina recovery",
+  "hearts_recovered": 0.5,
+  "description": "A wild plant with bulging roots often found in cooler climates. It contains nutrients that increase endurance. Cook it to restore stamina.",
+  "common_locations": [
+   "Great Sky Island",
+   "Thunderhead Isles"
+  ],
+  "dropped_by": [],
+  "description_zh": "根部膨胀的野草，喜爱寒冷的气候。膨胀处含有强化体力和持久力的成分，用于料理的话，就会有回复精力的效果。"
+ },
+ {
+  "id": 235,
+  "name": "hearty radish",
+  "name_zh": "生命小萝卜",
+  "img": "assets/img/compendium/materials/hearty_radish.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "extra hearts",
+  "hearts_recovered": 2.5,
+  "description": "A rare radish that grows best in sunny plains. Cook it before eating to restore all your hearts and temporarily increase your maximum hearts.",
+  "common_locations": [
+   "Lanayru Sky Archipelago",
+   "South Lanayru Sky Archipelago"
+  ],
+  "dropped_by": [],
+  "description_zh": "生长在日照良好的草原上的珍稀萝卜。如果用于烹饪，可以回复全部心心，并增加心心最大值。"
+ },
+ {
+  "id": 236,
+  "name": "big hearty radish",
+  "name_zh": "生命大萝卜",
+  "img": "assets/img/compendium/materials/big_hearty radish.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "extra hearts",
+  "hearts_recovered": 4,
+  "description": "This hearty radish is much larger than the average radish. When cooked into a dish, it restores all your hearts and temporarily increases your maximum hearts.",
+  "common_locations": [
+   "Thunderhead Isles",
+   "North Necluda Sky Archipelago"
+  ],
+  "dropped_by": [],
+  "description_zh": "生长得大大超出平均水平的生命小萝卜。营养成分非常丰富，如果用于烹饪，可以回复全部心心，并大幅增加心心最大值。"
+ },
+ {
+  "id": 237,
+  "name": "cool safflina",
+  "name_zh": "冰冷香草",
+  "img": "assets/img/compendium/materials/cool_safflina.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "heat resistance",
+  "hearts_recovered": 0,
+  "description": "This medicinal plant grows in high elevations, such as mountains in the Hebra or Gerudo regions. When cooked into a dish, it will temporarily increase your heat resistance.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dropped_by": [],
+  "description_zh": "生长在海布拉和格鲁德等高海拔地区。是一种药草，叶子含有令身体凉爽的成分。如果用于烹饪，可以获得耐热效果。"
+ },
+ {
+  "id": 238,
+  "name": "warm safflina",
+  "name_zh": "暖暖香草",
+  "img": "assets/img/compendium/materials/warm_safflina.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "cold resistance",
+  "hearts_recovered": 0,
+  "description": "This medicinal plant grows in hot regions, such as the Gerudo Desert. It's warm to the touch and increases your cold resistance when cooked into a dish.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Gerudo Desert"
+  ],
+  "dropped_by": [],
+  "description_zh": "生长在格鲁德地区等气温高的地方。是一种药草，果实和叶子有很强的辛辣成分。如果用于烹饪，可以获得耐寒效果。"
+ },
+ {
+  "id": 239,
+  "name": "electric safflina",
+  "name_zh": "酥麻香草",
+  "img": "assets/img/compendium/materials/electric_safflina.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "shock resistance",
+  "hearts_recovered": 0,
+  "description": "This medicinal plant grows abundantly in the Gerudo Desert. Its peculiar fibers conduct electricity, which will increase your electricity resistance when cooked into a dish.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [],
+  "description_zh": "大多生长在格鲁德沙漠的一种药草。拥有疏导电流的特殊纤维质。如果用于烹饪，可以获得耐电效果。"
+ },
+ {
+  "id": 240,
+  "name": "swift carrot",
+  "name_zh": "速速胡萝卜",
+  "img": "assets/img/compendium/materials/swift_carrot.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "speed up",
+  "hearts_recovered": 0.5,
+  "description": "This carrot is cultivated extensively in villages. It strengthens the legs and hips when cooked into a dish, which helps increase your movement speed.",
+  "common_locations": [
+   "Kakariko Village",
+   "Hateno Village"
+  ],
+  "dropped_by": [],
+  "description_zh": "在村庄等地经常种植的胡萝卜。据说有强健腰腿的功效。如果烹饪后食用，移动速度会提高。"
+ },
+ {
+  "id": 241,
+  "name": "endura carrot",
+  "name_zh": "毅力胡萝卜",
+  "img": "assets/img/compendium/materials/endura_carrot.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "extra stamina",
+  "hearts_recovered": 2,
+  "description": "Highly valued as a medicinal plant, this carrot contains large amounts of nourishing energy. When cooked into a dish, it boosts your stamina beyond its maximum limit.",
+  "common_locations": [
+   "East Necluda",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [],
+  "description_zh": "作为药草而备受重视的珍贵胡萝卜。含有大量作为活力源的成分。如果用于烹饪，精力槽会增长到超出上限。"
+ },
+ {
+  "id": 242,
+  "name": "fortified pumpkin",
+  "name_zh": "铠甲南瓜",
+  "img": "assets/img/compendium/materials/fortified_pumpkin.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "defense up",
+  "hearts_recovered": 0.5,
+  "description": "An extremely tough pumpkin raised for food. When cooked, that toughness manifests itself by considerably upping defense.",
+  "common_locations": [
+   "Kakariko Village",
+   "Hateno Village"
+  ],
+  "dropped_by": [
+   "西诺克斯"
+  ],
+  "description_zh": "作为食用材料而栽培的非常硬的南瓜。如果用于烹饪，坚硬的成分所发挥的效果，能令防御力增加许多。"
+ },
+ {
+  "id": 243,
+  "name": "sun pumpkin",
+  "name_zh": "向阳南瓜",
+  "img": "assets/img/compendium/materials/sun_pumpkin.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "gloom recovery",
+  "hearts_recovered": 0.5,
+  "description": "A new variety of pumpkin that soaks up the sunshine in Hateno Village. Baked into a dish, it can help heal the effects of exposure to gloom.",
+  "common_locations": [
+   "Hateno Village"
+  ],
+  "dropped_by": [],
+  "description_zh": "在哈特诺村培育出来的新品种南瓜。充分沐浴阳光生长，如果用于烹饪，会有治愈受瘴气侵蚀的身体的效果。"
+ },
+ {
+  "id": 244,
+  "name": "swift violet",
+  "name_zh": "速速紫罗兰",
+  "img": "assets/img/compendium/materials/swift_violet.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "speed up",
+  "hearts_recovered": 0,
+  "description": "This vitality-rich flower blooms mainly on cliffsides. When cooked into a dish, the nourishing compounds increase your movement speed.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dropped_by": [],
+  "description_zh": "开放在悬崖峭壁上，生命力旺盛的花。如果用于烹饪，其储藏的营养成分能起到令移动速度上升的效果。"
+ },
+ {
+  "id": 245,
+  "name": "mighty thistle",
+  "name_zh": "大剑草",
+  "img": "assets/img/compendium/materials/mighty_thistle.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "attack up",
+  "hearts_recovered": 0,
+  "description": "This medicinal plant is known for its sharp thorns and for the fruit it bears. The fruit contains a compound that increases attack power when cooked into a dish.",
+  "common_locations": [
+   "East Necluda",
+   "Faron Grasslands"
+  ],
+  "dropped_by": [],
+  "description_zh": "叶片和果实上带有尖刺的药草。含有能暂时增加肌肉力量的特殊成分。如果用于烹饪，能发挥增加攻击力的效果。"
+ },
+ {
+  "id": 246,
+  "name": "armoranth",
+  "name_zh": "铠甲草",
+  "img": "assets/img/compendium/materials/armoranth.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "defense up",
+  "hearts_recovered": 0,
+  "description": "This tough medicinal plant cannot be broken, but it can be cooked. Its durable yet flexible fibers raise your defense when cooked into a dish.",
+  "common_locations": [
+   "Hyrule Ridge",
+   "Akkala Highlands"
+  ],
+  "dropped_by": [],
+  "description_zh": "即使被踩踏也不会折断的坚韧药草。那结实而又有弹性的纤维质，如果烹饪后食用，可以强健身体，增加防御力。"
+ },
+ {
+  "id": 247,
+  "name": "blue nightshade",
+  "name_zh": "潜行草",
+  "img": "assets/img/compendium/materials/blue_nightshade.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stealth up",
+  "hearts_recovered": 0,
+  "description": "A plant that grows in quieter areas of Hyrule. At night, it gives off a soft glow. Cook with it to increase your stealth.",
+  "common_locations": [
+   "Great Hyrule Forest",
+   "West Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "主要开放在森林和草地的花。到了夜里就会幽幽地发光。如果用于烹饪，会有提高安静度的效果。"
+ },
+ {
+  "id": 248,
+  "name": "sundelion",
+  "name_zh": "向阳草",
+  "img": "assets/img/compendium/materials/sundelion.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "gloom recovery",
+  "hearts_recovered": 0,
+  "description": "A wild plant that grows in the sun at high altitudes. Soaked in sunlight, its petals can restore health depleted by gloom when used in cooking.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dropped_by": [],
+  "description_zh": "阳光充足的高空处生长的野草。充分沐浴阳光成长的花瓣在烹饪过后具有治愈瘴气侵蚀的身体之功效。"
+ },
+ {
+  "id": 249,
+  "name": "brightbloom seed",
+  "name_zh": "光亮花的种子",
+  "img": "assets/img/compendium/materials/brightbloom_seed.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A seed that's often found in caves or wells. When struck, it will take root and bloom, giving off faint light from a small flower.",
+  "common_locations": [
+   "Hyrule Caves"
+  ],
+  "dropped_by": [
+   "小迦马"
+  ],
+  "description_zh": "生长在洞窟或井中的光亮花的花种。受到冲击便会立刻开花，就地扎根，发出的光芒会微微照亮四周。"
+ },
+ {
+  "id": 250,
+  "name": "giant brightbloom seed",
+  "name_zh": "巨大光亮花的种子",
+  "img": "assets/img/compendium/materials/giant_brightbloom seed.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A seed that's found underground. When struck, it will take root and bloom, radiating a large amount of light from a big flower.",
+  "common_locations": [
+   "Hyrule Caves"
+  ],
+  "dropped_by": [
+   "小迦马"
+  ],
+  "description_zh": "在洞窟中历经岁月生长的光亮花的种子。受到冲击会就地扎根并开出巨大的花朵，发出十分明亮的光芒照亮附近一带。"
+ },
+ {
+  "id": 251,
+  "name": "muddle bud",
+  "name_zh": "混乱花",
+  "img": "assets/img/compendium/materials/muddle_bud.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A wildflower with a powerful odor that can disorient and confuse, making it difficult to tell friend from foe.",
+  "common_locations": [
+   "The Depths"
+  ],
+  "dropped_by": [],
+  "description_zh": "散发强烈恶臭的野花。据说闻到这股臭味后，会变得神志不清，短时间内无法分清敌我。"
+ },
+ {
+  "id": 252,
+  "name": "bomb flower",
+  "name_zh": "炸弹花",
+  "img": "assets/img/compendium/materials/bomb_flower.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A dangerous flower that contains explosive elements. Does not mix well with fire or electricity, unless the goal is to blow things up.",
+  "common_locations": [
+   "Hyrule Caves",
+   "The Depths"
+  ],
+  "dropped_by": [],
+  "description_zh": "含有与火药极度类似成分的花。给予冲击或点火的话，就会发生波及周围的爆炸。"
+ },
+ {
+  "id": 253,
+  "name": "silent princess",
+  "name_zh": "宁静公主",
+  "img": "assets/img/compendium/materials/silent_princess.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stealth up",
+  "hearts_recovered": 0,
+  "description": "This lovely flower was said to have been a favorite of the princess of Hyrule. They were once feared to have gone extinct, but it's not uncommon to spot them growing in the wild.",
+  "common_locations": [
+   "Akkala Highlands",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [],
+  "description_zh": "据说是海拉鲁王国的公主所喜爱的可怜的花。和以前相比，是面临着灭绝危险的物种。近年来偶尔可以看到野生的。"
+ },
+ {
+  "id": 254,
+  "name": "courser bee honey",
+  "name_zh": "精力蜂的蜂蜜",
+  "img": "assets/img/compendium/materials/courser_bee honey.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "stamina recovery",
+  "hearts_recovered": 2,
+  "description": "Honey straight from the hive is chock-full of nutrients. Cooking this into a meal unlocks the potential of these nutrients and provides a stamina-recovery effect.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "从蜂巢中取出的蜂蜜营养丰富！由于其营养价值高，作为秘方加进料理中，会有回复精力槽的效果。"
+ },
+ {
+  "id": 255,
+  "name": "hylian pine cone",
+  "name_zh": "海拉鲁球果",
+  "img": "assets/img/compendium/materials/hylian_pine cone.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "Grows on trees found all over Hyrule. It contains oil and burns well. Throw it into a fire to increase the intensity of the flame.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Lanayru Great Spring"
+  ],
+  "dropped_by": [],
+  "description_zh": "在海拉鲁广泛分布的树木果实。含有较多油分，易于点燃，添入篝火即可让火烧得更旺。"
+ },
+ {
+  "id": 256,
+  "name": "korok frond",
+  "name_zh": "克洛格的叶子",
+  "img": "assets/img/compendium/materials/korok_frond.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "",
+  "hearts_recovered": 0.25,
+  "description": "A mysterious leaf that looks like it might be hiding something behind it. It has some medicinal value. Attach it to a stick and it can be used as a fan.",
+  "common_locations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "dropped_by": [],
+  "description_zh": "让人觉得有东西藏在后面的神奇叶子，含有些许的药效成分。装到棍棒上就能当作扇子使用。"
+ },
+ {
+  "id": 257,
+  "name": "chuchu jelly",
+  "name_zh": "丘丘胶",
+  "img": "assets/img/compendium/materials/chuchu_jelly.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A gelatinous substance that came from a Chuchu. It's unusable in this state, but applying a bit of elemental stimulation will change its form.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dropped_by": [
+   "丘丘"
+  ],
+  "description_zh": "和丘丘一模一样，抖动着的固体。非常不稳定的状态，好像随便给点刺激就会变化。"
+ },
+ {
+  "id": 258,
+  "name": "red chuchu jelly",
+  "name_zh": "红色丘丘胶",
+  "img": "assets/img/compendium/materials/red_chuchu jelly.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A jiggly substance that normally comes from a Fire Chuchu. It consistently gives off heat. If struck, it will explode in a ball of flame.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Eldin Mountains"
+  ],
+  "dropped_by": [
+   "火丘丘"
+  ],
+  "description_zh": "和火丘丘一模一样，抖动着的固体。不断释放着热量。敲击后会破裂，放出火来。"
+ },
+ {
+  "id": 259,
+  "name": "white chuchu jelly",
+  "name_zh": "白色丘丘胶",
+  "img": "assets/img/compendium/materials/white_chuchu jelly.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A jiggly substance that came from an Ice Chuchu. It's cool to the touch, and squeezing it seems to relieve stress. If struck, it will explode in a cold mist.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dropped_by": [
+   "冰丘丘"
+  ],
+  "description_zh": "和冰丘丘一模一样，抖动着的固体。如果拿着看，会有凉爽宜人的感觉。敲击后会破裂，散出冷气。"
+ },
+ {
+  "id": 260,
+  "name": "yellow chuchu jelly",
+  "name_zh": "黄色丘丘胶",
+  "img": "assets/img/compendium/materials/yellow_chuchu jelly.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A jiggly substance that came from an Electric Chuchu. Electricity pulses through its gelatinous mass. If struck, it will explode in a burst of electric current.",
+  "common_locations": [
+   "West Necluda",
+   "Gerudo Desert"
+  ],
+  "dropped_by": [
+   "电丘丘"
+  ],
+  "description_zh": "和电丘丘一模一样，抖动着的固体。不至于麻痹，但常常会麻麻的。敲击后会破裂，在周围产生电气。"
+ },
+ {
+  "id": 261,
+  "name": "keese eyeball",
+  "name_zh": "蝙蝠的眼珠",
+  "img": "assets/img/compendium/materials/keese_eyeball.png",
+  "fuse_attack_power": 1,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "These mysterious orbs scan their surroundings. Take advantage of their glaring awareness, and attach one to an arrow to grant a homing quality to the arrow.",
+  "common_locations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dropped_by": [
+   "蝙蝠"
+  ],
+  "description_zh": "骨碌碌地环视四周，令人发毛的材料。装到箭上，就能凭眼瞳那一直紧盯目标的力量赋予其追踪所瞄准对象的能力。"
+ },
+ {
+  "id": 262,
+  "name": "fire keese eyeball",
+  "name_zh": "火蝙蝠的眼珠",
+  "img": "assets/img/compendium/materials/fire_keese eyeball.png",
+  "fuse_attack_power": 8,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "Fire Keese eyeballs are imbued with heat and are useful in making elixirs. Attach one to an arrow to grant a homing quality to the arrow.",
+  "common_locations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "dropped_by": [
+   "火蝙蝠"
+  ],
+  "description_zh": "带有火蝙蝠之热气的眼珠。作为药材十分有用，也可以装到箭上，以获得提高命中率的效果。"
+ },
+ {
+  "id": 263,
+  "name": "ice keese eyeball",
+  "name_zh": "冰蝙蝠的眼珠",
+  "img": "assets/img/compendium/materials/ice_keese eyeball.png",
+  "fuse_attack_power": 4,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "Ice Keese eyeballs are imbued with freezing power and are useful in making elixirs. Attach one to an arrow to grant a homing quality to the arrow.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Mount Lanayru"
+  ],
+  "dropped_by": [
+   "冰蝙蝠"
+  ],
+  "description_zh": "冰蝙蝠的冻结眼珠。一般作为药材使用，但也能装到箭上以获得更易命中目标的效果。"
+ },
+ {
+  "id": 264,
+  "name": "electric keese eyeball",
+  "name_zh": "电蝙蝠的眼珠",
+  "img": "assets/img/compendium/materials/electric_keese eyeball.png",
+  "fuse_attack_power": 6,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "Electric Keese eyeballs are imbued with electric power and are useful in making elixirs. Attach one to an arrow to grant a homing quality to the arrow.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dropped_by": [
+   "电蝙蝠"
+  ],
+  "description_zh": "积蓄电蝙蝠之电能的眼珠。可以用作药材这一点自不必说，若装到箭上，就能让箭自动追踪目标。"
+ },
+ {
+  "id": 265,
+  "name": "like like stone",
+  "name_zh": "莱克莱克的胃石",
+  "img": "assets/img/compendium/materials/like_like stone.png",
+  "fuse_attack_power": 4,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A strange round stone from a Like Like, made of crystallized inner fluids. It's a good ingredient for elixirs.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Mountains"
+  ],
+  "dropped_by": [],
+  "description_zh": "从莱克莱克体内取得的奇妙圆石。由体液结晶化而成，其成分可以做药材这点广为人知。"
+ },
+ {
+  "id": 266,
+  "name": "fire like stone",
+  "name_zh": "火焰莱克的胃石",
+  "img": "assets/img/compendium/materials/fire_like stone.png",
+  "fuse_attack_power": 12,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A stomach stone that persists even at high temperatures. It retains heat even outside the body of the creature that contained it, which makes it a useful elixir ingredient.",
+  "common_locations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "dropped_by": [],
+  "description_zh": "在高温的身体内被长久加热的石头。即使取出至体外以后，也一直带着热度，这一效果使其非常适合用作药材。"
+ },
+ {
+  "id": 267,
+  "name": "ice like stone",
+  "name_zh": "冰雪莱克的胃石",
+  "img": "assets/img/compendium/materials/ice_like stone.png",
+  "fuse_attack_power": 12,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A stomach stone kept cold inside a very low-temperature body. It stays cold, even outside the body of the creature that contained it. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Mount Lanayru",
+   "Gerudo Highlands"
+  ],
+  "dropped_by": [],
+  "description_zh": "在极低温的体内被持续冰冻的石头。即使取出至体外以后，也如冰一般寒冷。可以和虫子一起煮制成药物。"
+ },
+ {
+  "id": 268,
+  "name": "shock like stone",
+  "name_zh": "电击莱克的胃石",
+  "img": "assets/img/compendium/materials/shock_like stone.png",
+  "fuse_attack_power": 12,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A stomach stone exposed to high voltage inside the body of a Shock Like. It maintains some charge even outside the creature. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dropped_by": [],
+  "description_zh": "一直在电击莱克体内接触高压电的石头。即使取出至体外以后，也带有些微的电力。也可以和虫子一起煮制成药物。"
+ },
+ {
+  "id": 269,
+  "name": "aerocuda eyeball",
+  "name_zh": "卡库达的眼珠",
+  "img": "assets/img/compendium/materials/aerocuda_eyeball.png",
+  "fuse_attack_power": 4,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "This eyeball is constantly trying to focus on its targets. Cook it with a critter to make an elixir, or attach it to an arrow to grant a homing quality to the arrow.",
+  "common_locations": [
+   "Greater Hyrule"
+  ],
+  "dropped_by": [
+   "卡库达"
+  ],
+  "description_zh": "视野中心始终紧盯着移动目标的眼珠。和虫子一起煮就能做药，另外还可以装到箭上获得提高命中率的效果。"
+ },
+ {
+  "id": 270,
+  "name": "gibdo bone",
+  "name_zh": "吉波得之骨",
+  "img": "assets/img/compendium/materials/gibdo_bone.png",
+  "fuse_attack_power": 40,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A creepy bone with multiple sharp tips. Attach it to a weapon to greatly increase its attack power. It tends to break easily due to its odd shape.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dropped_by": [
+   "吉波得",
+   "魔斯吉波得"
+  ],
+  "description_zh": "有着多个锐利凸起的诡异骨头。装到武器上就能增加许多攻击力，但因为形状不稳定，很快就会损坏。"
+ },
+ {
+  "id": 271,
+  "name": "bokoblin horn",
+  "name_zh": "波克布林的犄角",
+  "img": "assets/img/compendium/materials/bokoblin_horn.png",
+  "fuse_attack_power": 4,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A sharp horn with multiple barbs. Attach it to a weapon to increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "波克布林",
+   "骷髅波克布林"
+  ],
+  "description_zh": "有着多个锐利凸起的角，装到武器上就能增加攻击力。另外，还可以和虫子一起煮制成药。"
+ },
+ {
+  "id": 272,
+  "name": "blue bokoblin horn",
+  "name_zh": "蓝色波克布林的犄角",
+  "img": "assets/img/compendium/materials/blue_bokoblin horn.png",
+  "fuse_attack_power": 7,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A two-pronged horn with sharp edges and tips. Attach it to a weapon to moderately increase its attack power, or brew it into an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dropped_by": [
+   "蓝色波克布林"
+  ],
+  "description_zh": "外侧锋利的双叉犄角。装到武器上就能让两个尖端同时突刺，因此可以增加不少攻击力。另外，也可以用作药材。"
+ },
+ {
+  "id": 273,
+  "name": "black bokoblin horn",
+  "name_zh": "黑色波克布林的犄角",
+  "img": "assets/img/compendium/materials/black_bokoblin horn.png",
+  "fuse_attack_power": 17,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A vicious, three-pronged horn. Attach it to a weapon to greatly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Hyrule Ridge Depths"
+  ],
+  "dropped_by": [
+   "黑色波克布林"
+  ],
+  "description_zh": "尖端分成三叉的犄角。装到武器上就能以多片利刃劈斩，可以增加许多攻击力。另外，煎熬并和虫子一起煮，就能做药。"
+ },
+ {
+  "id": 274,
+  "name": "silver bokoblin horn",
+  "name_zh": "白银波克布林的犄角",
+  "img": "assets/img/compendium/materials/silver_bokoblin horn.png",
+  "fuse_attack_power": 31,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A large, blade-like horn with a unique flourish on the tip. It's sharper than it looks. Attach it to a weapon to vastly increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银波克布林"
+  ],
+  "description_zh": "形似刃具的巨大犄角，尖端有独特的装饰。比看上去要锋利得多，装到武器上就能大幅增加攻击力。还可以和虫子一起煮制成药。"
+ },
+ {
+  "id": 275,
+  "name": "boss bokoblin horn",
+  "name_zh": "首领波克布林的犄角",
+  "img": "assets/img/compendium/materials/boss_bokoblin horn.png",
+  "fuse_attack_power": 10,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "The band on this sword-shaped horn shows that it belonged to a leader. Attach it to a weapon to increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dropped_by": [
+   "首领波克布林"
+  ],
+  "description_zh": "剑形的犄角，缠有证明族群首领身份的带子。装到武器上可以增加攻击力，还可以和虫子一起煮，制成药物。"
+ },
+ {
+  "id": 276,
+  "name": "blue boss bokoblin horn",
+  "name_zh": "蓝色首领波克布林的犄角",
+  "img": "assets/img/compendium/materials/blue_boss bokoblin horn.png",
+  "fuse_attack_power": 16,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "An axe-shaped horn with a band to identify it as belonging to a leader. Attach it to a weapon to moderately increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "dropped_by": [
+   "蓝色首领波克布林"
+  ],
+  "description_zh": "斧头形的犄角，绑着表明首领身份的带子。装到武器上就能增加不少攻击力。另外如果和虫子一起煮，也可以做药。"
+ },
+ {
+  "id": 277,
+  "name": "black boss bokoblin horn",
+  "name_zh": "黑色首领波克布林的犄角",
+  "img": "assets/img/compendium/materials/black_boss bokoblin horn.png",
+  "fuse_attack_power": 27,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A double-edged, axe-shaped horn with two leader bands. Attach it to a weapon to greatly increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dropped_by": [
+   "黑色首领波克布林"
+  ],
+  "description_zh": "双刃斧形的犄角，绑有2条证明首领身份的带子。装到武器上就能增加许多攻击力。另外也可以和虫子一起煮制成药物。"
+ },
+ {
+  "id": 278,
+  "name": "silver boss bokoblin horn",
+  "name_zh": "白银首领波克布林的犄角",
+  "img": "assets/img/compendium/materials/silver_boss bokoblin horn.png",
+  "fuse_attack_power": 37,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A circular, serrated horn. The neatly tied strap contains arcane power. Attach it to a weapon to vastly increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银首领波克布林"
+  ],
+  "description_zh": "侧面锐利的环形犄角。严密缠绕的带子蕴藏着魔力，装到武器上就能大幅增加攻击力。如果和虫子一起煮，也可以制药。"
+ },
+ {
+  "id": 279,
+  "name": "moblin horn",
+  "name_zh": "莫力布林的犄角",
+  "img": "assets/img/compendium/materials/moblin_horn.png",
+  "fuse_attack_power": 6,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A hard horn that resulted from a skull mutation. Attach it to a weapon to increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "莫力布林",
+   "骷髅莫力布林"
+  ],
+  "description_zh": "头骨变形而成的坚硬犄角。装到武器上就能提高攻击力。另外，还可以和虫子一起煮制成药。"
+ },
+ {
+  "id": 280,
+  "name": "blue moblin horn",
+  "name_zh": "蓝色莫力布林的犄角",
+  "img": "assets/img/compendium/materials/blue_moblin horn.png",
+  "fuse_attack_power": 13,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A large, curved horn with two extremely hard tips. Attach it to a weapon to moderately increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dropped_by": [
+   "蓝色莫力布林"
+  ],
+  "description_zh": "左右大幅分叉的弯曲犄角。尖端最为坚硬。装到武器上就能增加不少攻击力。如果和虫子一起煎煮，也可以制药。"
+ },
+ {
+  "id": 281,
+  "name": "black moblin horn",
+  "name_zh": "黑色莫力布林的犄角",
+  "img": "assets/img/compendium/materials/black_moblin horn.png",
+  "fuse_attack_power": 24,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A hefty horn with multiple tough barbs. Attach it to a weapon to greatly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Deep Akkala"
+  ],
+  "dropped_by": [
+   "黑色莫力布林"
+  ],
+  "description_zh": "如岩石一般，有多个坚硬凸起的犄角。重量十足，装到武器上就能增加许多攻击力。如果和虫子一起煎煮，也可以用作药材。"
+ },
+ {
+  "id": 282,
+  "name": "silver moblin horn",
+  "name_zh": "白银莫力布林的犄角",
+  "img": "assets/img/compendium/materials/silver_moblin horn.png",
+  "fuse_attack_power": 33,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A nasty-looking, rock-hard horn. Attach it to a weapon to vastly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银莫力布林"
+  ],
+  "description_zh": "盘成螺旋形状的不祥犄角。硬度甚至超越岩石。装到武器上就能大幅增加攻击力。如果和虫子一起煮，也可以制药。"
+ },
+ {
+  "id": 283,
+  "name": "lizalfos horn",
+  "name_zh": "蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/lizalfos_horn.png",
+  "fuse_attack_power": 8,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A thin, sharp, knife-like horn. Attach it to a weapon to increase its attack power, or cook it with a critter to brew an elixir.",
+  "common_locations": [
+   "Lanayru Wetlands",
+   "Lanayru Great Spring"
+  ],
+  "dropped_by": [
+   "蜥蜴战士",
+   "骷髅蜥蜴战士"
+  ],
+  "description_zh": "薄而锐利的匕首形犄角。装到武器上就能增加攻击力。另外如果和虫子一起煮，也可以做药。"
+ },
+ {
+  "id": 284,
+  "name": "blue lizalfos horn",
+  "name_zh": "蓝色蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/blue_lizalfos horn.png",
+  "fuse_attack_power": 16,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A very long, sword-like horn. Attach it to a weapon to moderately increase its attack power, or cook it with a critter to brew an elixir.",
+  "common_locations": [
+   "Mount Lanayru",
+   "Akkala Highlands Depths"
+  ],
+  "dropped_by": [
+   "蓝色蜥蜴战士"
+  ],
+  "description_zh": "宛如直插天际，修长的刀形犄角。装到武器上就能增加不少攻击力。另外如果和虫子一起煮，也可以制成药物。"
+ },
+ {
+  "id": 285,
+  "name": "black lizalfos horn",
+  "name_zh": "黑色蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/black_lizalfos horn.png",
+  "fuse_attack_power": 26,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A blade-like, serrated horn. Attach it to a weapon to greatly increase its attack power, or cook it with a critter to brew an elixir.",
+  "common_locations": [
+   "Gerudo Desert",
+   "East Necluda"
+  ],
+  "dropped_by": [
+   "黑色蜥蜴战士"
+  ],
+  "description_zh": "上面有数道刻痕，形似利刃的犄角。装到武器上就能增加许多攻击力。另外也可以用作制药的材料。"
+ },
+ {
+  "id": 286,
+  "name": "fire-breath lizalfos horn",
+  "name_zh": "喷火蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/fire-breath_lizalfos horn.png",
+  "fuse_attack_power": 15,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A horn that glows red with the power of fire. Cook it with a critter to make an elixir. The right combination could draw out the blazing power contained within.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "dropped_by": [
+   "喷火蜥蜴战士"
+  ],
+  "description_zh": "储蓄火之力量而赤热的犄角。和虫子一起煮的话就能做药，若方法用对，还可以提取其中积蓄的火之力量。"
+ },
+ {
+  "id": 287,
+  "name": "ice-breath lizalfos horn",
+  "name_zh": "吐雹蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/ice-breath_lizalfos horn.png",
+  "fuse_attack_power": 15,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "The freezing power embedded in this horn's crystal tip can be used to your advantage if you know how. Otherwise, cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dropped_by": [
+   "吐雹蜥蜴战士"
+  ],
+  "description_zh": "尖端结晶积蓄着冰冻的冷气之力的犄角。和虫子一起煮的话就能做药，若方法用对也能利用其中的冷气。"
+ },
+ {
+  "id": 288,
+  "name": "electric lizalfos horn",
+  "name_zh": "电麻蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/electric_lizalfos horn.png",
+  "fuse_attack_power": 15,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A horn charged with as much electricity as a bolt of lightning. Cook it with a critter to make an elixir. It will discharge electricity when stimulated.",
+  "common_locations": [
+   "Gerudo Desert",
+   "Faron"
+  ],
+  "dropped_by": [
+   "电麻蜥蜴战士"
+  ],
+  "description_zh": "积蓄着匹敌惊雷之电能的犄角。和虫子一起煮的话就能做药，另外受到刺激就会放电的性质也足有利用价值。"
+ },
+ {
+  "id": 289,
+  "name": "silver lizalfos horn",
+  "name_zh": "白银蜥蜴战士的犄角",
+  "img": "assets/img/compendium/materials/silver_lizalfos horn.png",
+  "fuse_attack_power": 34,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A sickle-shaped horn that looks like it could slice anything it touches. Attach it to a weapon to vastly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银蜥蜴战士"
+  ],
+  "description_zh": "吹毛立断的镰刀形犄角。装到武器上就能大幅增加攻击力。另外也可以和虫子一起煮来制药。"
+ },
+ {
+  "id": 290,
+  "name": "horriblin horn",
+  "name_zh": "霍拉布林的犄角",
+  "img": "assets/img/compendium/materials/horriblin_horn.png",
+  "fuse_attack_power": 5,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "An elongated hammer-shaped horn with a hard, flat front. Attach to a weapon to increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Caves",
+   "Eldin Canyon Depths"
+  ],
+  "dropped_by": [
+   "霍拉布林",
+   "黑色霍拉布林"
+  ],
+  "description_zh": "前后延伸的锤形犄角。前端最为坚硬，装到武器上就能增加攻击力。也可以和虫子一起煮，作为药材使用。"
+ },
+ {
+  "id": 291,
+  "name": "blue horriblin horn",
+  "name_zh": "蓝色霍拉布林的犄角",
+  "img": "assets/img/compendium/materials/blue_horriblin horn.png",
+  "fuse_attack_power": 11,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A hammer-shaped horn with spiky bumps. Attach it to a weapon to moderately increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Death Mountain",
+   "Death Mountain Depths"
+  ],
+  "dropped_by": [
+   "蓝色霍拉布林"
+  ],
+  "description_zh": "生长后隆起突刺的锤形犄角。装到武器上就能增加不少攻击力。另外如果和虫子一起煮，也可以做药。"
+ },
+ {
+  "id": 292,
+  "name": "black horriblin horn",
+  "name_zh": "黑色霍拉布林的犄角",
+  "img": "assets/img/compendium/materials/black_horriblin horn.png",
+  "fuse_attack_power": 22,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "This large, heavy horn has slowly grown into its present hammer-like shape. Attach it to a weapon to greatly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Caves",
+   "Gerudo Desert Depths"
+  ],
+  "dropped_by": [
+   "黑色霍拉布林"
+  ],
+  "description_zh": "历经岁月，生长得巨大厚重的锤形犄角。装到武器上就能增加许多攻击力。如果和虫子一起煮，也可以做药。"
+ },
+ {
+  "id": 293,
+  "name": "silver horriblin horn",
+  "name_zh": "白银霍拉布林的犄角",
+  "img": "assets/img/compendium/materials/silver_horriblin horn.png",
+  "fuse_attack_power": 5,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A curved horn with an extremely hard tip. Attach it to a weapon to vastly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银霍拉布林"
+  ],
+  "description_zh": "前端十分坚硬，前后形状弯曲的犄角。装到武器上就能大幅增加攻击力。如果和虫子一起煎煮，就能制成药。"
+ },
+ {
+  "id": 294,
+  "name": "lynel saber horn",
+  "name_zh": "莱尼尔的刃角",
+  "img": "assets/img/compendium/materials/lynel_saber horn.png",
+  "fuse_attack_power": 22,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "This blade-like Lynel horn is extremely sharp. It increases a weapon's attack power when attached. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "莱尼尔"
+  ],
+  "description_zh": "莱尼尔的双角之一，形似刃具的犄角。非常锐利，装到武器上就能增加攻击力。另外如果和虫子一起煮，也可以做药。"
+ },
+ {
+  "id": 295,
+  "name": "lynel mace horn",
+  "name_zh": "莱尼尔的碎角",
+  "img": "assets/img/compendium/materials/lynel_mace horn.png",
+  "fuse_attack_power": 18,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A hard, curved Lynel horn. It isn't fully grown, but it can be attached to a weapon to increase its attack power, or cooked with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "莱尼尔"
+  ],
+  "description_zh": "莱尼尔的双角之一，长有如同利爪般异常坚硬的凸起。装到武器上就能增加攻击力。也可以和虫子一起煮制成药。"
+ },
+ {
+  "id": 296,
+  "name": "blue-maned lynel saber horn",
+  "name_zh": "蓝鬃莱尼尔的刃角",
+  "img": "assets/img/compendium/materials/blue-maned_lynel saber horn.png",
+  "fuse_attack_power": 33,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "The sharp, blade-like horn of a Blue-Maned Lynel. Attach it to a weapon to moderately increase its attack power. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "Eldin Canyon Depths"
+  ],
+  "dropped_by": [
+   "蓝鬃莱尼尔"
+  ],
+  "description_zh": "蓝鬃莱尼尔的双角之一，整体都是锐利的刀刃形。装到武器上就能增加不少攻击力。也可以和虫子一起煮，制成药物。"
+ },
+ {
+  "id": 297,
+  "name": "blue-maned lynel mace horn",
+  "name_zh": "蓝鬃莱尼尔的碎角",
+  "img": "assets/img/compendium/materials/blue-maned_lynel mace horn.png",
+  "fuse_attack_power": 29,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "Its ends are split apart, but this horn from a Blue-Maned Lynel is solid. Attach it to a weapon to moderately increase its attack power, or brew it into an elixir.",
+  "common_locations": [
+   "Lanayru Great Spring",
+   "Eldin Canyon Depths"
+  ],
+  "dropped_by": [
+   "蓝鬃莱尼尔"
+  ],
+  "description_zh": "蓝鬃莱尼尔的双角之一。分叉的尖端坚如磐石，装到武器上就能增加不少攻击力。另外还能用作药材。"
+ },
+ {
+  "id": 298,
+  "name": "white-maned lynel saber horn",
+  "name_zh": "白鬃莱尼尔的刃角",
+  "img": "assets/img/compendium/materials/white-maned_lynel saber horn.png",
+  "fuse_attack_power": 44,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "This blade-like horn of a White-Maned Lynel can slash through just about anything. Attach it to a weapon to greatly increase attack power. Cook with a critter to make an elixir.",
+  "common_locations": [
+   "Faron Grasslands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "白鬃莱尼尔"
+  ],
+  "description_zh": "白鬃莱尼尔的双角之一。成排的利刃吹毛立断，装到武器上就能增加许多攻击力。如果和虫子一起煮，也能制药。"
+ },
+ {
+  "id": 299,
+  "name": "white-maned lynel mace horn",
+  "name_zh": "白鬃莱尼尔的碎角",
+  "img": "assets/img/compendium/materials/white-maned_lynel mace horn.png",
+  "fuse_attack_power": 40,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "The claw-like ends of this White-Maned Lynel horn are all extremely hard. Attach to a weapon to greatly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Faron Grasslands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "白鬃莱尼尔"
+  ],
+  "description_zh": "白鬃莱尼尔的双角之一。形如利爪的尖端十分坚硬，装到武器上就能增加许多攻击力。也可以和虫子一起煮制成药。"
+ },
+ {
+  "id": 300,
+  "name": "silver lynel saber horn",
+  "name_zh": "白银莱尼尔的刃角",
+  "img": "assets/img/compendium/materials/silver_lynel saber horn.png",
+  "fuse_attack_power": 55,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "This piercing horn is sharpened to a point for maximum poking. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银莱尼尔"
+  ],
+  "description_zh": "打磨得锋利至极的修长犄角。锋利度出众，装到武器上就能大幅增加攻击力。如果和虫子一起煎煮，也能用作药材。"
+ },
+ {
+  "id": 301,
+  "name": "silver lynel mace horn",
+  "name_zh": "白银莱尼尔的碎角",
+  "img": "assets/img/compendium/materials/silver_lynel mace horn.png",
+  "fuse_attack_power": 51,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "This wickedly barbed Silver Lynel horn is as hard as a diamond. Attach to a weapon to vastly increase its attack power. It's also a precious elixir ingredient.",
+  "common_locations": [],
+  "dropped_by": [
+   "白银莱尼尔"
+  ],
+  "description_zh": "白银莱尼尔的双角之一，硬度堪比钻石。装到武器上就能大幅增加攻击力。同时也是一种非常珍贵的药材。"
+ },
+ {
+  "id": 302,
+  "name": "soldier construct horn",
+  "name_zh": "兵队魔像的角",
+  "img": "assets/img/compendium/materials/soldier_construct horn.png",
+  "fuse_attack_power": 3,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A blade-like horn from a Soldier Construct. It's very sharp, so handle with care.",
+  "common_locations": [
+   "Great Sky Island",
+   "North Gerudo Sky Archipelago"
+  ],
+  "dropped_by": [],
+  "description_zh": "兵队魔像头部形似刃具的角。十分锐利，因此取用时需要小心。"
+ },
+ {
+  "id": 303,
+  "name": "soldier construct ii horn",
+  "name_zh": "兵队魔像的角（中等）",
+  "img": "assets/img/compendium/materials/soldier_construct ii horn.png",
+  "fuse_attack_power": 8,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A sharp, hooked horn dropped from a Soldier Construct II. It's well suited for slicing through small branches and plants. Attach it to a weapon to moderately increase attack power.",
+  "common_locations": [
+   "Hebra Mountains",
+   "Rising Island Chain"
+  ],
+  "dropped_by": [
+   "兵队魔像（中等）"
+  ],
+  "description_zh": "兵队魔像（中等）头部形似柴刀的角。形状适合砍伐小树枝、割除花草，装到武器上就能增加不少攻击力。"
+ },
+ {
+  "id": 304,
+  "name": "soldier construct iii horn",
+  "name_zh": "兵队魔像的角（上等）",
+  "img": "assets/img/compendium/materials/soldier_construct iii horn.png",
+  "fuse_attack_power": 18,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A serrated horn from a Soldier Construct III. Attach it to a weapon to greatly increase attack power. It can cut through plants and large trees.",
+  "common_locations": [
+   "Lanayru Sky Archipelago",
+   "Thunderhead Isles"
+  ],
+  "dropped_by": [
+   "兵队魔像（上等）"
+  ],
+  "description_zh": "兵队魔像（上等）头部形似锯子的角。装到武器上就能增加许多攻击力。不仅能用于割除花草，也可以砍伐大树。"
+ },
+ {
+  "id": 305,
+  "name": "soldier construct iv horn",
+  "name_zh": "兵队魔像的角（特等）",
+  "img": "assets/img/compendium/materials/soldier_construct iv horn.png",
+  "fuse_attack_power": 24,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A horn embedded with a sharp disk. The disk spins mysteriously and can slice through almost anything. Attach the horn to a weapon and vastly increase its attack power.",
+  "common_locations": [],
+  "dropped_by": [
+   "兵队魔像（特等）"
+  ],
+  "description_zh": "带有锐利刀刃，附有圆盘的角。圆盘部分以不可思议的力量旋转，切断碰到的一切。装到武器上就能大幅增加攻击力。"
+ },
+ {
+  "id": 306,
+  "name": "captain construct i horn",
+  "name_zh": "队长魔像的角",
+  "img": "assets/img/compendium/materials/captain_construct i horn.png",
+  "fuse_attack_power": 5,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "This wavy, double-edged, blade-like horn is formidable when it comes to slashing. Attach it to a weapon to increase attack power.",
+  "common_locations": [
+   "Great Sky Island",
+   "Rising Island Chain"
+  ],
+  "dropped_by": [
+   "队长魔像"
+  ],
+  "description_zh": "队长魔像头部波浪形双刃般的角。锐利到足以代替刃具使用，装到武器上就能增加攻击力。"
+ },
+ {
+  "id": 307,
+  "name": "captain construct ii horn",
+  "name_zh": "队长魔像的角（中等）",
+  "img": "assets/img/compendium/materials/captain_construct ii horn.png",
+  "fuse_attack_power": 15,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A sharp, blade-like horn with a split tip that easily slices anything it touches. Attach it to a weapon to moderately increase attack power.",
+  "common_locations": [
+   "Lanayru Sky Archipelago",
+   "West Necluda"
+  ],
+  "dropped_by": [
+   "队长魔像（中等）"
+  ],
+  "description_zh": "尖端左右分叉、形如钩子的角，非常锐利。能够轻易切断所触碰的物体。装到武器上就可以增加不少攻击力。"
+ },
+ {
+  "id": 308,
+  "name": "captain construct iii horn",
+  "name_zh": "队长魔像的角（上等）",
+  "img": "assets/img/compendium/materials/captain_construct iii horn.png",
+  "fuse_attack_power": 25,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A sharp, blade-like horn with a complex tip. It looks almost decorative. Attach it to a weapon to greatly increase attack power.",
+  "common_locations": [
+   "Thyphlo Ruins",
+   "Lanayru Sky Archipelago"
+  ],
+  "dropped_by": [
+   "队长魔像（上等）"
+  ],
+  "description_zh": "刀刃形的角，非常锐利，其尖端的形状犹如装饰品般复杂。装到武器上就可以增加许多攻击力。"
+ },
+ {
+  "id": 309,
+  "name": "captain construct iv horn",
+  "name_zh": "队长魔像的角（特等）",
+  "img": "assets/img/compendium/materials/captain_construct iv horn.png",
+  "fuse_attack_power": 35,
+  "cooking_effect": "",
+  "hearts_recovered": 0,
+  "description": "A mean-looking, branching, blade-like horn. Its edges and tips are extremely sharp. Attach it to a weapon to vastly increase its attack power.",
+  "common_locations": [],
+  "dropped_by": [
+   "队长魔像（特等）"
+  ],
+  "description_zh": "从根部开始一分为二，形似刀刃的角。尖端及凸出部分十分锐利，装到武器上就能大幅增加攻击力。"
+ },
+ {
+  "id": 310,
+  "name": "hinox horn",
+  "name_zh": "西诺克斯的犄角",
+  "img": "assets/img/compendium/materials/hinox_horn.png",
+  "fuse_attack_power": 12,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A horn wrapped in spiked wood. Attach it to a weapon to increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Ridge",
+   "West Necluda"
+  ],
+  "dropped_by": [
+   "西诺克斯"
+  ],
+  "description_zh": "以带刺的木板覆盖四周的犄角。装到武器上就能增加攻击力。犄角本身可以和虫子一起煮制成药物。"
+ },
+ {
+  "id": 311,
+  "name": "blue hinox horn",
+  "name_zh": "蓝色西诺克斯的犄角",
+  "img": "assets/img/compendium/materials/blue_hinox horn.png",
+  "fuse_attack_power": 19,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "This mean-looking horn is wrapped in hard chains. Attach it to a weapon to moderately increase attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "East Necluda Depths",
+   "West Necluda"
+  ],
+  "dropped_by": [
+   "蓝色西诺克斯"
+  ],
+  "description_zh": "缠绕着坚固锁链的不祥犄角。装到武器上就能增加不少攻击力。另外还可以和虫子一起煮制成药物。"
+ },
+ {
+  "id": 312,
+  "name": "black hinox horn",
+  "name_zh": "黑色西诺克斯的犄角",
+  "img": "assets/img/compendium/materials/black_hinox horn.png",
+  "fuse_attack_power": 27,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A horn wrapped in dangerous debris. It's easy to work with and greatly increases the attack power of a weapon when attached. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "East Necluda",
+   "West Necluda Depths"
+  ],
+  "dropped_by": [
+   "黑色西诺克斯"
+  ],
+  "description_zh": "被损毁废材紧紧裹覆的犄角。装到武器上时，由于其形状便于挥舞，可以增加许多攻击力。另外还可以和虫子一起煮制成药物。"
+ },
+ {
+  "id": 313,
+  "name": "stalnox horn",
+  "name_zh": "骷髅西诺克斯的犄角",
+  "img": "assets/img/compendium/materials/stalnox_horn.png",
+  "fuse_attack_power": 29,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "The impaled skulls should serve as a warning. But if you do obtain one, attach it to a weapon to vastly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "East Necluda",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "骷髅西诺克斯"
+  ],
+  "description_zh": "耸立着诡异的骸骨，犄角上的尖刺看着就很痛。装到武器上就能大幅增加攻击力。也可以和虫子一起煮，当作药材使用。"
+ },
+ {
+  "id": 314,
+  "name": "molduga jaw",
+  "name_zh": "莫尔德拉吉克的颚骨",
+  "img": "assets/img/compendium/materials/molduga_jaw.png",
+  "fuse_attack_power": 32,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "A hard jawbone. Its shape allows a Molduga some maneuverability in the sand. Attach it to a weapon to greatly increase its attack power. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Gerudo Desert"
+  ],
+  "dropped_by": [
+   "莫尔德拉吉克"
+  ],
+  "description_zh": "在拨开沙子前进时很有用的牢固骨头。非常坚硬，装到武器上就能增加许多攻击力。也可以和虫子一起煎制成药。"
+ },
+ {
+  "id": 315,
+  "name": "gleeok flame horn",
+  "name_zh": "古栗欧克的火焰犄角",
+  "img": "assets/img/compendium/materials/gleeok_flame horn.png",
+  "fuse_attack_power": 30,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A crown-like, fire-imbued horn of a Gleeok. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Eldin Canyon",
+   "Lake Hylia"
+  ],
+  "dropped_by": [
+   "火焰古栗欧克",
+   "古栗欧克王"
+  ],
+  "description_zh": "缠绕火焰的古栗欧克头部的冠状犄角。受到刺激就会释放火焰，装到武器上就能大幅增加攻击力。还可以煎制成药物。"
+ },
+ {
+  "id": 316,
+  "name": "gleeok frost horn",
+  "name_zh": "古栗欧克的冰雪犄角",
+  "img": "assets/img/compendium/materials/gleeok_frost horn.png",
+  "fuse_attack_power": 30,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A crown-like, frost-imbued horn of a Gleeok. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dropped_by": [
+   "冰雪古栗欧克",
+   "古栗欧克王"
+  ],
+  "description_zh": "掌控冷气的古栗欧克头部的冠状犄角。具有冰冷的刀刃，装到武器上就能大幅增加攻击力。还可以和虫子一起煮制成药。"
+ },
+ {
+  "id": 317,
+  "name": "gleeok thunder horn",
+  "name_zh": "古栗欧克的雷电犄角",
+  "img": "assets/img/compendium/materials/gleeok_thunder horn.png",
+  "fuse_attack_power": 30,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A crown-like, lightning-imbued horn of a Gleeok. Attach it to a weapon to vastly increase its attack power. Cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hyrule Field",
+   "Faron Grasslands"
+  ],
+  "dropped_by": [
+   "雷电古栗欧克",
+   "古栗欧克王"
+  ],
+  "description_zh": "环绕雷电的古栗欧克头部的冠状犄角。具有释放积蓄的电力的性质，装到武器上就能大幅增加攻击力。还可以煮制成药物。"
+ },
+ {
+  "id": 318,
+  "name": "frox fang",
+  "name_zh": "巨霸迦马的大牙",
+  "img": "assets/img/compendium/materials/frox_fang.png",
+  "fuse_attack_power": 14,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A giant, ore-crunching Frox fang. Attach it to a weapon to moderately increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Gerudo Highlands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dropped_by": [
+   "巨霸迦马"
+  ],
+  "description_zh": "用来削铲矿石的巨大牙齿。装到武器上就能增加不少攻击力。如果和虫子一起煮，也可以用作药材。"
+ },
+ {
+  "id": 319,
+  "name": "obsidian frox fang",
+  "name_zh": "黑曜巨霸迦马的大牙",
+  "img": "assets/img/compendium/materials/obsidian_frox fang.png",
+  "fuse_attack_power": 24,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A giant fang for excavating and crushing ores. Attach it to a weapon to greatly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Gerudo Desert Depths",
+   "Hyrule Ridge Depths"
+  ],
+  "dropped_by": [
+   "黑曜巨霸迦马"
+  ],
+  "description_zh": "用来击打并粉碎矿石的巨大牙齿。装到武器上就能增加许多攻击力。如果和虫子一起煎煮，也可以制药。"
+ },
+ {
+  "id": 320,
+  "name": "blue-white frox fang",
+  "name_zh": "白苍巨霸迦马的大牙",
+  "img": "assets/img/compendium/materials/blue-white_frox fang.png",
+  "fuse_attack_power": 35,
+  "cooking_effect": "effect duration +00:40",
+  "hearts_recovered": 0,
+  "description": "A giant fang that can easily dig through solid bedrock. Attach it to a weapon to vastly increase its attack power, or cook it with a critter to make an elixir.",
+  "common_locations": [
+   "Hebra Mountains Depths",
+   "Tabantha Frontier Depths"
+  ],
+  "dropped_by": [
+   "白苍巨霸迦马"
+  ],
+  "description_zh": "无视坚硬岩盘，用于挖掘前进的巨大牙齿。装到武器上就能大幅增加攻击力。如果和虫子一起煮，也可以制药。"
+ },
+ {
+  "id": 321,
+  "name": "dinraal's horn",
+  "name_zh": "奥尔龙的犄角",
+  "img": "assets/img/compendium/materials/dinraal's_horn.png",
+  "fuse_attack_power": 26,
+  "cooking_effect": "effect duration +30:00",
+  "hearts_recovered": 0,
+  "description": "A sharp horn of the red spirit, Dinraal. It is said to be the crystallized power of fire itself. Attach the blade-shaped horn to a weapon to vastly increase attack power.",
+  "common_locations": [],
+  "dropped_by": [
+   "奥尔龙"
+  ],
+  "description_zh": "红色精灵奥尔龙的锐利犄角。据说是火之力量结晶之后变成了角。呈现刃形，装到武器上就能大幅增加攻击力。"
+ },
+ {
+  "id": 322,
+  "name": "shard of dinraal's spike",
+  "name_zh": "奥尔龙的龙岩石",
+  "img": "assets/img/compendium/materials/shard_of dinraal's spike.png",
+  "fuse_attack_power": 16,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "An incredibly hard stone mined from a spike on Dinraal's back. It is very destructive when fused to a weapon, and it also imbues that weapon with the power of flame.",
+  "common_locations": [],
+  "dropped_by": [
+   "奥尔龙"
+  ],
+  "description_zh": "可从奥尔龙的脊背上采到的非常坚硬的岩石。装到武器上能击碎各类物体，同时具有产生火的性质。"
+ },
+ {
+  "id": 323,
+  "name": "naydra's horn",
+  "name_zh": "聂尔龙的犄角",
+  "img": "assets/img/compendium/materials/naydra's_horn.png",
+  "fuse_attack_power": 26,
+  "cooking_effect": "effect duration +30:00",
+  "hearts_recovered": 0,
+  "description": "A sharp horn of the blue spirit, Naydra. It is said to be the crystallized power of ice itself. Attach the blade-shaped horn to a weapon to vastly increase attack power.",
+  "common_locations": [],
+  "dropped_by": [
+   "聂尔龙"
+  ],
+  "description_zh": "蓝色精灵聂尔龙的锐利犄角。据说是冰之力量结晶之后变成了角。呈现刃形，装到武器上就能大幅增加攻击力。"
+ },
+ {
+  "id": 324,
+  "name": "shard of naydra's spike",
+  "name_zh": "聂尔龙的龙岩石",
+  "img": "assets/img/compendium/materials/shard_of naydra's spike.png",
+  "fuse_attack_power": 16,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "An incredibly hard stone mined from a spike on Naydra's back. It is very destructive when fused to a weapon, and it also imbues that weapon with the power of ice.",
+  "common_locations": [],
+  "dropped_by": [
+   "聂尔龙"
+  ],
+  "description_zh": "可从聂尔龙的脊背上采到的非常坚硬的岩石。装到武器上能击碎各类物体，同时具有产生冰的性质。"
+ },
+ {
+  "id": 325,
+  "name": "farosh's horn",
+  "name_zh": "费罗龙的犄角",
+  "img": "assets/img/compendium/materials/farosh's_horn.png",
+  "fuse_attack_power": 26,
+  "cooking_effect": "effect duration +30:00",
+  "hearts_recovered": 0,
+  "description": "A sharp horn of the golden spirit, Farosh. It is said to be the crystallized power of electricity itself. Attach the blade-shaped horn to a weapon to vastly increase attack power.",
+  "common_locations": [],
+  "dropped_by": [
+   "费罗龙"
+  ],
+  "description_zh": "金色精灵费罗龙的锐利犄角。据说是雷之力量结晶之后变成了角。呈现刃形，装到武器上就能大幅增加攻击力。"
+ },
+ {
+  "id": 326,
+  "name": "shard of farosh's spike",
+  "name_zh": "费罗龙的龙岩石",
+  "img": "assets/img/compendium/materials/shard_of farosh's spike.png",
+  "fuse_attack_power": 16,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "An incredibly hard stone mined from a spike on Farosh's back. It is very destructive when fused to a weapon, and it also imbues that weapon with the power to shock.",
+  "common_locations": [],
+  "dropped_by": [
+   "费罗龙"
+  ],
+  "description_zh": "可从费罗龙的脊背上采到的非常坚硬的岩石。装到武器上能击碎各类物体，同时具有产生电的性质。"
+ },
+ {
+  "id": 327,
+  "name": "light dragon's horn",
+  "name_zh": "白龙的犄角",
+  "img": "assets/img/compendium/materials/light_dragon's horn.png",
+  "fuse_attack_power": 20,
+  "cooking_effect": "effect duration +30:00",
+  "hearts_recovered": 0,
+  "description": "A horn chipped off the Light Dragon. Its gentle glow has a calming effect, and it has a mysterious healing power when attached to a weapon.",
+  "common_locations": [],
+  "dropped_by": [],
+  "description_zh": "白龙身上脱落的犄角。散发着柔和的光芒，注视着就会心平气和。装到武器上，就会具备治愈使用者的神奇性质。"
+ },
+ {
+  "id": 328,
+  "name": "shard of light dragon's spike",
+  "name_zh": "白龙的龙岩石",
+  "img": "assets/img/compendium/materials/shard_of light dragon's spike.png",
+  "fuse_attack_power": 12,
+  "cooking_effect": "effect duration +01:20",
+  "hearts_recovered": 0,
+  "description": "An incredibly hard stone mined from a spike on the Light Dragon's back. It is very destructive when fused to a weapon, and it also imbues that weapon with healing power.",
+  "common_locations": [],
+  "dropped_by": [],
+  "description_zh": "可从白龙的脊背上采到的非常坚硬的岩石。装到武器上能击碎各类物体，同时具有治愈使用者的神奇性质。"
+ }
+]

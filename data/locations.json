@@ -1,0 +1,2634 @@
+{
+ "caves": [
+  {
+   "id": "Cave_Akkala_0000",
+   "name": "Ulria Grotto South Cave",
+   "name_zh": "乌里亚洞穴，南卡夫镇\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 662.295,
+   "y": 4122.229,
+   "z": 187.679
+  },
+  {
+   "id": "Cave_Akkala_0003",
+   "name": "Ulria Grotto East Cave",
+   "name_zh": "乌里亚洞穴东侧\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 774.316,
+   "y": 4272.99,
+   "z": 144.351,
+   "entrances": [
+    {
+     "x": 774.316,
+     "y": 4272.99
+    },
+    {
+     "x": 705.162,
+     "y": 4505
+    }
+   ]
+  },
+  {
+   "id": "Cave_Akkala_0005",
+   "name": "Tarrey Town Tunnel",
+   "name_zh": "塔瑞镇隧道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1576.423,
+   "y": 3925.927,
+   "z": 107.061
+  },
+  {
+   "id": "Cave_Akkala_0007",
+   "name": "Construction Site Cave",
+   "name_zh": "工地洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1534.085,
+   "y": 3735.437,
+   "z": 80.817,
+   "entrances": [
+    {
+     "x": 1534.085,
+     "y": 3735.437
+    },
+    {
+     "x": 1538.252,
+     "y": 3678.723
+    }
+   ]
+  },
+  {
+   "id": "Cave_Akkala_0010",
+   "name": "Akkala Citadel Ruins Cave",
+   "name_zh": "阿卡拉城堡遗址洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1456.824,
+   "y": 3243.716,
+   "z": 294.035
+  },
+  {
+   "id": "Cave_Akkala_0011",
+   "name": "Skull Lake Cave",
+   "name_zh": "骷髅湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3424,
+   "y": 3321.5,
+   "z": 171
+  },
+  {
+   "id": "Cave_Akkala_0014",
+   "name": "North Akkala Beach Cave",
+   "name_zh": "北阿卡拉海滩洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3206.834,
+   "y": 4645.503,
+   "z": 6.494,
+   "entrances": [
+    {
+     "x": 3206.834,
+     "y": 4645.503
+    },
+    {
+     "x": 3584.908,
+     "y": 4650.67
+    }
+   ]
+  },
+  {
+   "id": "Cave_Akkala_0017",
+   "name": "Akkala Citadel Ruins Summit Cave",
+   "name_zh": "阿卡拉堡垒遗址顶部洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1492,
+   "y": 3292.5,
+   "z": 394.564
+  },
+  {
+   "id": "Cave_CentralHyrule_0008",
+   "name": "Ranch Ruins Cave",
+   "name_zh": "牧场遗址洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -198.863,
+   "y": 37.302,
+   "z": 18.682,
+   "entrances": [
+    {
+     "x": -198.863,
+     "y": 37.302
+    },
+    {
+     "x": -157.932,
+     "y": 6.01
+    }
+   ]
+  },
+  {
+   "id": "Cave_CentralHyrule_0009",
+   "name": "Great Plateau Foothill Cave",
+   "name_zh": "大高原山麓洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1488.377,
+   "y": -832.346,
+   "z": 26.991
+  },
+  {
+   "id": "Cave_CentralHyrule_0011",
+   "name": "Bottomless Cave",
+   "name_zh": "无底洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1449.099,
+   "y": 711.581,
+   "z": 1485.562,
+   "entrances": [
+    {
+     "x": -1449.099,
+     "y": 711.581
+    },
+    {
+     "x": -1358.025,
+     "y": 739.096
+    }
+   ]
+  },
+  {
+   "id": "Cave_CentralHyrule_0013",
+   "name": "Pit Cave",
+   "name_zh": "洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1624.505,
+   "y": 587.419,
+   "z": 1442.543,
+   "entrances": [
+    {
+     "x": -1624.505,
+     "y": 587.419
+    },
+    {
+     "x": -1638.811,
+     "y": 632.28
+    }
+   ]
+  },
+  {
+   "id": "Cave_CentralHyrule_0017",
+   "name": "Pondside Cave",
+   "name_zh": "池边洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1557.838,
+   "y": 260.155,
+   "z": 1361.227,
+   "entrances": [
+    {
+     "x": -1557.838,
+     "y": 260.155
+    },
+    {
+     "x": -1633.773,
+     "y": 170.517
+    }
+   ]
+  },
+  {
+   "id": "Cave_CentralHyrule_0018",
+   "name": "Royal Hidden Passage",
+   "name_zh": "皇家秘密通道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 129,
+   "y": -254.038,
+   "z": 8.002,
+   "entrances": [
+    {
+     "x": 129,
+     "y": -254.038
+    },
+    {
+     "x": 767.084,
+     "y": -253.967
+    },
+    {
+     "x": 802.526,
+     "y": -325.667
+    }
+   ]
+  },
+  {
+   "id": "Cave_CentralHyrule_0019",
+   "name": "Mining Cave",
+   "name_zh": "矿洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1631.647,
+   "y": 380.06,
+   "z": 1411.15,
+   "entrances": [
+    {
+     "x": -1631.647,
+     "y": 380.06
+    },
+    {
+     "x": -1625.622,
+     "y": 489.663
+    }
+   ]
+  },
+  {
+   "id": "Cave_CentralHyrule_0020",
+   "name": "Ancient Tree Stump Cave",
+   "name_zh": "古树遗址洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -432.063,
+   "y": -1111.5,
+   "z": 22.7
+  },
+  {
+   "id": "Cave_CentralHyrule_0021",
+   "name": "Whistling Hill Cave",
+   "name_zh": "哨笛山洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1045.974,
+   "y": -72.109,
+   "z": 17.436
+  },
+  {
+   "id": "Cave_CentralHyrule_0022",
+   "name": "Passeri Greenbelt Cave",
+   "name_zh": "帕塞里绿带洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 127.592,
+   "y": -512.359,
+   "z": 20.369
+  },
+  {
+   "id": "Cave_CentralHyrule_0023",
+   "name": "Coliseum Ruins Cave",
+   "name_zh": "斗兽场遗址洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1310.977,
+   "y": -1167.155,
+   "z": 22.249
+  },
+  {
+   "id": "Cave_CentralHyrule_0030",
+   "name": "Sage Temple Cave",
+   "name_zh": "圣殿洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -256.5,
+   "y": -1404.5,
+   "z": -3.94
+  },
+  {
+   "id": "Cave_Eldin_0020",
+   "name": "Death Mountain East Tunnel",
+   "name_zh": "死亡山东西隧道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2778.185,
+   "y": 2767.812,
+   "z": 521.33
+  },
+  {
+   "id": "Cave_Eldin_0021",
+   "name": "Death Mountain West Tunnel",
+   "name_zh": "死亡山西隧道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2682.376,
+   "y": 2238.605,
+   "z": 520.519
+  },
+  {
+   "id": "Cave_Eldin_0022",
+   "name": "Lake Darman Monster Den",
+   "name_zh": "达曼湖怪物据点\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3051.703,
+   "y": 2373.343,
+   "z": 445.34
+  },
+  {
+   "id": "Cave_Eldin_0023",
+   "name": "Isle of Rabac Gallery",
+   "name_zh": "拉巴岛画廊",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3102.513,
+   "y": 1554.559,
+   "z": 392.931
+  },
+  {
+   "id": "Cave_Eldin_0025",
+   "name": "Goronbi River Cave",
+   "name_zh": "戈罗尼河洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2102.729,
+   "y": 1423.078,
+   "z": 284.432
+  },
+  {
+   "id": "Cave_Eldin_0026",
+   "name": "Southern Mine",
+   "name_zh": "南矿\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1983.352,
+   "y": 1800.955,
+   "z": 320.415
+  },
+  {
+   "id": "Cave_Eldin_0027",
+   "name": "Gorko Tunnel",
+   "name_zh": "戈尔科隧道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2038.984,
+   "y": 2016,
+   "z": 420.776
+  },
+  {
+   "id": "Cave_Eldin_0028",
+   "name": "West Restaurant Cave",
+   "name_zh": "韦斯特餐厅洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1729.563,
+   "y": 1642.848,
+   "z": 279.044
+  },
+  {
+   "id": "Cave_Eldin_0029",
+   "name": "East Restaurant Cave",
+   "name_zh": "东餐厅洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1719.953,
+   "y": 1853.956,
+   "z": 291.945
+  },
+  {
+   "id": "Cave_Eldin_0030",
+   "name": "Lizard's Burrow",
+   "name_zh": "蜥蜴洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3075.319,
+   "y": 2206.314,
+   "z": 405.443
+  },
+  {
+   "id": "Cave_Eldin_0031",
+   "name": "Lake Intenoch Cave",
+   "name_zh": "伊特诺湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1792.983,
+   "y": 2485.386,
+   "z": 157.878
+  },
+  {
+   "id": "Cave_Eldin_0033",
+   "name": "YunoboCo HQ East Cave",
+   "name_zh": "云诺科技总部：东洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2837.404,
+   "y": 1764.653,
+   "z": 399.76
+  },
+  {
+   "id": "Cave_Eldin_0034",
+   "name": "YunoboCo HQ South Cave",
+   "name_zh": "位于 South Cave 的 YunoboCo 总部",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2718.587,
+   "y": 1713.881,
+   "z": 400.607
+  },
+  {
+   "id": "Cave_Eldin_0035",
+   "name": "Death Mountain Foothill Cave",
+   "name_zh": "死亡山脚下洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2687.209,
+   "y": 1949.909,
+   "z": 425.957
+  },
+  {
+   "id": "Cave_Eldin_0037",
+   "name": "Lake Ferona Cave",
+   "name_zh": "费罗纳洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1271.645,
+   "y": 1929.5,
+   "z": 121.771,
+   "entrances": [
+    {
+     "x": 1271.645,
+     "y": 1929.5
+    },
+    {
+     "x": 1304.573,
+     "y": 1931.949
+    }
+   ]
+  },
+  {
+   "id": "Cave_Eldin_0038",
+   "name": "Cephla Lake Cave",
+   "name_zh": "塞法湖洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1330.448,
+   "y": 2593.647,
+   "z": 150.952
+  },
+  {
+   "id": "Cave_Eldin_0039",
+   "name": "Foothill Monster Den",
+   "name_zh": "山脚怪兽窝藏处\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1520.099,
+   "y": 2275.316,
+   "z": 157
+  },
+  {
+   "id": "Cave_Firone_0002",
+   "name": "Floria River Upstream Excavation",
+   "name_zh": "弗洛里亚河上游挖掘工程\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2971.707,
+   "y": 809.894,
+   "z": 10.715
+  },
+  {
+   "id": "Cave_Firone_0008",
+   "name": "Pagos Woods Excavation Site",
+   "name_zh": "Pagos 附近挖掘现场\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3109.481,
+   "y": 671.805,
+   "z": 23.886
+  },
+  {
+   "id": "Cave_Firone_0009",
+   "name": "Tobio's Hollow Cave",
+   "name_zh": "托比奥的幽深洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2443.85,
+   "y": 1169.635,
+   "z": 177.072
+  },
+  {
+   "id": "Cave_Firone_0016",
+   "name": "Cora Lakefront Cave",
+   "name_zh": "科拉湖畔洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2940.198,
+   "y": -256.152,
+   "z": -18.529,
+   "entrances": [
+    {
+     "x": -2940.198,
+     "y": -256.152
+    },
+    {
+     "x": -3067.066,
+     "y": -171.174
+    }
+   ]
+  },
+  {
+   "id": "Cave_Firone_0020",
+   "name": "Finra Woods Excavation Site",
+   "name_zh": "芬拉森林挖掘现场\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2981.877,
+   "y": 568.603,
+   "z": 12.726
+  },
+  {
+   "id": "Cave_Firone_0022",
+   "name": "Sarjon Woods Cave",
+   "name_zh": "萨隆森林洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3170.906,
+   "y": 1203.094,
+   "z": 25.419
+  },
+  {
+   "id": "Cave_Firone_0023",
+   "name": "Lake Hylia Whirlpool Cave",
+   "name_zh": "湖之海漩涡洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2501.451,
+   "y": 125.748,
+   "z": -89.587
+  },
+  {
+   "id": "Cave_Firone_0024",
+   "name": "Popla Foothills Excavation Site",
+   "name_zh": "Popla 山谷挖掘遗址",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2210.08,
+   "y": 608.902,
+   "z": 50.828
+  },
+  {
+   "id": "Cave_Firone_0029",
+   "name": "Puffer Beach Overhead Cave",
+   "name_zh": "海滩上方悬崖洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3851.469,
+   "y": 283.978,
+   "z": 33.079
+  },
+  {
+   "id": "Cave_FirstPlateau_0001",
+   "name": "River of the Dead Waterfall Cave",
+   "name_zh": "死人河瀑布洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2162.711,
+   "y": -1092.381,
+   "z": 143.69
+  },
+  {
+   "id": "Cave_FirstPlateau_0002",
+   "name": "Shrine of Resurrection",
+   "name_zh": "复活之圣所",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1829.554,
+   "y": -1061.875,
+   "z": 142.171
+  },
+  {
+   "id": "Cave_GerudoDesert_0007",
+   "name": "Gerudo Sanctuary",
+   "name_zh": "格鲁德神殿\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2698.519,
+   "y": -3763.275,
+   "z": 14.891,
+   "entrances": [
+    {
+     "x": -2698.519,
+     "y": -3763.275
+    },
+    {
+     "x": -2420.758,
+     "y": -3763.275
+    }
+   ]
+  },
+  {
+   "id": "Cave_GerudoDesert_0008",
+   "name": "Valley of Silent Statues",
+   "name_zh": "静默雕像谷\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2650.319,
+   "y": -3827.19,
+   "z": 35.213
+  },
+  {
+   "id": "Cave_GerudoDesert_0015",
+   "name": "Quicksand Lake Cave",
+   "name_zh": "快速沼湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2939.655,
+   "y": -3238.816,
+   "z": -65.928
+  },
+  {
+   "id": "Cave_GerudoDesert_0022",
+   "name": "Mount Nabooru Cave",
+   "name_zh": "纳布鲁山洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2059.611,
+   "y": -1967.004,
+   "z": 30.013,
+   "entrances": [
+    {
+     "x": -2059.611,
+     "y": -1967.004
+    },
+    {
+     "x": -1961.14,
+     "y": -1795.805
+    }
+   ]
+  },
+  {
+   "id": "Cave_GerudoDesert_0030",
+   "name": "Stalry Plateau Cave",
+   "name_zh": "斯塔利高原洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2222.542,
+   "y": -1527.762,
+   "z": -20.601
+  },
+  {
+   "id": "Cave_GerudoDesert_0031",
+   "name": "East Gerudo Ruins Cave",
+   "name_zh": "东格鲁多的遗迹洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2808.615,
+   "y": -2696.025,
+   "z": -67.396
+  },
+  {
+   "id": "Cave_GerudoDesert_0032",
+   "name": "Central Gerudo Cave",
+   "name_zh": "中央格鲁德洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3255.366,
+   "y": -3679.051,
+   "z": -18.459
+  },
+  {
+   "id": "Cave_GerudoDesert_0035",
+   "name": "Mount Nabooru South Cave",
+   "name_zh": "娜布鲁山南洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2183.379,
+   "y": -1726.964,
+   "z": 5.076
+  },
+  {
+   "id": "Cave_GerudoDesert_0036",
+   "name": "Lower Spectacle Rock Cave",
+   "name_zh": "低处观景岩洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2394.182,
+   "y": -1744.354,
+   "z": -11.193
+  },
+  {
+   "id": "Cave_GerudoDesert_0037",
+   "name": "Spectacle Rock Cave",
+   "name_zh": "斯珀克岩洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2395.27,
+   "y": -2215.908,
+   "z": 247.206
+  },
+  {
+   "id": "Cave_GerudoDesert_0039",
+   "name": "Ancient Prison Ruins",
+   "name_zh": "古代监狱遗址\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3063.779,
+   "y": -3099.359,
+   "z": -51.549
+  },
+  {
+   "id": "Cave_GerudoDesert_0040",
+   "name": "South Gerudo Cave",
+   "name_zh": "南格鲁多洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3857.828,
+   "y": -2939.102,
+   "z": -37.097
+  },
+  {
+   "id": "Cave_GerudoDesert_0041",
+   "name": "Koukot Plateau Cave",
+   "name_zh": "库库特高原洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1759.334,
+   "y": -2258.922,
+   "z": 56.448,
+   "entrances": [
+    {
+     "x": -1759.334,
+     "y": -2258.922
+    },
+    {
+     "x": -1841.648,
+     "y": -2173.727
+    }
+   ]
+  },
+  {
+   "id": "Cave_GerudoDesert_0043",
+   "name": "East Gerudo Chasm",
+   "name_zh": "东格鲁多深渊\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3067.738,
+   "y": -2491.193,
+   "z": 5.74
+  },
+  {
+   "id": "Cave_GerudoDesert_0044",
+   "name": "Ancient Altar Ruins",
+   "name_zh": "古代祭坛遗址\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3681.715,
+   "y": -2564.693,
+   "z": -48.297,
+   "entrances": [
+    {
+     "x": -3681.715,
+     "y": -2564.693
+    },
+    {
+     "x": -3676.729,
+     "y": -2451.857
+    },
+    {
+     "x": -3744.447,
+     "y": -2570.56
+    },
+    {
+     "x": -3758.143,
+     "y": -2480.565
+    },
+    {
+     "x": -3724.844,
+     "y": -2521.204
+    },
+    {
+     "x": -3709.82,
+     "y": -2477.854
+    },
+    {
+     "x": -3709.315,
+     "y": -2604.787
+    },
+    {
+     "x": -3626.101,
+     "y": -2535.542
+    },
+    {
+     "x": -3671.562,
+     "y": -2518.917
+    },
+    {
+     "x": -3769.119,
+     "y": -2530.788
+    },
+    {
+     "x": -3638.208,
+     "y": -2584.241
+    },
+    {
+     "x": -3632.817,
+     "y": -2480.763
+    }
+   ]
+  },
+  {
+   "id": "Cave_GerudoDesert_0045",
+   "name": "Oasis Source",
+   "name_zh": "奥斯艾源代码\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2693.962,
+   "y": -3354.94,
+   "z": -4.328
+  },
+  {
+   "id": "Cave_GerudoDesert_0046",
+   "name": "Gerudo Great Skeleton",
+   "name_zh": "女巫之堡骸骨\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3875.428,
+   "y": -4814.321,
+   "z": -1
+  },
+  {
+   "id": "Cave_GerudoDesert_0049",
+   "name": "West Gerudo Underground Ruins",
+   "name_zh": "西格鲁多地下遗迹\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1986.137,
+   "y": -4673.2,
+   "z": 9.204
+  },
+  {
+   "id": "Cave_GerudoDesert_0050",
+   "name": "Yiga Blademaster Station",
+   "name_zh": "伊加武士训练基地\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1819.683,
+   "y": -2433.913,
+   "z": 145.736
+  },
+  {
+   "id": "Cave_GerudoDesert_0051",
+   "name": "Gerudo Canyon Mine",
+   "name_zh": "格鲁多的峡谷矿坑",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2402.609,
+   "y": -2676.715,
+   "z": 79.573,
+   "entrances": [
+    {
+     "x": -2402.609,
+     "y": -2676.715
+    },
+    {
+     "x": -2604.77,
+     "y": -2611.278
+    }
+   ]
+  },
+  {
+   "id": "Cave_GerudoHighlands_0002",
+   "name": "Taafei Hill Cave",
+   "name_zh": "塔费希山洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1798.546,
+   "y": -2457.328,
+   "z": 176.287
+  },
+  {
+   "id": "Cave_GerudoHighlands_0008",
+   "name": "Statue of the Eighth Heroine Cave",
+   "name_zh": "第八位女英雄雕像洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -536.553,
+   "y": -4384.535,
+   "z": 473.796
+  },
+  {
+   "id": "Cave_GerudoHighlands_0014",
+   "name": "Meadela's Mantle Cave",
+   "name_zh": "梅达拉的斗篷洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1245.38,
+   "y": -3982.832,
+   "z": 426.669
+  },
+  {
+   "id": "Cave_GerudoHighlands_0017",
+   "name": "Mystathi's Shelf Cave",
+   "name_zh": "米斯塔希的书架洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -726.776,
+   "y": -3881.652,
+   "z": 569.838
+  },
+  {
+   "id": "Cave_HateruEast_0000",
+   "name": "Mount Dunsel Cave",
+   "name_zh": "敦塞尔洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3017.773,
+   "y": 3224.249,
+   "z": 59.451,
+   "entrances": [
+    {
+     "x": -3017.773,
+     "y": 3224.249
+    },
+    {
+     "x": -3296.459,
+     "y": 3291.353
+    }
+   ]
+  },
+  {
+   "id": "Cave_HateruEast_0002",
+   "name": "Mount Floria Cave",
+   "name_zh": "弗洛利亚洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2985.635,
+   "y": 1789.542,
+   "z": 80.374,
+   "entrances": [
+    {
+     "x": -2985.635,
+     "y": 1789.542
+    },
+    {
+     "x": -2611.651,
+     "y": 1959.679
+    }
+   ]
+  },
+  {
+   "id": "Cave_HateruEast_0006",
+   "name": "Corta Lake Cave",
+   "name_zh": "科塔湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3038.773,
+   "y": 1676.795,
+   "z": 164.336
+  },
+  {
+   "id": "Cave_HateruEast_0007",
+   "name": "Rodai Lakefront Tunnel",
+   "name_zh": "罗代湖滨隧道",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3111.244,
+   "y": 1896.399,
+   "z": 132.028
+  },
+  {
+   "id": "Cave_HateruEast_0008",
+   "name": "Calora Lake Cave",
+   "name_zh": "卡洛拉湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3164.034,
+   "y": 2009.624,
+   "z": 176.94,
+   "entrances": [
+    {
+     "x": -3164.034,
+     "y": 2009.624
+    },
+    {
+     "x": -3032.786,
+     "y": 1958.782
+    }
+   ]
+  },
+  {
+   "id": "Cave_HateruEast_0009",
+   "name": "Rassla Lake Cave",
+   "name_zh": "拉斯拉湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3738.02,
+   "y": 1813.53,
+   "z": 118.5
+  },
+  {
+   "id": "Cave_HateruEast_0013",
+   "name": "Eventide Island Cave",
+   "name_zh": "事件岛洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3781.506,
+   "y": 4752.63,
+   "z": -6.294
+  },
+  {
+   "id": "Cave_HateruEast_0014",
+   "name": "Ubota Point Cave",
+   "name_zh": "乌博塔点洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3483.65,
+   "y": 1446.719,
+   "z": 77.273
+  },
+  {
+   "id": "Cave_HateruEast_0016",
+   "name": "Atun Valley Cave",
+   "name_zh": "阿图山谷洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3193,
+   "y": 2454,
+   "z": 64.5
+  },
+  {
+   "id": "Cave_HateruWest_0002",
+   "name": "Byroad to Lanayru Wetlands",
+   "name_zh": "兰艾鲁湿地小径",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1260,
+   "y": 1617,
+   "z": 6.963,
+   "entrances": [
+    {
+     "x": -1260,
+     "y": 1617
+    },
+    {
+     "x": -812.186,
+     "y": 1587.754
+    }
+   ]
+  },
+  {
+   "id": "Cave_HateruWest_0005",
+   "name": "Kakariko Village Cave",
+   "name_zh": "卡卡里科村洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -981.817,
+   "y": 1947.489,
+   "z": 157.483
+  },
+  {
+   "id": "Cave_HateruWest_0006",
+   "name": "Cucco Hideaway",
+   "name_zh": "库科隐居处",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1160.383,
+   "y": 1877.434,
+   "z": 198.543
+  },
+  {
+   "id": "Cave_HateruWest_0008",
+   "name": "Sahasra Slope Cave",
+   "name_zh": "萨哈斯拉斜坡洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1197.249,
+   "y": 1373.024,
+   "z": 129.781,
+   "entrances": [
+    {
+     "x": -1197.249,
+     "y": 1373.024
+    },
+    {
+     "x": -1156.223,
+     "y": 1328.358
+    }
+   ]
+  },
+  {
+   "id": "Cave_HateruWest_0011",
+   "name": "Dueling Peaks North Cave",
+   "name_zh": "斗峰北洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1854.056,
+   "y": 1194.457,
+   "z": 157.933
+  },
+  {
+   "id": "Cave_HateruWest_0012",
+   "name": "Dueling Peaks South Cave",
+   "name_zh": "斗峰山南洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1947.553,
+   "y": 1183.372,
+   "z": 245.5
+  },
+  {
+   "id": "Cave_Hebra_0000",
+   "name": "Sturnida Springs Cave",
+   "name_zh": "斯图尔尼达泉洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2671.444,
+   "y": -4041.161,
+   "z": 23.283
+  },
+  {
+   "id": "Cave_Hebra_0013",
+   "name": "Icefall Foothills Cave",
+   "name_zh": "冰河山脚下的洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3760.204,
+   "y": -4429.344,
+   "z": 223.342
+  },
+  {
+   "id": "Cave_Hebra_0015",
+   "name": "Lake Kilsie Cave",
+   "name_zh": "基尔西洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2861.257,
+   "y": -3930.992,
+   "z": -18.026
+  },
+  {
+   "id": "Cave_Hebra_0016",
+   "name": "Hebra Headspring Cave",
+   "name_zh": "赫布拉头泉洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2510.26,
+   "y": -2900.156,
+   "z": 387.902
+  },
+  {
+   "id": "Cave_Hebra_0019",
+   "name": "Pikida Stonegrove Northwest Cave",
+   "name_zh": "皮基达石格诺西北洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3136.461,
+   "y": -2414.122,
+   "z": 372.664,
+   "entrances": [
+    {
+     "x": 3136.461,
+     "y": -2414.122
+    },
+    {
+     "x": 3268.3,
+     "y": -2642.285
+    }
+   ]
+  },
+  {
+   "id": "Cave_Hebra_0021",
+   "name": "Hebra Great Skeleton",
+   "name_zh": "希伯来语：大骨架\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3595.483,
+   "y": -3814.609,
+   "z": 255
+  },
+  {
+   "id": "Cave_Hebra_0022",
+   "name": "Hebra Mountains Northwest Cave",
+   "name_zh": "赫布山西北部洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3225.751,
+   "y": -2995.566,
+   "z": 539.968
+  },
+  {
+   "id": "Cave_Hebra_0023",
+   "name": "Brightcap Cave",
+   "name_zh": "明亮的洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1635.029,
+   "y": -3005.719,
+   "z": 199.338
+  },
+  {
+   "id": "Cave_Hebra_0025",
+   "name": "Rospro Pass Cave",
+   "name_zh": "罗斯普罗通行洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2488.378,
+   "y": -3559.555,
+   "z": 227.216
+  },
+  {
+   "id": "Cave_Hebra_0026",
+   "name": "Talonto Peak Cave",
+   "name_zh": "塔隆托峰洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2462.24,
+   "y": -3214.608,
+   "z": 345.532
+  },
+  {
+   "id": "Cave_Hebra_0030",
+   "name": "Hebra South Summit Cave",
+   "name_zh": "赫伯南山峰洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2499.361,
+   "y": -3398.434,
+   "z": 313.106,
+   "entrances": [
+    {
+     "x": 2499.361,
+     "y": -3398.434
+    },
+    {
+     "x": 2535.279,
+     "y": -3227.496
+    }
+   ]
+  },
+  {
+   "id": "Cave_Hebra_0035",
+   "name": "Tabantha Hills Cave",
+   "name_zh": "塔班塔山洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1771.911,
+   "y": -2840.931,
+   "z": 222.98
+  },
+  {
+   "id": "Cave_Hebra_0036",
+   "name": "Mount Drena Foothill Cave",
+   "name_zh": "德雷纳山麓洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2861.308,
+   "y": -1372.09,
+   "z": 197.722
+  },
+  {
+   "id": "Cave_Hebra_0037",
+   "name": "Kopeeki Drifts Cave",
+   "name_zh": "科佩基漂流洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2276.628,
+   "y": -2395.838,
+   "z": 169.5
+  },
+  {
+   "id": "Cave_Hebra_0039",
+   "name": "West Lake Totori Cave",
+   "name_zh": "西湖托里洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2029.48,
+   "y": -3958.686,
+   "z": 200.581
+  },
+  {
+   "id": "Cave_Hebra_0040",
+   "name": "North Biron Snowshelf Cave",
+   "name_zh": "诺思比隆雪架洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3245.218,
+   "y": -3960.082,
+   "z": 236.989
+  },
+  {
+   "id": "Cave_Hebra_0041",
+   "name": "East Biron Snowshelf Cave",
+   "name_zh": "东比隆雪架洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3088.22,
+   "y": -3555.201,
+   "z": 273.381,
+   "entrances": [
+    {
+     "x": 3088.22,
+     "y": -3555.201
+    },
+    {
+     "x": 3062.853,
+     "y": -3989.371
+    }
+   ]
+  },
+  {
+   "id": "Cave_HyruleForest_0001",
+   "name": "Rauru Hillside Cave",
+   "name_zh": "拉努山坡洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1389.783,
+   "y": 676.466,
+   "z": 45.169
+  },
+  {
+   "id": "Cave_HyruleForest_0006",
+   "name": "Pico Pond Cave",
+   "name_zh": "小池洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1231.93,
+   "y": 1247.259,
+   "z": 25.555
+  },
+  {
+   "id": "Cave_HyruleForest_0007",
+   "name": "Yiga Clan Maritta Branch",
+   "name_zh": "伊加氏族 马里塔分部\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 2040,
+   "y": -643.5,
+   "z": 154.5
+  },
+  {
+   "id": "Cave_HyruleForest_0008",
+   "name": "Deplian Badlands Cave",
+   "name_zh": "德普利亚荒原洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 3579.347,
+   "y": 307.13,
+   "z": 87.5
+  },
+  {
+   "id": "Cave_HyruleRidge_0000",
+   "name": "North Hyrule Plain Cave",
+   "name_zh": "北赫鲁平原洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 644.514,
+   "y": -1188.387,
+   "z": 72.351,
+   "entrances": [
+    {
+     "x": 644.514,
+     "y": -1188.387
+    },
+    {
+     "x": 770.217,
+     "y": -1234.178
+    }
+   ]
+  },
+  {
+   "id": "Cave_HyruleRidge_0002",
+   "name": "Tamio River Downstream Cave",
+   "name_zh": "塔米奥河下游洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -804.164,
+   "y": -2921.855,
+   "z": 7.573
+  },
+  {
+   "id": "Cave_HyruleRidge_0003",
+   "name": "Lindor's Brow Cave",
+   "name_zh": "林多的眉毛洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1165.696,
+   "y": -1734.927,
+   "z": 228.7
+  },
+  {
+   "id": "Cave_HyruleRidge_0004",
+   "name": "Hyrule Ridge Chasm",
+   "name_zh": "海拉鲁山谷峡谷\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1126.024,
+   "y": -2644.244,
+   "z": 142.132
+  },
+  {
+   "id": "Cave_HyruleRidge_0005",
+   "name": "Satori Mountain Foothill Cave",
+   "name_zh": "悟道山脚下洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -807.571,
+   "y": -2198.541,
+   "z": 117.296
+  },
+  {
+   "id": "Cave_HyruleRidge_0006",
+   "name": "Thundra Plateau Cave",
+   "name_zh": "努德拉高原洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 899.23,
+   "y": -2268.351,
+   "z": 86.145
+  },
+  {
+   "id": "Cave_HyruleRidge_0007",
+   "name": "Tanagar Canyon East Cave",
+   "name_zh": "塔纳加峡谷东洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1631.707,
+   "y": -2049.127,
+   "z": -56.625
+  },
+  {
+   "id": "Cave_HyruleRidge_0008",
+   "name": "Satori Mountain Cave",
+   "name_zh": "悟道山洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": -360.521,
+   "y": -2151.008,
+   "z": 276
+  },
+  {
+   "id": "Cave_LanayruMountain_0002",
+   "name": "Lanayru Road South Cave",
+   "name_zh": "兰阿鲁路，南洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1314.642,
+   "y": 2698.274,
+   "z": 111.225
+  },
+  {
+   "id": "Cave_LanayruMountain_0006",
+   "name": "Mapla Point Cave",
+   "name_zh": "地图尔洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2246.283,
+   "y": 4585.332,
+   "z": -1.902
+  },
+  {
+   "id": "Cave_LanayruMountain_0008",
+   "name": "Oakle's Navel Cave",
+   "name_zh": "奥克利的肚脐洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2106.521,
+   "y": 2504.104,
+   "z": 6.447
+  },
+  {
+   "id": "Cave_LanayruMountain_0010",
+   "name": "Lanayru Road East Cave",
+   "name_zh": "兰埃鲁路东洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1137.785,
+   "y": 3073.536,
+   "z": 91.763,
+   "entrances": [
+    {
+     "x": -1137.785,
+     "y": 3073.536
+    },
+    {
+     "x": -968.392,
+     "y": 3476.452
+    }
+   ]
+  },
+  {
+   "id": "Cave_LanayruMountain_0014",
+   "name": "Robred Dropoff Cave",
+   "name_zh": "罗伯德接送洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1477.647,
+   "y": 2492.99,
+   "z": 12.027
+  },
+  {
+   "id": "Cave_LanayruMountain_0016",
+   "name": "Walnot Mountain Cave",
+   "name_zh": "沃诺特山洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2069.003,
+   "y": 3933.575,
+   "z": 127.442,
+   "entrances": [
+    {
+     "x": -2069.003,
+     "y": 3933.575
+    },
+    {
+     "x": -1738.955,
+     "y": 4225.536
+    }
+   ]
+  },
+  {
+   "id": "Cave_LanayruMountain_0022",
+   "name": "Deepback Bay Cave",
+   "name_zh": "深度湾洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2262.576,
+   "y": 4213.486,
+   "z": 0.165
+  },
+  {
+   "id": "Cave_LanayruMountain_0024",
+   "name": "Cape Cales Cliffbase Cave",
+   "name_zh": "凯勒斯悬崖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -3210.815,
+   "y": 3650.401,
+   "z": -6.195
+  },
+  {
+   "id": "Cave_LanayruMountain_0025",
+   "name": "Retsam Forest Cave",
+   "name_zh": "雷萨姆森林洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": -2066.606,
+   "y": 3757.448,
+   "z": 214.226,
+   "entrances": [
+    {
+     "x": -2066.606,
+     "y": 3757.448
+    },
+    {
+     "x": -2026.508,
+     "y": 3748.875
+    }
+   ]
+  },
+  {
+   "id": "Cave_LanayruMountain_0026",
+   "name": "Fort Hateno Cave",
+   "name_zh": "福阿特洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -1689.599,
+   "y": 2243.432,
+   "z": 23.5
+  },
+  {
+   "id": "Cave_Lanayru_0006",
+   "name": "Crenel Peak Cave",
+   "name_zh": " Crenel 峰洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 247.464,
+   "y": 1144.714,
+   "z": 57.516,
+   "entrances": [
+    {
+     "x": 247.464,
+     "y": 1144.714
+    },
+    {
+     "x": 296.5,
+     "y": 1349.549
+    }
+   ]
+  },
+  {
+   "id": "Cave_Lanayru_0008",
+   "name": "Luto's Channel",
+   "name_zh": "路图的频道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -51.308,
+   "y": 3094.097,
+   "z": 79.079
+  },
+  {
+   "id": "Cave_Lanayru_0014",
+   "name": "Oren Bridge Cave",
+   "name_zh": "奥伦桥洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -65.93,
+   "y": 2909.617,
+   "z": 81.987
+  },
+  {
+   "id": "Cave_Lanayru_0019",
+   "name": "Tabahl Woods Cave",
+   "name_zh": "塔巴尔森林洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 287.429,
+   "y": 2674.985,
+   "z": 89.253,
+   "entrances": [
+    {
+     "x": 287.429,
+     "y": 2674.985
+    },
+    {
+     "x": 217.696,
+     "y": 2679.644
+    },
+    {
+     "x": 227.098,
+     "y": 2605.527
+    }
+   ]
+  },
+  {
+   "id": "Cave_Lanayru_0024",
+   "name": "Bon Pond East Cave",
+   "name_zh": "邦珀东洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 100.179,
+   "y": 2215.354,
+   "z": 71.588,
+   "entrances": [
+    {
+     "x": 100.179,
+     "y": 2215.354
+    },
+    {
+     "x": 14.21,
+     "y": 2253.844
+    },
+    {
+     "x": 142.079,
+     "y": 2185.078
+    },
+    {
+     "x": 108.4,
+     "y": 2260.729
+    }
+   ]
+  },
+  {
+   "id": "Cave_Lanayru_0032",
+   "name": "Upland Zorana Mountainside Cave",
+   "name_zh": "乌普兰佐拉娜山坡洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 517.989,
+   "y": 2570.025,
+   "z": 164.042,
+   "entrances": [
+    {
+     "x": 517.989,
+     "y": 2570.025
+    },
+    {
+     "x": 526.156,
+     "y": 2633.568
+    }
+   ]
+  },
+  {
+   "id": "Cave_Lanayru_0033",
+   "name": "Upland Zorana Byroad",
+   "name_zh": "乌普兰德佐拉纳·拜路\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 479.816,
+   "y": 2700.302,
+   "z": 201.995,
+   "entrances": [
+    {
+     "x": 479.816,
+     "y": 2700.302
+    },
+    {
+     "x": 346.33,
+     "y": 2863.632
+    }
+   ]
+  },
+  {
+   "id": "Cave_Lanayru_0035",
+   "name": "Horon Lagoon Cave",
+   "name_zh": "霍隆泻湖洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -255.666,
+   "y": 4243.966,
+   "z": -16.39
+  },
+  {
+   "id": "Cave_Lanayru_0036",
+   "name": "Tarm Point Cave",
+   "name_zh": "塔姆·波特洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": -826.957,
+   "y": 4473.05,
+   "z": 31.555
+  },
+  {
+   "id": "Cave_Lanayru_0048",
+   "name": "Ralis Channel",
+   "name_zh": "拉利斯频道\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 253.885,
+   "y": 2958.832,
+   "z": 202.537,
+   "entrances": [
+    {
+     "x": 253.885,
+     "y": 2958.832
+    },
+    {
+     "x": 170.143,
+     "y": 2912.125
+    }
+   ]
+  },
+  {
+   "id": "Cave_Lanayru_0049",
+   "name": "Upland Zorana Summit Cave",
+   "name_zh": "乌普兰德·佐拉纳山顶洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 477.983,
+   "y": 2850.636,
+   "z": 324.459
+  },
+  {
+   "id": "Cave_Lanayru_0050",
+   "name": "Lanayru Wetlands Chasm",
+   "name_zh": "兰埃鲁湿地峡谷\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 162.055,
+   "y": 1726.917,
+   "z": -5.314
+  },
+  {
+   "id": "Cave_Lanayru_0052",
+   "name": "Crenel Hills Cave",
+   "name_zh": "克瑞诺尔山丘洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 730.937,
+   "y": 493.731,
+   "z": 40.5
+  },
+  {
+   "id": "Cave_Lanayru_0053",
+   "name": "Rebonae Bridge Cave",
+   "name_zh": "雷博纳桥洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 31.497,
+   "y": 845.923,
+   "z": 15.829
+  },
+  {
+   "id": "Cave_Lanayru_0055",
+   "name": "Reservoir Lakefront Cavern",
+   "name_zh": "水库湖滨洞穴。",
+   "type": "cave",
+   "layer": "surface",
+   "x": 419.599,
+   "y": 3809.582,
+   "z": 208.945
+  },
+  {
+   "id": "Cave_Lanayru_0057",
+   "name": "Ploymus Mountain Cave",
+   "name_zh": "普罗米斯山洞\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 538.587,
+   "y": 3660.896,
+   "z": 268.533
+  },
+  {
+   "id": "Cave_Lanayru_0060",
+   "name": "Upland Zorana Foothill Cave",
+   "name_zh": "乌普兰德·佐拉纳山脚洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 667.61,
+   "y": 3147.392,
+   "z": 177.027
+  },
+  {
+   "id": "Cave_Lanayru_0061",
+   "name": "Cave Under Zora's Domain",
+   "name_zh": "佐拉领地的洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 373.52,
+   "y": 3240.992,
+   "z": 75.978
+  },
+  {
+   "id": "Cave_Lanayru_0063",
+   "name": "Chasm Under Zora's Domain",
+   "name_zh": "佐拉统治下的深渊\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 441.587,
+   "y": 3271.55,
+   "z": -21.194
+  },
+  {
+   "id": "Cave_Tabantha_0001",
+   "name": "Gisa Crater Cave",
+   "name_zh": "吉萨陨石坑洞穴\n",
+   "type": "cave",
+   "layer": "surface",
+   "x": 1090.969,
+   "y": -3931.099,
+   "z": 72.809,
+   "entrances": [
+    {
+     "x": 1090.969,
+     "y": -3931.099
+    },
+    {
+     "x": 1011.5,
+     "y": -3865.5
+    }
+   ]
+  },
+  {
+   "id": "Cave_Tabantha_0002",
+   "name": "Ancient Columns Cave",
+   "name_zh": "古柱洞穴",
+   "type": "cave",
+   "layer": "surface",
+   "x": 449.46,
+   "y": -3465.121,
+   "z": 254.073
+  },
+  {
+   "id": "Cave_Tabantha_0003",
+   "name": "Tanagar Canyon West Cave",
+   "name_zh": "塔纳加峡谷西洞",
+   "type": "cave",
+   "layer": "surface",
+   "x": 789.764,
+   "y": -3308.472,
+   "z": -101.878
+  }
+ ],
+ "wells": [
+  {
+   "id": "Well_0001",
+   "name": "Dronoc's Pass Well",
+   "name_zh": "龙诺峡谷优美景色\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 2105.445,
+   "y": -3831.584,
+   "z": 125.203
+  },
+  {
+   "id": "Well_0002",
+   "name": "Tabantha Village Ruins Well",
+   "name_zh": "塔班塔村遗址深井",
+   "type": "well",
+   "layer": "surface",
+   "x": 1871.801,
+   "y": -2358.595,
+   "z": 261.955
+  },
+  {
+   "id": "Well_0003",
+   "name": "Maritta Exchange Ruins Well",
+   "name_zh": "马丽塔摧毁了水井。",
+   "type": "well",
+   "layer": "surface",
+   "x": 1623.456,
+   "y": -1810.858,
+   "z": 90.862
+  },
+  {
+   "id": "Well_0004",
+   "name": "Rowan Plain Well",
+   "name_zh": "罗温平原水井",
+   "type": "well",
+   "layer": "surface",
+   "x": 2325.903,
+   "y": -1069.444,
+   "z": 98.208
+  },
+  {
+   "id": "Well_0005",
+   "name": "Irch Plain Well",
+   "name_zh": "伊尔斯平井",
+   "type": "well",
+   "layer": "surface",
+   "x": 1616.2,
+   "y": -911.3,
+   "z": 90.064
+  },
+  {
+   "id": "Well_0006",
+   "name": "Elma Knolls Well",
+   "name_zh": "埃尔玛诺兹水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 1351.729,
+   "y": -670.903,
+   "z": 72.387
+  },
+  {
+   "id": "Well_0007",
+   "name": "Carok Bridge Well",
+   "name_zh": "卡罗克桥井",
+   "type": "well",
+   "layer": "surface",
+   "x": 415.312,
+   "y": -1039.614,
+   "z": 18.646
+  },
+  {
+   "id": "Well_0008",
+   "name": "Mount Gustaf Well",
+   "name_zh": "格斯塔夫·韦尔山",
+   "type": "well",
+   "layer": "surface",
+   "x": 331.207,
+   "y": -912.808,
+   "z": 3.852
+  },
+  {
+   "id": "Well_0009",
+   "name": "Mount Daphnes Well",
+   "name_zh": "达芬斯温泉\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -622.692,
+   "y": -1313.988,
+   "z": -6.121
+  },
+  {
+   "id": "Well_0010",
+   "name": "Aquame Lake Well",
+   "name_zh": "阿夸湖井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -1101.615,
+   "y": -879.179,
+   "z": 5.836
+  },
+  {
+   "id": "Well_0011",
+   "name": "Outskirt Stable Well",
+   "name_zh": "郊外马厩 水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -1296.74,
+   "y": -1460.715,
+   "z": 16.562
+  },
+  {
+   "id": "Well_0012",
+   "name": "Outskirt Hill Well",
+   "name_zh": "外围山上的水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -1349.228,
+   "y": -1680.918,
+   "z": 106.036
+  },
+  {
+   "id": "Well_0013",
+   "name": "Mount Nabooru Well",
+   "name_zh": "纳波鲁泉\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2238.07,
+   "y": -1720.26,
+   "z": 20.199
+  },
+  {
+   "id": "Well_0014",
+   "name": "Rauru Settlement Ruins Well",
+   "name_zh": "拉努村遗址水井",
+   "type": "well",
+   "layer": "surface",
+   "x": 1266.5,
+   "y": 662,
+   "z": 24.184
+  },
+  {
+   "id": "Well_0015",
+   "name": "Hyrule Castle Town Ruins Well",
+   "name_zh": "海拉鲁城堡镇遗址泉井",
+   "type": "well",
+   "layer": "surface",
+   "x": 547.616,
+   "y": 62.635,
+   "z": 12.166
+  },
+  {
+   "id": "Well_0016",
+   "name": "Mabe Village Ruins Well",
+   "name_zh": "马贝村遗址井",
+   "type": "well",
+   "layer": "surface",
+   "x": -163.089,
+   "y": -68.062,
+   "z": 9.115
+  },
+  {
+   "id": "Well_0017",
+   "name": "Rebonae Bridge Well",
+   "name_zh": "雷博纳桥\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 7.593,
+   "y": 786.998,
+   "z": 15.205
+  },
+  {
+   "id": "Well_0018",
+   "name": "Bottomless Pond Well",
+   "name_zh": "无底池泉井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -766.43,
+   "y": 686.193,
+   "z": 1.882
+  },
+  {
+   "id": "Well_0019",
+   "name": "South Nabi Lake Well",
+   "name_zh": "南纳比湖深井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -1496.9,
+   "y": 782.5,
+   "z": 20.5
+  },
+  {
+   "id": "Well_0020",
+   "name": "Deya Village Ruins North Well",
+   "name_zh": "大雅村遗址 北井",
+   "type": "well",
+   "layer": "surface",
+   "x": -1856.799,
+   "y": 316.515,
+   "z": -6.397
+  },
+  {
+   "id": "Well_0021",
+   "name": "Deya Village Ruins Well",
+   "name_zh": "迪亚村遗址井",
+   "type": "well",
+   "layer": "surface",
+   "x": -1927.037,
+   "y": 322.356,
+   "z": -4.921
+  },
+  {
+   "id": "Well_0022",
+   "name": "Deya Village Ruins East Well",
+   "name_zh": "德雅村遗址东井",
+   "type": "well",
+   "layer": "surface",
+   "x": -2042.955,
+   "y": 423.499,
+   "z": -6.002
+  },
+  {
+   "id": "Well_0023",
+   "name": "Deya Village Ruins South Well",
+   "name_zh": "德亚村遗址南井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2098.56,
+   "y": 339.629,
+   "z": 12.263
+  },
+  {
+   "id": "Well_0024",
+   "name": "Hills of Baumer Well",
+   "name_zh": "拜默井山谷\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2127.813,
+   "y": 316.059,
+   "z": 29.515
+  },
+  {
+   "id": "Well_0025",
+   "name": "Popla Foothills North Well",
+   "name_zh": "Popla 地区的北向水井",
+   "type": "well",
+   "layer": "surface",
+   "x": -2100.442,
+   "y": 594.484,
+   "z": 77.514
+  },
+  {
+   "id": "Well_0026",
+   "name": "Popla Foothills South Well",
+   "name_zh": "Popla Foothills 南侧井",
+   "type": "well",
+   "layer": "surface",
+   "x": -2261.083,
+   "y": 606.127,
+   "z": 35.295
+  },
+  {
+   "id": "Well_0027",
+   "name": "Moor Garrison Ruins Well",
+   "name_zh": "摩尔堡要塞遗址的井",
+   "type": "well",
+   "layer": "surface",
+   "x": 169.937,
+   "y": 1544.127,
+   "z": -6.786
+  },
+  {
+   "id": "Well_0028",
+   "name": "Zauz Island Well",
+   "name_zh": "佐茨岛水井",
+   "type": "well",
+   "layer": "surface",
+   "x": -136.496,
+   "y": 1435.5,
+   "z": -5.828
+  },
+  {
+   "id": "Well_0029",
+   "name": "Goponga Village Ruins Well",
+   "name_zh": "戈邦加村遗址水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -326.899,
+   "y": 1529.16,
+   "z": -5.847
+  },
+  {
+   "id": "Well_0030",
+   "name": "Lanayru Wetlands Well",
+   "name_zh": "兰埃鲁湿地泉\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -397.185,
+   "y": 1219.596,
+   "z": -5.31
+  },
+  {
+   "id": "Well_0031",
+   "name": "Rikoka Hills Well",
+   "name_zh": "里科卡山谷水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -650.87,
+   "y": 1716.448,
+   "z": 8.001
+  },
+  {
+   "id": "Well_0032",
+   "name": "Tabahl Woods Well",
+   "name_zh": "塔巴尔森林泉\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 175.524,
+   "y": 2746.387,
+   "z": 114.53
+  },
+  {
+   "id": "Well_0033",
+   "name": "Shadow Hamlet Ruins Well",
+   "name_zh": "影之堡垒遗址泉\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 2310.919,
+   "y": 3057.234,
+   "z": 318.428
+  },
+  {
+   "id": "Well_0034",
+   "name": "Kara Kara Bazaar Well",
+   "name_zh": "卡拉·巴扎井",
+   "type": "well",
+   "layer": "surface",
+   "x": -2606.406,
+   "y": -3235.338,
+   "z": 7.922
+  },
+  {
+   "id": "Well_0041",
+   "name": "Lurelin Village Well",
+   "name_zh": "洛瑞林村水井",
+   "type": "well",
+   "layer": "surface",
+   "x": -3378.44,
+   "y": 2940.59,
+   "z": -4.389
+  },
+  {
+   "id": "Well_0042",
+   "name": "Lakeside Stable Well",
+   "name_zh": "湖畔马厩良好设施",
+   "type": "well",
+   "layer": "surface",
+   "x": -3553.629,
+   "y": 1535.121,
+   "z": 46.321
+  },
+  {
+   "id": "Well_0043",
+   "name": "Highland Stable Well",
+   "name_zh": "高地马厩井",
+   "type": "well",
+   "layer": "surface",
+   "x": -3426.698,
+   "y": 537.629,
+   "z": 33.414
+  },
+  {
+   "id": "Well_0043B",
+   "name": "Komo Shoreline Cave",
+   "name_zh": "科摩海岸洞穴\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -3831.136,
+   "y": 486.933,
+   "z": 7.714
+  },
+  {
+   "id": "Well_0044",
+   "name": "Snowfield Stable Well",
+   "name_zh": "雪地稳定井",
+   "type": "well",
+   "layer": "surface",
+   "x": 2586,
+   "y": -1679.566,
+   "z": 220.5
+  },
+  {
+   "id": "Well_0045",
+   "name": "Gerudo Canyon Well",
+   "name_zh": "格鲁朵峡谷水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2233,
+   "y": -2820,
+   "z": 15.464
+  },
+  {
+   "id": "Well_0046",
+   "name": "Riverside Stable Well",
+   "name_zh": "河畔稳定井",
+   "type": "well",
+   "layer": "surface",
+   "x": -1126.331,
+   "y": 365.402,
+   "z": -4.194
+  },
+  {
+   "id": "Well_0047",
+   "name": "Wetland Stable Well",
+   "name_zh": "湿地稳固井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -195.319,
+   "y": 884.597,
+   "z": 11.856
+  },
+  {
+   "id": "Well_0047B",
+   "name": "Wetland Stable South Well",
+   "name_zh": "湿地稳定 南侧水井",
+   "type": "well",
+   "layer": "surface",
+   "x": -262.713,
+   "y": 858.035,
+   "z": 11.856
+  },
+  {
+   "id": "Well_0048",
+   "name": "Dueling Peaks Stable Well",
+   "name_zh": "斗峰谷马厩水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -1949.73,
+   "y": 1794.704,
+   "z": -3.636
+  },
+  {
+   "id": "Well_0049",
+   "name": "Hateno Village North Well",
+   "name_zh": "八天堂村 北泉井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2029.529,
+   "y": 3421.88,
+   "z": 123.904
+  },
+  {
+   "id": "Well_0049B",
+   "name": "Hateno Village West Well",
+   "name_zh": "八天村西池\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2050.473,
+   "y": 3356.756,
+   "z": 103.957
+  },
+  {
+   "id": "Well_0049C",
+   "name": "Hateno Village East Well",
+   "name_zh": "畑乃村东井",
+   "type": "well",
+   "layer": "surface",
+   "x": -2152.45,
+   "y": 3514.478,
+   "z": 114.932
+  },
+  {
+   "id": "Well_0049D",
+   "name": "Hateno Village South Well",
+   "name_zh": "畑罗村南水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -2211.729,
+   "y": 3384.515,
+   "z": 121.884
+  },
+  {
+   "id": "Well_0049E",
+   "name": "Zelda's Secret Well",
+   "name_zh": "塞尔达秘密泉",
+   "type": "well",
+   "layer": "surface",
+   "x": -2300.911,
+   "y": 3301.478,
+   "z": 116.478
+  },
+  {
+   "id": "Well_0050",
+   "name": "New Serenne Stable Well",
+   "name_zh": "新型静稳水井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 700.063,
+   "y": -1357.184,
+   "z": 61.569
+  },
+  {
+   "id": "Well_0051",
+   "name": "Kakariko Village Well",
+   "name_zh": "卡卡里科村的水井",
+   "type": "well",
+   "layer": "surface",
+   "x": -1043.556,
+   "y": 1875.014,
+   "z": 109.516
+  },
+  {
+   "id": "Well_0052",
+   "name": "Woodland Stable Well",
+   "name_zh": "森林马厩水井",
+   "type": "well",
+   "layer": "surface",
+   "x": 1154.046,
+   "y": 1092.674,
+   "z": 8
+  },
+  {
+   "id": "Well_0053",
+   "name": "Lookout Landing Well",
+   "name_zh": "瞭望登陆点\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 134.925,
+   "y": -212.023,
+   "z": 4.485
+  },
+  {
+   "id": "Well_0054",
+   "name": "Foothill Stable Well",
+   "name_zh": " Foothill 农场水井",
+   "type": "well",
+   "layer": "surface",
+   "x": 1169.059,
+   "y": 2617.932,
+   "z": 134
+  },
+  {
+   "id": "Well_0055",
+   "name": "Construction Site Well",
+   "name_zh": "施工现场井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 1587.556,
+   "y": 3719.832,
+   "z": 77.104
+  },
+  {
+   "id": "Well_0056",
+   "name": "South Akkala Stable Well",
+   "name_zh": "南阿卡拉马厩井",
+   "type": "well",
+   "layer": "surface",
+   "x": 1715.5,
+   "y": 3195,
+   "z": 187.268
+  },
+  {
+   "id": "Well_0057",
+   "name": "East Akkala Stable Well",
+   "name_zh": "东阿卡拉谷马厩井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": 2780.07,
+   "y": 4232.868,
+   "z": 111.973
+  },
+  {
+   "id": "Well_0058",
+   "name": "Haran Lakefront Well",
+   "name_zh": "哈兰湖畔的井\n",
+   "type": "well",
+   "layer": "surface",
+   "x": -3387,
+   "y": 394.5,
+   "z": 32.5
+  },
+  {
+   "id": "Well_0059",
+   "name": "Tabantha Bridge Stable Well",
+   "name_zh": "塔班塔桥马厩 水井",
+   "type": "well",
+   "layer": "surface",
+   "x": 531.957,
+   "y": -2958.587,
+   "z": 155.456
+  }
+ ],
+ "towers": [
+  {
+   "id": "Tower01",
+   "name": "Lookout Landing Skyview Tower",
+   "name_zh": "监视堡垒 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 142.85,
+   "y": -298.85,
+   "z": 18.441
+  },
+  {
+   "id": "Tower02",
+   "name": "Lindor's Brow Skyview Tower",
+   "name_zh": "拉布拉山 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 1245.305,
+   "y": -1909.588,
+   "z": 290.206
+  },
+  {
+   "id": "Tower03",
+   "name": "Pikida Stonegrove Skyview Tower",
+   "name_zh": "茨茨齐齐雪原 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 3062.495,
+   "y": -2311.495,
+   "z": 436.5
+  },
+  {
+   "id": "Tower04",
+   "name": "Eldin Canyon Skyview Tower",
+   "name_zh": "奥尔汀峡谷 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 1190.82,
+   "y": 1641.805,
+   "z": 218.918
+  },
+  {
+   "id": "Tower05",
+   "name": "Ulri Mountain Skyview Tower",
+   "name_zh": "乌尔利山 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 2026,
+   "y": 3499,
+   "z": 181.359
+  },
+  {
+   "id": "Tower06",
+   "name": "Sahasra Slope Skyview Tower",
+   "name_zh": "撒哈斯拉平原 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -1177.858,
+   "y": 1341.109,
+   "z": 159.756
+  },
+  {
+   "id": "Tower07",
+   "name": "Upland Zorana Skyview Tower",
+   "name_zh": "卓拉台地 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 581.192,
+   "y": 2866.062,
+   "z": 372.831
+  },
+  {
+   "id": "Tower08",
+   "name": "Hyrule Field Skyview Tower",
+   "name_zh": "海拉鲁平原 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -1019.228,
+   "y": -761.277,
+   "z": 57.916
+  },
+  {
+   "id": "Tower09",
+   "name": "Gerudo Canyon Skyview Tower",
+   "name_zh": "格鲁德峡谷 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -2182.764,
+   "y": -2438.851,
+   "z": 300.119
+  },
+  {
+   "id": "Tower10",
+   "name": "Gerudo Highlands Skyview Tower",
+   "name_zh": "格鲁德高地 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -1305.596,
+   "y": -3960.877,
+   "z": 415.869
+  },
+  {
+   "id": "Tower11",
+   "name": "Rabella Wetlands Skyview Tower",
+   "name_zh": "拉贝拉湿地带 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -2754.891,
+   "y": 2420,
+   "z": 215.5
+  },
+  {
+   "id": "Tower12",
+   "name": "Thyphlo Ruins Skyview Tower",
+   "name_zh": "德依布朗遗迹 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 3141.648,
+   "y": 343.675,
+   "z": 173.062
+  },
+  {
+   "id": "Tower13",
+   "name": "Popla Foothills Skyview Tower",
+   "name_zh": "泡泡拉高地 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -2126.876,
+   "y": 604.839,
+   "z": 91.833
+  },
+  {
+   "id": "Tower14",
+   "name": "Mount Lanayru Skyview Tower",
+   "name_zh": "拉聂尔山 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": -1314.911,
+   "y": 3847.638,
+   "z": 532.308
+  },
+  {
+   "id": "Tower15",
+   "name": "Rospro Pass Skyview Tower",
+   "name_zh": "卡尔加岭 鸟望台",
+   "type": "tower",
+   "layer": "surface",
+   "x": 2346.404,
+   "y": -3679.585,
+   "z": 226.239
+  }
+ ]
+}
