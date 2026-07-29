@@ -23,10 +23,8 @@
 ## 目录结构
 
 ```
-site/
+docs/
 ├── index.html          # 入口页面
-├── LICENSE             # MIT 许可证（仅覆盖本仓库中的原创代码）
-├── README.md           # 本文件
 ├── css/
 │   └── style.css       # 全局样式
 ├── js/
@@ -56,7 +54,7 @@ site/
 
 站点通过 `fetch()` 加载 `data/*.json`，因此**必须通过 HTTP 服务访问**，直接用浏览器打开 `index.html`（`file://`）会因 CORS 限制而加载失败。
 
-任选一种方式启动本地静态服务器（在 `site/` 目录下执行）：
+任选一种方式启动本地静态服务器（在 `docs/` 目录下执行）：
 
 ```bash
 # 方式一：Python（最常用）
